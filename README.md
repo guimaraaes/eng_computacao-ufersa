@@ -4,24 +4,20 @@ Neste repositório encontram-se os principais projetos que desenvolvi durante mi
 
 ### base-lancamento-com-arco-para-foguete-pet
 
-Disponibilizado o arquivo em .pdf (publicação na revista Física na Escola) com instruções sobre o projeto e o código para o microcontrolador Atmega 328p.
+Base de lançamento para lançamento de foguete PET com variação angular do lançamento em arco e acionamento eletromecânico. Disponibilizado o arquivo em .pdf (publicação na revista Física na Escola) com instruções sobre o projeto e o código para o microcontrolador Atmega 328p.
 
 ### base-lancamento-com-reducao-torque-para-foguete
-
-Disponibilizado o arquivo em .pdf com instruções sobre o projeto (publicação no Anais do I POCKET - ECOP) e o código para o microcontrolador Atmega 328p.
+Base de lançamento para lançamento de foguete PET com variação angular do lançamento também em arco, mas com técnicas de redução de torque e novas novas implementações eletromecânicas com automação para acionamento e injeção do combustível no foguete. Disponibilizado o arquivo em .pdf com instruções sobre o projeto (publicação no Anais do I POCKET - ECOP) e o código para o microcontrolador Atmega 328p.
 
 ### codigo-linguagemC-centro-de-massa
-
-Disponibilizado o arquivo em .pdf com instruções sobre o projeto e o código desenvolvido em linguagem C para calcular o centro de massa de um foguete. 
+Código em linguagem C para calcular o centro de massa de um foguete com modelagem conforme a descrição no texto do artigo. Disponibilizado o arquivo em .pdf com instruções sobre o projeto e o código desenvolvido em linguagem C para calcular o centro de massa de um foguete. 
 
 ### ensino-movimento-curvilineo
-
-Disponibilizado o arquivo em .pdf (TCC na íntegra) com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos, o código para o microcontrolador Atmega 328p e os componentes 3D desenvolvidos com o inventor.
+Kit elaborado para bancada com impressão 3D, técnicas de carpintaria e corte a laser para o lançamento de foguetes com elásticos de escritório gerando a força propulsora. Além disso, implementou-se também automação com sensores e atuadores diversos. Disponibilizado o arquivo em .pdf (TCC na íntegra) com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos, o código para o microcontrolador Atmega 328p e os componentes 3D desenvolvidos com o inventor.
 
 ### multicronometro-baixo-custo
-
-Disponibilizado o arquivo em .pdf (apresentação no SNEF 2019) com instruções sobre o projeto, incluindo o código para o microcontrolador Atmega 328p no texto. Além disso, é disponibilizado o projeto 3D para a contução do multicronômetros.
+Multicronômetro de baixo custo com impressão 3D e automação com o sensor LRD e laser. Disponibilizado o arquivo em .pdf (apresentação no SNEF 2019) com instruções sobre o projeto, incluindo o código para o microcontrolador Atmega 328p no texto. Além disso, é disponibilizado o projeto 3D para a contução do multicronômetros.
 
 ### sistema-tolerante-a-falhas-hardware
 
-Disponibilizado o arquivo em .pdf com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos e o código para o microcontrolador Atmega 328p.
+Sistema com diferentes modelos de sensores de temperadores para simular um sistema de hardware tolerante a falhas. Disponibilizado o arquivo em .pdf com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos e o código para o microcontrolador Atmega 328p.
