@@ -1,3 +1,6 @@
+<img src="assets/IMG_20210124_112136.jpg"
+     alt="grid_eng_compu"  />
+
 # eng_computacao-ufersa
 
 Neste repositório encontram-se os principais projetos que desenvolvi durante minha graduação em engenharia de computação na UFERSA. Os projetos variam na utilização de programas com linguagem C ou C++, automação com o microcontrolador Atmega 328p, modelagem 3D com o Inventor da Autodesk.
