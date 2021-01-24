@@ -1,0 +1,646 @@
+code_ibge,up,city,Vivo,TIM,Claro,Oi,Algar,Nextel,total
+3500105,SP,Adamantina,X,X,X,-,-,-,3
+3500204,SP,Adolfo,X,X,X,-,-,-,3
+3500303,SP,Aguaí,X,X,X,X,-,-,4
+3500402,SP,Águas da Prata,X,X,X,-,-,-,3
+3500501,SP,Águas de Lindóia,X,X,X,-,-,-,3
+3500550,SP,Águas de Santa Bárbara,X,X,X,-,-,-,3
+3500600,SP,Águas de São Pedro,X,X,X,-,-,-,3
+3500709,SP,Agudos,X,X,X,-,-,-,3
+3500758,SP,Alambari,X,X,X,-,-,-,3
+3500808,SP,Alfredo Marcondes,X,X,X,-,-,-,3
+3500907,SP,Altair,X,X,X,-,-,-,3
+3501004,SP,Altinópolis,X,X,X,-,-,-,3
+3501103,SP,Alto Alegre,X,X,X,-,-,-,3
+3501152,SP,Alumínio,X,X,X,-,-,-,3
+3501202,SP,Álvares Florence,X,X,X,-,-,-,3
+3501301,SP,Álvares Machado,X,X,X,-,-,-,3
+3501400,SP,Álvaro de Carvalho,X,X,X,-,-,-,3
+3501509,SP,Alvinlândia,X,X,-,-,-,-,2
+3501608,SP,Americana,X,X,X,X,-,-,4
+3501707,SP,Américo Brasiliense,X,X,X,-,-,-,3
+3501806,SP,Américo de Campos,X,X,-,-,-,-,2
+3501905,SP,Amparo,X,X,X,-,-,-,3
+3502002,SP,Analândia,X,X,X,-,-,-,3
+3502101,SP,Andradina,X,X,X,-,-,-,3
+3502200,SP,Angatuba,X,X,X,-,-,-,3
+3502309,SP,Anhembi,X,X,X,-,-,-,3
+3502408,SP,Anhumas,X,X,X,-,-,-,3
+3502507,SP,Aparecida,X,X,X,-,-,-,3
+3502606,SP,Aparecida d'Oeste,X,X,X,-,-,-,3
+3502705,SP,Apiaí,X,X,X,-,-,-,3
+3502754,SP,Araçariguama,X,X,X,-,-,-,3
+3502804,SP,Araçatuba,X,X,X,X,-,-,4
+3502903,SP,Araçoiaba da Serra,X,X,X,-,-,-,3
+3503000,SP,Aramina,X,X,X,-,-,-,3
+3503109,SP,Arandu,X,X,X,-,-,-,3
+3503158,SP,Arapeí,X,X,-,-,-,-,2
+3503208,SP,Araraquara,X,X,X,X,-,-,4
+3503307,SP,Araras,X,X,X,X,-,-,4
+3503356,SP,Arco-Íris,X,X,-,-,-,-,2
+3503406,SP,Arealva,X,X,X,-,-,-,3
+3503505,SP,Areias,X,X,X,-,-,-,3
+3503604,SP,Areiópolis,X,X,X,-,-,-,3
+3503703,SP,Ariranha,X,X,X,-,-,-,3
+3503802,SP,Artur Nogueira,X,X,X,-,-,-,3
+3503901,SP,Arujá,X,X,X,-,-,-,3
+3503950,SP,Aspásia,X,X,-,-,-,-,2
+3504008,SP,Assis,X,X,X,-,-,-,3
+3504107,SP,Atibaia,X,X,X,X,-,-,4
+3504206,SP,Auriflama,X,X,X,-,-,-,3
+3504305,SP,Avaí,X,X,X,-,-,-,3
+3504404,SP,Avanhandava,X,X,X,-,-,-,3
+3504503,SP,Avaré,X,X,X,-,-,-,3
+3504602,SP,Bady Bassitt,X,X,X,-,-,-,3
+3504701,SP,Balbinos,X,X,-,-,-,-,2
+3504800,SP,Bálsamo,X,X,X,-,-,-,3
+3504909,SP,Bananal,X,X,X,-,-,-,3
+3505005,SP,Barão de Antonina,X,X,-,-,-,-,2
+3505104,SP,Barbosa,X,X,X,-,-,-,3
+3505203,SP,Bariri,X,X,X,-,-,-,3
+3505302,SP,Barra Bonita,X,X,X,-,-,-,3
+3505351,SP,Barra do Chapéu,X,X,X,-,-,-,3
+3505401,SP,Barra do Turvo,X,X,-,-,-,-,2
+3505500,SP,Barretos,X,X,X,X,-,-,4
+3505609,SP,Barrinha,X,X,X,-,-,-,3
+3505708,SP,Barueri,X,X,X,X,-,X,5
+3505807,SP,Bastos,X,X,X,-,-,-,3
+3505906,SP,Batatais,X,X,X,X,-,-,4
+3506003,SP,Bauru,X,X,X,X,-,-,4
+3506102,SP,Bebedouro,X,X,X,-,-,-,3
+3506201,SP,Bento de Abreu,X,X,X,-,-,-,3
+3506300,SP,Bernardino de Campos,X,X,-,-,-,-,2
+3506359,SP,Bertioga,X,X,X,-,-,-,3
+3506409,SP,Bilac,X,X,X,-,-,-,3
+3506508,SP,Birigui,X,X,X,X,-,-,4
+3506607,SP,Biritiba-Mirim,X,X,X,-,-,-,3
+3506706,SP,Boa Esperança do Sul,X,X,X,-,-,-,3
+3506805,SP,Bocaina,X,X,X,-,-,-,3
+3506904,SP,Bofete,X,X,X,-,-,-,3
+3507001,SP,Boituva,X,X,X,-,-,-,3
+3507100,SP,Bom Jesus dos Perdões,X,X,X,-,-,-,3
+3507159,SP,Bom Sucesso de Itararé,X,X,-,-,-,-,2
+3507209,SP,Borá,X,X,-,-,-,-,2
+3507308,SP,Boracéia,X,X,X,-,-,-,3
+3507407,SP,Borborema,X,X,X,-,-,-,3
+3507456,SP,Borebi,X,X,-,-,-,-,2
+3507506,SP,Botucatu,X,X,X,X,-,-,4
+3507605,SP,Bragança Paulista,X,X,X,X,-,-,4
+3507704,SP,Braúna,X,X,X,-,-,-,3
+3507753,SP,Brejo Alegre,X,X,-,-,-,-,2
+3507803,SP,Brodowski,X,X,X,-,-,-,3
+3507902,SP,Brotas,X,X,X,-,-,-,3
+3508009,SP,Buri,X,X,X,-,-,-,3
+3508108,SP,Buritama,X,X,X,-,-,-,3
+3508207,SP,Buritizal,X,X,X,-,-,-,3
+3508306,SP,Cabrália Paulista,X,X,X,-,-,-,3
+3508405,SP,Cabreúva,X,X,X,X,-,-,4
+3508504,SP,Caçapava,X,X,X,-,-,-,3
+3508603,SP,Cachoeira Paulista,X,X,X,-,-,-,3
+3508702,SP,Caconde,X,X,-,-,-,-,2
+3508801,SP,Cafelândia,X,X,X,-,-,-,3
+3508900,SP,Caiabu,X,X,X,-,-,-,3
+3509007,SP,Caieiras,X,X,X,-,-,-,3
+3509106,SP,Caiuá,X,X,X,-,-,-,3
+3509205,SP,Cajamar,X,X,X,-,-,-,3
+3509254,SP,Cajati,X,X,X,-,-,-,3
+3509304,SP,Cajobi,X,X,X,-,-,-,3
+3509403,SP,Cajuru,X,X,X,-,-,-,3
+3509452,SP,Campina do Monte Alegre,X,X,X,-,-,-,3
+3509502,SP,Campinas,X,X,X,X,-,X,5
+3509601,SP,Campo Limpo Paulista,X,X,X,-,-,-,3
+3509700,SP,Campos do Jordão,X,X,X,-,-,-,3
+3509809,SP,Campos Novos Paulista,X,X,X,-,-,-,3
+3509908,SP,Cananéia,X,X,X,-,-,-,3
+3509957,SP,Canas,X,X,X,-,-,-,3
+3510005,SP,Cândido Mota,X,X,X,-,-,-,3
+3510104,SP,Cândido Rodrigues,X,X,-,-,-,-,2
+3510153,SP,Canitar,X,X,X,-,-,-,3
+3510203,SP,Capão Bonito,X,X,X,-,-,-,3
+3510302,SP,Capela do Alto,X,X,X,-,-,-,3
+3510401,SP,Capivari,X,X,X,-,-,-,3
+3510500,SP,Caraguatatuba,X,X,X,X,-,-,4
+3510609,SP,Carapicuíba,X,X,X,X,-,X,5
+3510708,SP,Cardoso,X,X,X,-,-,-,3
+3510807,SP,Casa Branca,X,X,X,-,-,-,3
+3510906,SP,Cássia dos Coqueiros,X,X,-,-,-,-,2
+3511003,SP,Castilho,X,X,X,-,-,-,3
+3511102,SP,Catanduva,X,X,X,X,-,-,4
+3511201,SP,Catiguá,X,X,X,-,-,-,3
+3511300,SP,Cedral,X,X,X,-,-,-,3
+3511409,SP,Cerqueira César,X,X,X,-,-,-,3
+3511508,SP,Cerquilho,X,X,X,-,-,-,3
+3511607,SP,Cesário Lange,X,X,X,-,-,-,3
+3511706,SP,Charqueada,X,X,X,-,-,-,3
+3557204,SP,Chavantes,X,X,-,-,-,-,2
+3511904,SP,Clementina,X,X,X,-,-,-,3
+3512001,SP,Colina,X,X,X,-,-,-,3
+3512100,SP,Colômbia,X,X,-,-,-,-,2
+3512209,SP,Conchal,X,X,X,-,-,-,3
+3512308,SP,Conchas,X,X,X,-,-,-,3
+3512407,SP,Cordeirópolis,X,X,X,-,-,-,3
+3512506,SP,Coroados,X,X,X,-,-,-,3
+3512605,SP,Coronel Macedo,X,X,X,-,-,-,3
+3512704,SP,Corumbataí,X,X,X,-,-,-,3
+3512803,SP,Cosmópolis,X,X,X,-,-,-,3
+3512902,SP,Cosmorama,X,X,X,-,-,-,3
+3513009,SP,Cotia,X,X,X,X,-,-,4
+3513108,SP,Cravinhos,X,X,X,-,-,-,3
+3513207,SP,Cristais Paulista,X,X,X,-,-,-,3
+3513306,SP,Cruzália,X,X,-,-,-,-,2
+3513405,SP,Cruzeiro,X,X,X,X,-,-,4
+3513504,SP,Cubatão,X,X,X,X,-,-,4
+3513603,SP,Cunha,X,X,X,-,-,-,3
+3513702,SP,Descalvado,X,X,X,X,-,-,4
+3513801,SP,Diadema,X,X,X,X,-,X,5
+3513850,SP,Dirce Reis,X,X,-,-,-,-,2
+3513900,SP,Divinolândia,X,X,-,-,-,-,2
+3514007,SP,Dobrada,X,X,X,-,-,-,3
+3514106,SP,Dois Córregos,X,X,X,-,-,-,3
+3514205,SP,Dolcinópolis,X,X,-,-,-,-,2
+3514304,SP,Dourado,X,X,X,-,-,-,3
+3514403,SP,Dracena,X,X,X,-,-,-,3
+3514502,SP,Duartina,X,X,X,-,-,-,3
+3514601,SP,Dumont,X,X,X,-,-,-,3
+3514700,SP,Echaporã,X,X,X,-,-,-,3
+3514809,SP,Eldorado,X,X,X,-,-,-,3
+3514908,SP,Elias Fausto,X,X,X,-,-,-,3
+3514924,SP,Elisiário,X,X,-,-,-,-,2
+3514957,SP,Embaúba,X,X,-,-,-,-,2
+3515004,SP,Embu das Artes,X,X,X,X,-,X,5
+3515103,SP,Embu-Guaçu,X,X,X,-,-,-,3
+3515129,SP,Emilianópolis,X,X,X,-,-,-,3
+3515152,SP,Engenheiro Coelho,X,X,X,-,-,-,3
+3515186,SP,Espírito Santo do Pinhal,X,X,X,-,-,-,3
+3515194,SP,Espírito Santo do Turvo,X,X,-,-,-,-,2
+3557303,SP,Estiva Gerbi,X,X,X,-,-,-,3
+3515301,SP,Estrela do Norte,X,X,X,-,-,-,3
+3515202,SP,Estrela d'Oeste,X,X,X,-,-,-,3
+3515350,SP,Euclides da Cunha Paulista,X,X,X,-,-,-,3
+3515400,SP,Fartura,X,X,X,-,-,-,3
+3515608,SP,Fernando Prestes,X,X,X,-,-,-,3
+3515509,SP,Fernandópolis,X,X,X,X,-,-,4
+3515657,SP,Fernão,X,X,X,-,-,-,3
+3515707,SP,Ferraz de Vasconcelos,X,X,X,X,-,-,4
+3515806,SP,Flora Rica,X,X,-,-,-,-,2
+3515905,SP,Floreal,X,X,X,-,-,-,3
+3516002,SP,Flórida Paulista,X,X,X,-,-,-,3
+3516101,SP,Florínia,X,X,-,-,-,-,2
+3516200,SP,Franca,X,X,X,X,X,-,5
+3516309,SP,Francisco Morato,X,X,X,X,-,-,4
+3516408,SP,Franco da Rocha,X,X,X,X,-,-,4
+3516507,SP,Gabriel Monteiro,X,X,-,-,-,-,2
+3516606,SP,Gália,X,X,X,-,-,-,3
+3516705,SP,Garça,X,X,X,-,-,-,3
+3516804,SP,Gastão Vidigal,X,X,X,-,-,-,3
+3516853,SP,Gavião Peixoto,X,X,X,-,-,-,3
+3516903,SP,General Salgado,X,X,X,-,-,-,3
+3517000,SP,Getulina,X,X,X,-,-,-,3
+3517109,SP,Glicério,X,X,X,-,-,-,3
+3517208,SP,Guaiçara,X,X,X,-,-,-,3
+3517307,SP,Guaimbê,X,X,X,-,-,-,3
+3517406,SP,Guaíra,X,X,X,X,X,-,5
+3517505,SP,Guapiaçu,X,X,X,-,-,-,3
+3517604,SP,Guapiara,X,X,X,-,-,-,3
+3517703,SP,Guará,X,X,X,-,X,-,4
+3517802,SP,Guaraçaí,X,X,X,-,-,-,3
+3517901,SP,Guaraci,X,X,X,-,-,-,3
+3518008,SP,Guarani d'Oeste,X,X,X,-,-,-,3
+3518107,SP,Guarantã,X,X,X,-,-,-,3
+3518206,SP,Guararapes,X,X,X,X,-,-,4
+3518305,SP,Guararema,X,X,X,-,-,-,3
+3518404,SP,Guaratinguetá,X,X,X,X,-,-,4
+3518503,SP,Guareí,X,X,X,-,-,-,3
+3518602,SP,Guariba,X,X,X,-,-,-,3
+3518701,SP,Guarujá,X,X,X,X,-,X,5
+3518800,SP,Guarulhos,X,X,X,X,-,X,5
+3518859,SP,Guatapará,X,X,X,-,-,-,3
+3518909,SP,Guzolândia,X,X,X,-,-,-,3
+3519006,SP,Herculândia,X,X,-,-,-,-,2
+3519055,SP,Holambra,X,X,X,-,-,-,3
+3519071,SP,Hortolândia,X,X,X,X,-,-,4
+3519105,SP,Iacanga,X,X,X,-,-,-,3
+3519204,SP,Iacri,X,X,X,-,-,-,3
+3519253,SP,Iaras,X,X,X,-,-,-,3
+3519303,SP,Ibaté,X,X,X,X,-,-,4
+3519402,SP,Ibirá,X,X,X,-,-,-,3
+3519501,SP,Ibirarema,X,X,X,-,-,-,3
+3519600,SP,Ibitinga,X,X,X,-,-,-,3
+3519709,SP,Ibiúna,X,X,X,-,-,-,3
+3519808,SP,Icém,X,X,X,-,-,-,3
+3519907,SP,Iepê,X,X,X,-,-,-,3
+3520004,SP,Igaraçu do Tietê,X,X,X,-,-,-,3
+3520103,SP,Igarapava,X,X,X,-,-,-,3
+3520202,SP,Igaratá,X,X,X,-,-,-,3
+3520301,SP,Iguape,X,X,X,-,-,-,3
+3520426,SP,Ilha Comprida,X,X,-,-,-,-,2
+3520442,SP,Ilha Solteira,X,X,X,-,-,-,3
+3520400,SP,Ilhabela,X,X,X,-,-,-,3
+3520509,SP,Indaiatuba,X,X,X,X,-,-,4
+3520608,SP,Indiana,X,X,X,-,-,-,3
+3520707,SP,Indiaporã,X,X,X,-,-,-,3
+3520806,SP,Inúbia Paulista,X,X,X,-,-,-,3
+3520905,SP,Ipaussu,X,X,X,-,-,-,3
+3521002,SP,Iperó,X,X,X,-,-,-,3
+3521101,SP,Ipeúna,X,X,X,-,-,-,3
+3521150,SP,Ipiguá,X,X,X,-,-,-,3
+3521200,SP,Iporanga,X,X,-,-,-,-,2
+3521309,SP,Ipuã,X,X,X,-,-,-,3
+3521408,SP,Iracemápolis,X,X,X,-,-,-,3
+3521507,SP,Irapuã,X,X,X,-,-,-,3
+3521606,SP,Irapuru,X,X,X,-,-,-,3
+3521705,SP,Itaberá,X,X,X,-,-,-,3
+3521804,SP,Itaí,X,X,X,-,-,-,3
+3521903,SP,Itajobi,X,X,X,-,-,-,3
+3522000,SP,Itaju,X,X,-,-,-,-,2
+3522109,SP,Itanhaém,X,X,X,-,-,-,3
+3522158,SP,Itaóca,X,X,-,-,-,-,2
+3522208,SP,Itapecerica da Serra,X,X,X,X,-,-,4
+3522307,SP,Itapetininga,X,X,X,X,-,-,4
+3522406,SP,Itapeva,X,X,X,-,-,-,3
+3522505,SP,Itapevi,X,X,X,X,-,-,4
+3522604,SP,Itapira,X,X,X,-,-,-,3
+3522653,SP,Itapirapuã Paulista,X,X,-,-,-,-,2
+3522703,SP,Itápolis,X,X,X,-,-,-,3
+3522802,SP,Itaporanga,X,X,X,-,-,-,3
+3522901,SP,Itapuí,X,X,X,-,-,-,3
+3523008,SP,Itapura,X,X,X,-,-,-,3
+3523107,SP,Itaquaquecetuba,X,X,X,X,-,-,4
+3523206,SP,Itararé,X,X,X,-,-,-,3
+3523305,SP,Itariri,X,X,X,-,-,-,3
+3523404,SP,Itatiba,X,X,X,X,-,-,4
+3523503,SP,Itatinga,X,X,X,-,-,-,3
+3523602,SP,Itirapina,X,X,X,-,-,-,3
+3523701,SP,Itirapuã,X,X,X,-,-,-,3
+3523800,SP,Itobi,X,X,X,-,-,-,3
+3523909,SP,Itu,X,X,X,X,-,-,4
+3524006,SP,Itupeva,X,X,X,X,-,-,4
+3524105,SP,Ituverava,X,X,X,X,X,-,5
+3524204,SP,Jaborandi,X,X,X,-,-,-,3
+3524303,SP,Jaboticabal,X,X,X,-,-,-,3
+3524402,SP,Jacareí,X,X,X,X,-,-,4
+3524501,SP,Jaci,X,X,X,-,-,-,3
+3524600,SP,Jacupiranga,X,X,X,-,-,-,3
+3524709,SP,Jaguariúna,X,X,X,-,-,-,3
+3524808,SP,Jales,X,X,X,X,-,-,4
+3524907,SP,Jambeiro,X,X,X,-,-,-,3
+3525003,SP,Jandira,X,X,X,X,-,X,5
+3525102,SP,Jardinópolis,X,X,X,X,-,-,4
+3525201,SP,Jarinu,X,X,X,-,-,-,3
+3525300,SP,Jaú,X,X,X,X,-,-,4
+3525409,SP,Jeriquara,X,X,X,-,-,-,3
+3525508,SP,Joanópolis,X,X,X,-,-,-,3
+3525607,SP,João Ramalho,X,X,X,-,-,-,3
+3525706,SP,José Bonifácio,X,X,X,X,-,-,4
+3525805,SP,Júlio Mesquita,X,X,X,-,-,-,3
+3525854,SP,Jumirim,X,X,X,-,-,-,3
+3525904,SP,Jundiaí,X,X,X,X,-,-,4
+3526001,SP,Junqueirópolis,X,X,X,-,-,-,3
+3526100,SP,Juquiá,X,X,X,-,-,-,3
+3526209,SP,Juquitiba,X,X,X,-,-,-,3
+3526308,SP,Lagoinha,X,X,-,-,-,-,2
+3526407,SP,Laranjal Paulista,X,X,X,-,-,-,3
+3526506,SP,Lavínia,X,X,X,-,-,-,3
+3526605,SP,Lavrinhas,X,X,X,-,-,-,3
+3526704,SP,Leme,X,X,X,-,-,-,3
+3526803,SP,Lençóis Paulista,X,X,X,-,-,-,3
+3526902,SP,Limeira,X,X,X,X,-,-,4
+3527009,SP,Lindóia,X,X,X,-,-,-,3
+3527108,SP,Lins,X,X,X,-,-,-,3
+3527207,SP,Lorena,X,X,X,-,-,-,3
+3527256,SP,Lourdes,X,X,-,-,-,-,2
+3527306,SP,Louveira,X,X,X,-,-,-,3
+3527405,SP,Lucélia,X,X,X,-,-,-,3
+3527504,SP,Lucianópolis,X,X,-,-,-,-,2
+3527603,SP,Luís Antônio,X,X,X,-,-,-,3
+3527702,SP,Luiziânia,X,X,X,-,-,-,3
+3527801,SP,Lupércio,X,X,X,-,-,-,3
+3527900,SP,Lutécia,X,X,-,-,-,-,2
+3528007,SP,Macatuba,X,X,X,-,-,-,3
+3528106,SP,Macaubal,X,X,X,-,-,-,3
+3528205,SP,Macedônia,X,X,-,-,-,-,2
+3528304,SP,Magda,X,X,X,-,-,-,3
+3528403,SP,Mairinque,X,X,X,-,-,-,3
+3528502,SP,Mairiporã,X,X,X,-,-,-,3
+3528601,SP,Manduri,X,X,X,-,-,-,3
+3528700,SP,Marabá Paulista,X,X,X,-,-,-,3
+3528809,SP,Maracaí,X,X,X,-,-,-,3
+3528858,SP,Marapoama,X,X,-,-,-,-,2
+3528908,SP,Mariápolis,X,X,X,-,-,-,3
+3529005,SP,Marília,X,X,X,X,-,-,4
+3529104,SP,Marinópolis,X,X,-,-,-,-,2
+3529203,SP,Martinópolis,X,X,X,-,-,-,3
+3529302,SP,Matão,X,X,X,-,-,-,3
+3529401,SP,Mauá,X,X,X,X,-,X,5
+3529500,SP,Mendonça,X,X,X,-,-,-,3
+3529609,SP,Meridiano,X,X,X,-,-,-,3
+3529658,SP,Mesópolis,X,X,-,-,-,-,2
+3529708,SP,Miguelópolis,X,X,X,-,-,-,3
+3529807,SP,Mineiros do Tietê,X,X,X,-,-,-,3
+3530003,SP,Mira Estrela,X,X,-,-,-,-,2
+3529906,SP,Miracatu,X,X,X,-,-,-,3
+3530102,SP,Mirandópolis,X,X,X,-,-,-,3
+3530201,SP,Mirante do Paranapanema,X,X,X,-,-,-,3
+3530300,SP,Mirassol,X,X,X,-,-,-,3
+3530409,SP,Mirassolândia,X,X,X,-,-,-,3
+3530508,SP,Mococa,X,X,X,X,-,-,4
+3530607,SP,Mogi das Cruzes,X,X,X,X,-,X,5
+3530706,SP,Mogi Guaçu,X,X,X,X,-,-,4
+3530805,SP,Mogi Mirim,X,X,X,-,-,-,3
+3530904,SP,Mombuca,X,X,X,-,-,-,3
+3531001,SP,Monções,X,X,-,-,-,-,2
+3531100,SP,Mongaguá,X,X,X,-,-,-,3
+3531209,SP,Monte Alegre do Sul,X,X,X,-,-,-,3
+3531308,SP,Monte Alto,X,X,X,-,-,-,3
+3531407,SP,Monte Aprazível,X,X,X,-,-,-,3
+3531506,SP,Monte Azul Paulista,X,X,X,-,-,-,3
+3531605,SP,Monte Castelo,X,X,X,-,-,-,3
+3531803,SP,Monte Mor,X,X,X,-,-,-,3
+3531704,SP,Monteiro Lobato,X,X,X,-,-,-,3
+3531902,SP,Morro Agudo,X,X,X,-,-,-,3
+3532009,SP,Morungaba,X,X,X,-,-,-,3
+3532058,SP,Motuca,X,X,X,-,-,-,3
+3532108,SP,Murutinga do Sul,X,X,X,-,-,-,3
+3532157,SP,Nantes,X,X,-,-,-,-,2
+3532207,SP,Narandiba,X,X,-,-,-,-,2
+3532306,SP,Natividade da Serra,X,X,X,-,-,-,3
+3532405,SP,Nazaré Paulista,X,X,X,-,-,-,3
+3532504,SP,Neves Paulista,X,X,X,-,-,-,3
+3532603,SP,Nhandeara,X,X,X,-,-,-,3
+3532702,SP,Nipoã,X,X,X,-,-,-,3
+3532801,SP,Nova Aliança,X,X,X,-,-,-,3
+3532827,SP,Nova Campina,X,X,X,-,-,-,3
+3532843,SP,Nova Canaã Paulista,X,X,-,-,-,-,2
+3532868,SP,Nova Castilho,X,X,-,-,-,-,2
+3532900,SP,Nova Europa,X,X,X,-,-,-,3
+3533007,SP,Nova Granada,X,X,X,-,-,-,3
+3533106,SP,Nova Guataporanga,X,X,-,-,-,-,2
+3533205,SP,Nova Independência,X,X,-,-,-,-,2
+3533304,SP,Nova Luzitânia,X,X,X,-,-,-,3
+3533403,SP,Nova Odessa,X,X,X,-,-,-,3
+3533254,SP,Novais,X,X,X,-,-,-,3
+3533502,SP,Novo Horizonte,X,X,X,-,-,-,3
+3533601,SP,Nuporanga,X,X,X,-,X,-,4
+3533700,SP,Ocauçu,X,X,X,-,-,-,3
+3533809,SP,Óleo,X,X,-,-,-,-,2
+3533908,SP,Olímpia,X,X,X,-,-,-,3
+3534005,SP,Onda Verde,X,X,X,-,-,-,3
+3534104,SP,Oriente,X,X,X,-,-,-,3
+3534203,SP,Orindiúva,X,X,X,-,-,-,3
+3534302,SP,Orlândia,X,X,X,X,X,-,5
+3534401,SP,Osasco,X,X,X,X,-,X,5
+3534500,SP,Oscar Bressane,X,X,-,-,-,-,2
+3534609,SP,Osvaldo Cruz,X,X,X,X,-,-,4
+3534708,SP,Ourinhos,X,X,X,X,-,-,4
+3534807,SP,Ouro Verde,X,X,X,-,-,-,3
+3534757,SP,Ouroeste,X,X,X,-,-,-,3
+3534906,SP,Pacaembu,X,X,X,-,-,-,3
+3535002,SP,Palestina,X,X,X,-,-,-,3
+3535101,SP,Palmares Paulista,X,X,X,-,-,-,3
+3535200,SP,Palmeira d'Oeste,X,X,X,-,-,-,3
+3535309,SP,Palmital,X,X,X,-,-,-,3
+3535408,SP,Panorama,X,X,X,-,-,-,3
+3535507,SP,Paraguaçu Paulista,X,X,X,-,-,-,3
+3535606,SP,Paraibuna,X,X,X,-,-,-,3
+3535705,SP,Paraíso,X,X,-,-,-,-,2
+3535804,SP,Paranapanema,X,X,X,-,-,-,3
+3535903,SP,Paranapuã,X,X,X,-,-,-,3
+3536000,SP,Parapuã,X,X,X,-,-,-,3
+3536109,SP,Pardinho,X,X,-,-,-,-,2
+3536208,SP,Pariquera-Açu,X,X,X,-,-,-,3
+3536257,SP,Parisi,X,X,-,-,-,-,2
+3536307,SP,Patrocínio Paulista,X,X,X,-,-,-,3
+3536406,SP,Paulicéia,X,X,X,-,-,-,3
+3536505,SP,Paulínia,X,X,X,-,-,-,3
+3536570,SP,Paulistânia,X,X,-,-,-,-,2
+3536604,SP,Paulo de Faria,X,X,X,-,-,-,3
+3536703,SP,Pederneiras,X,X,X,-,-,-,3
+3536802,SP,Pedra Bela,X,X,X,-,-,-,3
+3536901,SP,Pedranópolis,X,X,-,-,-,-,2
+3537008,SP,Pedregulho,X,X,X,-,-,-,3
+3537107,SP,Pedreira,X,X,X,-,-,-,3
+3537156,SP,Pedrinhas Paulista,X,X,X,-,-,-,3
+3537206,SP,Pedro de Toledo,X,X,X,-,-,-,3
+3537305,SP,Penápolis,X,X,X,-,-,-,3
+3537404,SP,Pereira Barreto,X,X,X,-,-,-,3
+3537503,SP,Pereiras,X,X,X,-,-,-,3
+3537602,SP,Peruíbe,X,X,X,-,-,-,3
+3537701,SP,Piacatu,X,X,X,-,-,-,3
+3537800,SP,Piedade,X,X,X,-,-,-,3
+3537909,SP,Pilar do Sul,X,X,-,-,-,-,2
+3538006,SP,Pindamonhangaba,X,X,X,X,-,-,4
+3538105,SP,Pindorama,X,X,X,-,-,-,3
+3538204,SP,Pinhalzinho,X,X,X,-,-,-,3
+3538303,SP,Piquerobi,X,X,X,-,-,-,3
+3538501,SP,Piquete,X,X,X,-,-,-,3
+3538600,SP,Piracaia,X,X,X,-,-,-,3
+3538709,SP,Piracicaba,X,X,X,X,-,-,4
+3538808,SP,Piraju,X,X,-,-,-,-,2
+3538907,SP,Pirajuí,X,X,X,-,-,-,3
+3539004,SP,Pirangi,X,X,X,-,-,-,3
+3539103,SP,Pirapora do Bom Jesus,X,X,X,-,-,-,3
+3539202,SP,Pirapozinho,X,X,X,-,-,-,3
+3539301,SP,Pirassununga,X,X,X,X,-,-,4
+3539400,SP,Piratininga,X,X,X,-,-,-,3
+3539509,SP,Pitangueiras,X,X,X,X,-,-,4
+3539608,SP,Planalto,X,X,X,-,-,-,3
+3539707,SP,Platina,X,X,-,-,-,-,2
+3539806,SP,Poá,X,X,X,X,-,-,4
+3539905,SP,Poloni,X,X,X,-,-,-,3
+3540002,SP,Pompéia,X,X,X,-,-,-,3
+3540101,SP,Pongaí,X,X,X,-,-,-,3
+3540200,SP,Pontal,X,X,X,X,-,-,4
+3540259,SP,Pontalinda,X,X,X,-,-,-,3
+3540309,SP,Pontes Gestal,X,X,-,-,-,-,2
+3540408,SP,Populina,X,X,X,-,-,-,3
+3540507,SP,Porangaba,X,X,X,-,-,-,3
+3540606,SP,Porto Feliz,X,X,X,-,-,-,3
+3540705,SP,Porto Ferreira,X,X,X,X,-,-,4
+3540754,SP,Potim,X,X,X,-,-,-,3
+3540804,SP,Potirendaba,X,X,X,-,-,-,3
+3540853,SP,Pracinha,X,X,-,-,-,-,2
+3540903,SP,Pradópolis,X,X,X,-,-,-,3
+3541000,SP,Praia Grande,X,X,X,X,-,X,5
+3541059,SP,Pratânia,X,X,X,-,-,-,3
+3541109,SP,Presidente Alves,X,X,X,-,-,-,3
+3541208,SP,Presidente Bernardes,X,X,X,-,-,-,3
+3541307,SP,Presidente Epitácio,X,X,X,-,-,-,3
+3541406,SP,Presidente Prudente,X,X,X,X,-,-,4
+3541505,SP,Presidente Venceslau,X,X,X,-,-,-,3
+3541604,SP,Promissão,X,X,X,-,-,-,3
+3541653,SP,Quadra,X,X,X,-,-,-,3
+3541703,SP,Quatá,X,X,X,-,-,-,3
+3541802,SP,Queiroz,X,X,-,-,-,-,2
+3541901,SP,Queluz,X,X,X,-,-,-,3
+3542008,SP,Quintana,X,X,X,-,-,-,3
+3542107,SP,Rafard,X,X,X,-,-,-,3
+3542206,SP,Rancharia,X,X,X,-,-,-,3
+3542305,SP,Redenção da Serra,X,X,X,-,-,-,3
+3542404,SP,Regente Feijó,X,X,X,-,-,-,3
+3542503,SP,Reginópolis,X,X,X,-,-,-,3
+3542602,SP,Registro,X,X,X,-,-,-,3
+3542701,SP,Restinga,X,X,X,-,-,-,3
+3542800,SP,Ribeira,X,X,-,-,-,-,2
+3542909,SP,Ribeirão Bonito,X,X,X,-,-,-,3
+3543006,SP,Ribeirão Branco,X,X,X,-,-,-,3
+3543105,SP,Ribeirão Corrente,X,X,X,-,-,-,3
+3543204,SP,Ribeirão do Sul,X,X,X,-,-,-,3
+3543238,SP,Ribeirão dos Índios,X,X,-,-,-,-,2
+3543253,SP,Ribeirão Grande,X,X,X,-,-,-,3
+3543303,SP,Ribeirão Pires,X,X,X,X,-,X,5
+3543402,SP,Ribeirão Preto,X,X,X,X,-,-,4
+3543600,SP,Rifaina,X,X,X,-,-,-,3
+3543709,SP,Rincão,X,X,X,-,-,-,3
+3543808,SP,Rinópolis,X,X,X,-,-,-,3
+3543907,SP,Rio Claro,X,X,X,X,-,-,4
+3544004,SP,Rio das Pedras,X,X,X,-,-,-,3
+3544103,SP,Rio Grande da Serra,X,X,X,X,-,-,4
+3544202,SP,Riolândia,X,X,X,-,-,-,3
+3543501,SP,Riversul,X,X,X,-,-,-,3
+3544251,SP,Rosana,X,X,X,-,-,-,3
+3544301,SP,Roseira,X,X,X,-,-,-,3
+3544400,SP,Rubiácea,X,X,-,-,-,-,2
+3544509,SP,Rubinéia,X,X,X,-,-,-,3
+3544608,SP,Sabino,X,X,X,-,-,-,3
+3544707,SP,Sagres,X,X,X,-,-,-,3
+3544806,SP,Sales,X,X,X,-,-,-,3
+3544905,SP,Sales Oliveira,X,X,X,-,X,-,4
+3545001,SP,Salesópolis,X,X,X,-,-,-,3
+3545100,SP,Salmourão,X,X,X,-,-,-,3
+3545159,SP,Saltinho,X,X,-,-,-,-,2
+3545209,SP,Salto,X,X,X,X,-,-,4
+3545308,SP,Salto de Pirapora,X,X,X,X,-,-,4
+3545407,SP,Salto Grande,X,X,X,-,-,-,3
+3545506,SP,Sandovalina,X,X,X,-,-,-,3
+3545605,SP,Santa Adélia,X,X,X,-,-,-,3
+3545704,SP,Santa Albertina,X,X,X,-,-,-,3
+3545803,SP,Santa Bárbara d'Oeste,X,X,X,X,-,-,4
+3546009,SP,Santa Branca,X,X,X,-,-,-,3
+3546108,SP,Santa Clara d'Oeste,X,X,-,-,-,-,2
+3546207,SP,Santa Cruz da Conceição,X,X,X,-,-,-,3
+3546256,SP,Santa Cruz da Esperança,X,X,X,-,-,-,3
+3546306,SP,Santa Cruz das Palmeiras,X,X,X,-,-,-,3
+3546405,SP,Santa Cruz do Rio Pardo,X,X,X,-,-,-,3
+3546504,SP,Santa Ernestina,X,X,X,-,-,-,3
+3546603,SP,Santa Fé do Sul,X,X,X,-,-,-,3
+3546702,SP,Santa Gertrudes,X,X,X,-,-,-,3
+3546801,SP,Santa Isabel,X,X,X,-,-,X,4
+3546900,SP,Santa Lúcia,X,X,X,-,-,-,3
+3547007,SP,Santa Maria da Serra,X,X,X,-,-,-,3
+3547106,SP,Santa Mercedes,X,X,-,-,-,-,2
+3547502,SP,Santa Rita do Passa Quatro,X,X,X,-,-,-,3
+3547403,SP,Santa Rita d'Oeste,X,X,-,-,-,-,2
+3547601,SP,Santa Rosa de Viterbo,X,X,X,-,-,-,3
+3547650,SP,Santa Salete,X,X,X,-,-,-,3
+3547205,SP,Santana da Ponte Pensa,X,X,X,-,-,-,3
+3547304,SP,Santana de Parnaíba,X,X,X,X,-,-,4
+3547700,SP,Santo Anastácio,X,X,X,-,-,-,3
+3547809,SP,Santo André,X,X,X,X,-,X,5
+3547908,SP,Santo Antônio da Alegria,X,X,X,-,-,-,3
+3548005,SP,Santo Antônio de Posse,X,X,X,-,-,-,3
+3548054,SP,Santo Antônio do Aracanguá,X,X,X,-,-,-,3
+3548104,SP,Santo Antônio do Jardim,X,X,X,-,-,-,3
+3548203,SP,Santo Antônio do Pinhal,X,X,X,-,-,-,3
+3548302,SP,Santo Expedito,X,X,X,-,-,-,3
+3548401,SP,Santópolis do Aguapeí,X,X,X,-,-,-,3
+3548500,SP,Santos,X,X,X,X,-,X,5
+3548609,SP,São Bento do Sapucaí,X,X,X,-,-,-,3
+3548708,SP,São Bernardo do Campo,X,X,X,X,-,X,5
+3548807,SP,São Caetano do Sul,X,X,X,X,-,X,5
+3548906,SP,São Carlos,X,X,X,X,-,-,4
+3549003,SP,São Francisco,X,X,-,-,-,-,2
+3549102,SP,São João da Boa Vista,X,X,X,-,-,-,3
+3549201,SP,São João das Duas Pontes,X,X,-,-,-,-,2
+3549250,SP,São João de Iracema,X,X,-,-,-,-,2
+3549300,SP,São João do Pau d'Alho,X,X,-,-,-,-,2
+3549409,SP,São Joaquim da Barra,X,X,X,X,X,-,5
+3549508,SP,São José da Bela Vista,X,X,X,-,-,-,3
+3549607,SP,São José do Barreiro,X,X,X,-,-,-,3
+3549706,SP,São José do Rio Pardo,X,X,X,X,-,-,4
+3549805,SP,São José do Rio Preto,X,X,X,X,-,-,4
+3549904,SP,São José dos Campos,X,X,X,X,-,X,5
+3549953,SP,São Lourenço da Serra,X,X,X,-,-,-,3
+3550001,SP,São Luís do Paraitinga,X,X,X,-,-,-,3
+3550100,SP,São Manuel,X,X,X,-,-,-,3
+3550209,SP,São Miguel Arcanjo,X,X,X,X,-,-,4
+3550308,SP,São Paulo,X,X,X,X,-,X,5
+3550407,SP,São Pedro,X,X,X,X,-,-,4
+3550506,SP,São Pedro do Turvo,X,X,X,-,-,-,3
+3550605,SP,São Roque,X,X,X,-,-,X,4
+3550704,SP,São Sebastião,X,X,X,-,-,-,3
+3550803,SP,São Sebastião da Grama,X,X,-,-,-,-,2
+3550902,SP,São Simão,X,X,X,-,-,-,3
+3551009,SP,São Vicente,X,X,X,X,-,X,5
+3551108,SP,Sarapuí,X,X,X,-,-,-,3
+3551207,SP,Sarutaiá,X,X,-,-,-,-,2
+3551306,SP,Sebastianópolis do Sul,X,X,-,-,-,-,2
+3551405,SP,Serra Azul,X,X,X,-,-,-,3
+3551603,SP,Serra Negra,X,X,X,-,-,-,3
+3551504,SP,Serrana,X,X,X,-,-,-,3
+3551702,SP,Sertãozinho,X,X,X,X,-,-,4
+3551801,SP,Sete Barras,X,X,X,-,-,-,3
+3551900,SP,Severínia,X,X,X,-,-,-,3
+3552007,SP,Silveiras,X,X,X,-,-,-,3
+3552106,SP,Socorro,X,X,X,X,-,-,4
+3552205,SP,Sorocaba,X,X,X,X,-,-,4
+3552304,SP,Sud Mennucci,X,X,X,-,-,-,3
+3552403,SP,Sumaré,X,X,X,X,-,-,4
+3552551,SP,Suzanápolis,X,X,-,-,-,-,2
+3552502,SP,Suzano,X,X,X,X,-,X,5
+3552601,SP,Tabapuã,X,X,X,-,-,-,3
+3552700,SP,Tabatinga,X,X,X,-,-,-,3
+3552809,SP,Taboão da Serra,X,X,X,X,-,X,5
+3552908,SP,Taciba,X,X,-,-,-,-,2
+3553005,SP,Taguaí,X,X,X,-,-,-,3
+3553104,SP,Taiaçu,X,X,X,-,-,-,3
+3553203,SP,Taiúva,X,X,X,-,-,-,3
+3553302,SP,Tambaú,X,X,X,-,-,-,3
+3553401,SP,Tanabi,X,X,X,-,-,-,3
+3553500,SP,Tapiraí,X,X,-,-,-,-,2
+3553609,SP,Tapiratiba,X,X,-,-,-,-,2
+3553658,SP,Taquaral,X,X,X,-,-,-,3
+3553708,SP,Taquaritinga,X,X,X,X,-,-,4
+3553807,SP,Taquarituba,X,X,X,-,-,-,3
+3553856,SP,Taquarivaí,X,X,X,-,-,-,3
+3553906,SP,Tarabai,X,X,-,-,-,-,2
+3553955,SP,Tarumã,X,X,X,-,-,-,3
+3554003,SP,Tatuí,X,X,X,X,-,-,4
+3554102,SP,Taubaté,X,X,X,X,-,-,4
+3554201,SP,Tejupá,X,X,-,-,-,-,2
+3554300,SP,Teodoro Sampaio,X,X,X,-,-,-,3
+3554409,SP,Terra Roxa,X,X,X,-,-,-,3
+3554508,SP,Tietê,X,X,X,-,-,-,3
+3554607,SP,Timburi,X,X,-,-,-,-,2
+3554656,SP,Torre de Pedra,X,X,-,-,-,-,2
+3554706,SP,Torrinha,X,X,X,-,-,-,3
+3554755,SP,Trabiju,X,X,-,-,-,-,2
+3554805,SP,Tremembé,X,X,X,-,-,-,3
+3554904,SP,Três Fronteiras,X,X,X,-,-,-,3
+3554953,SP,Tuiuti,X,X,X,-,-,-,3
+3555000,SP,Tupã,X,X,X,-,-,-,3
+3555109,SP,Tupi Paulista,X,X,X,-,-,-,3
+3555208,SP,Turiúba,X,X,X,-,-,-,3
+3555307,SP,Turmalina,X,X,-,-,-,-,2
+3555356,SP,Ubarana,X,X,X,-,-,-,3
+3555406,SP,Ubatuba,X,X,X,-,-,-,3
+3555505,SP,Ubirajara,X,X,X,-,-,-,3
+3555604,SP,Uchoa,X,X,X,-,-,-,3
+3555703,SP,União Paulista,X,X,-,-,-,-,2
+3555802,SP,Urânia,X,X,X,-,-,-,3
+3555901,SP,Uru,X,X,-,-,-,-,2
+3556008,SP,Urupês,X,X,X,-,-,-,3
+3556107,SP,Valentim Gentil,X,X,X,-,-,-,3
+3556206,SP,Valinhos,X,X,X,X,-,-,4
+3556305,SP,Valparaíso,X,X,X,-,-,-,3
+3556354,SP,Vargem,X,X,X,-,-,-,3
+3556404,SP,Vargem Grande do Sul,X,X,X,-,-,-,3
+3556453,SP,Vargem Grande Paulista,X,X,X,X,-,-,4
+3556503,SP,Várzea Paulista,X,X,X,X,-,-,4
+3556602,SP,Vera Cruz,X,X,X,-,-,-,3
+3556701,SP,Vinhedo,X,X,X,-,-,-,3
+3556800,SP,Viradouro,X,X,X,-,-,-,3
+3556909,SP,Vista Alegre do Alto,X,X,X,-,-,-,3
+3556958,SP,Vitória Brasil,X,X,-,-,-,-,2
+3557006,SP,Votorantim,X,X,X,X,-,-,4
+3557105,SP,Votuporanga,X,X,X,X,-,-,4
+3557154,SP,Zacarias,X,X,-,-,-,-,2

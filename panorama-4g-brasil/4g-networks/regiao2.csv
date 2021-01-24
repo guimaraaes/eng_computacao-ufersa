@@ -1,0 +1,1742 @@
+code_ibge,up,city,Vivo,TIM,Claro,Oi,Algar,Nextel,total
+1200013,AC,Acrelândia,-,-,X,-,-,-,1
+1200104,AC,Brasiléia,X,-,X,-,-,-,2
+1200138,AC,Bujari,X,X,X,-,-,-,3
+1200179,AC,Capixaba,X,-,-,-,-,-,1
+1200203,AC,Cruzeiro do Sul,X,X,X,-,-,-,3
+1200252,AC,Epitaciolândia,X,-,X,-,-,-,2
+1200302,AC,Feijó,X,X,X,X,-,-,4
+1200328,AC,Jordão,-,-,X,-,-,-,1
+1200336,AC,Mâncio Lima,X,-,X,-,-,-,2
+1200351,AC,Marechal Thaumaturgo,-,-,X,-,-,-,1
+1200385,AC,Plácido de Castro,X,-,X,-,-,-,2
+1200807,AC,Porto Acre,-,-,X,-,-,-,1
+1200401,AC,Rio Branco,X,X,X,X,-,-,4
+1200427,AC,Rodrigues Alves,X,-,X,-,-,-,2
+1200435,AC,Santa Rosa do Purus,-,-,X,-,-,-,1
+1200500,AC,Sena Madureira,X,X,X,X,-,-,4
+1200450,AC,Senador Guiomard,X,X,X,-,-,-,3
+1200609,AC,Tarauacá,X,X,X,X,-,-,4
+1200708,AC,Xapuri,X,-,-,-,-,-,1
+5300108,DF,Brasília,X,X,X,X,-,-,4
+5200050,GO,Abadia de Goiás,X,X,X,-,-,-,3
+5200100,GO,Abadiânia,X,X,X,-,-,-,3
+5200134,GO,Acreúna,X,X,X,-,-,-,3
+5200159,GO,Adelândia,-,-,X,X,-,-,2
+5200175,GO,Água Fria de Goiás,X,-,-,-,-,-,1
+5200209,GO,Água Limpa,-,-,X,-,-,-,1
+5200258,GO,Águas Lindas de Goiás,X,X,X,X,-,-,4
+5200308,GO,Alexânia,X,X,X,-,-,-,3
+5200506,GO,Aloândia,-,-,X,-,-,-,1
+5200555,GO,Alto Horizonte,-,X,-,-,-,-,1
+5200605,GO,Alto Paraíso de Goiás,X,-,X,-,-,-,2
+5200803,GO,Alvorada do Norte,X,X,-,-,-,-,2
+5200829,GO,Amaralina,-,X,-,-,-,-,1
+5200902,GO,Amorinópolis,-,X,-,-,-,-,1
+5201108,GO,Anápolis,X,X,X,X,-,-,4
+5201207,GO,Anhanguera,-,-,X,-,-,-,1
+5201306,GO,Anicuns,X,X,X,-,-,-,3
+5201405,GO,Aparecida de Goiânia,X,X,X,X,-,-,4
+5201454,GO,Aparecida do Rio Doce,-,-,-,X,-,-,1
+5201603,GO,Araçu,-,-,X,-,-,-,1
+5201702,GO,Aragarças,X,-,X,-,-,-,2
+5201801,GO,Aragoiânia,X,-,X,-,-,-,2
+5202353,GO,Arenópolis,-,-,-,X,-,-,1
+5202502,GO,Aruanã,-,-,X,-,-,-,1
+5202601,GO,Aurilândia,-,-,X,-,-,-,1
+5202809,GO,Avelinópolis,-,X,-,-,-,-,1
+5203104,GO,Baliza,X,-,-,-,-,-,1
+5203203,GO,Barro Alto,X,X,X,-,-,-,3
+5203302,GO,Bela Vista de Goiás,X,X,X,-,-,-,3
+5203401,GO,Bom Jardim de Goiás,X,-,X,-,-,-,2
+5203500,GO,Bom Jesus de Goiás,-,X,-,-,-,-,1
+5203559,GO,Bonfinópolis,-,-,X,-,-,-,1
+5203575,GO,Bonópolis,-,X,-,-,-,-,1
+5203609,GO,Brazabrantes,-,-,X,-,-,-,1
+5203906,GO,Buriti Alegre,X,X,X,-,-,-,3
+5203939,GO,Buriti de Goiás,-,X,X,-,-,-,2
+5203962,GO,Buritinópolis,-,-,X,-,-,-,1
+5204003,GO,Cabeceiras,X,-,-,-,-,-,1
+5204102,GO,Cachoeira Alta,X,X,-,-,-,-,2
+5204250,GO,Cachoeira Dourada,-,X,X,-,-,-,2
+5204300,GO,Caçu,X,-,-,-,-,-,1
+5204409,GO,Caiapônia,X,-,X,-,-,-,2
+5204508,GO,Caldas Novas,X,X,X,X,-,-,4
+5204557,GO,Caldazinha,-,-,X,-,-,-,1
+5204607,GO,Campestre de Goiás,-,X,X,-,-,-,2
+5204656,GO,Campinaçu,-,-,-,X,-,-,1
+5204706,GO,Campinorte,X,X,X,-,-,-,3
+5204805,GO,Campo Alegre de Goiás,X,-,-,-,-,-,1
+5204854,GO,Campo Limpo de Goiás,-,-,X,-,-,-,1
+5204904,GO,Campos Belos,X,X,X,-,-,-,3
+5204953,GO,Campos Verdes,-,X,-,-,-,-,1
+5205000,GO,Carmo do Rio Verde,X,-,-,-,-,-,1
+5205059,GO,Castelândia,-,-,X,X,-,-,2
+5205109,GO,Catalão,X,X,X,X,-,-,4
+5205208,GO,Caturaí,-,-,X,-,-,-,1
+5205406,GO,Ceres,X,-,X,-,-,-,2
+5205455,GO,Cezarina,X,X,X,-,-,-,3
+5205471,GO,Chapadão do Céu,X,-,-,-,-,-,1
+5205497,GO,Cidade Ocidental,X,X,X,X,-,-,4
+5205513,GO,Cocalzinho de Goiás,X,-,X,-,-,-,2
+5205521,GO,Colinas do Sul,-,X,X,-,-,-,2
+5205703,GO,Córrego do Ouro,-,-,-,X,-,-,1
+5205802,GO,Corumbá de Goiás,X,-,X,-,-,-,2
+5205901,GO,Corumbaíba,-,-,X,-,-,-,1
+5206206,GO,Cristalina,X,X,X,X,-,-,4
+5206305,GO,Cristianópolis,X,-,X,-,-,-,2
+5206404,GO,Crixás,-,X,-,-,-,-,1
+5206503,GO,Cromínia,-,-,X,-,-,-,1
+5206602,GO,Cumari,-,-,-,X,-,-,1
+5206701,GO,Damianópolis,X,-,X,-,-,-,2
+5206800,GO,Damolândia,-,-,X,-,-,-,1
+5206909,GO,Davinópolis,X,-,X,-,-,-,2
+5207105,GO,Diorama,-,-,-,X,-,-,1
+5208301,GO,Divinópolis de Goiás,X,-,-,-,-,-,1
+5207253,GO,Doverlândia,X,-,-,-,-,-,1
+5207402,GO,Edéia,X,X,-,-,-,-,2
+5207600,GO,Fazenda Nova,-,X,-,-,-,-,1
+5207808,GO,Firminópolis,X,X,-,-,-,-,2
+5207907,GO,Flores de Goiás,X,-,-,-,-,-,1
+5208004,GO,Formosa,X,X,X,X,-,-,4
+5208103,GO,Formoso,-,-,X,-,-,-,1
+5208152,GO,Gameleira de Goiás,X,-,-,-,-,-,1
+5208400,GO,Goianápolis,X,X,X,-,-,-,3
+5208509,GO,Goiandira,-,X,X,-,-,-,2
+5208608,GO,Goianésia,X,X,X,-,-,-,3
+5208707,GO,Goiânia,X,X,X,X,-,-,4
+5208806,GO,Goianira,X,X,X,X,-,-,4
+5208905,GO,Goiás,X,-,X,-,-,-,2
+5209101,GO,Goiatuba,X,X,X,-,-,-,3
+5209150,GO,Gouvelândia,-,-,X,-,-,-,1
+5209200,GO,Guapó,X,X,X,-,-,-,3
+5209291,GO,Guaraíta,-,-,-,X,-,-,1
+5209408,GO,Guarani de Goiás,X,-,-,X,-,-,2
+5209606,GO,Heitoraí,-,-,X,-,-,-,1
+5209705,GO,Hidrolândia,X,X,X,-,-,-,3
+5209903,GO,Iaciara,X,-,X,-,-,-,2
+5209937,GO,Inaciolândia,-,-,X,-,X,-,2
+5209952,GO,Indiara,X,X,X,-,-,-,3
+5210000,GO,Inhumas,X,X,X,X,-,-,4
+5210109,GO,Ipameri,X,X,X,-,-,-,3
+5210208,GO,Iporá,X,X,X,X,-,-,4
+5210307,GO,Israelândia,-,-,X,X,-,-,2
+5210406,GO,Itaberaí,X,X,X,X,-,-,4
+5210562,GO,Itaguari,-,-,X,-,-,-,1
+5210604,GO,Itaguaru,-,-,X,-,-,-,1
+5210802,GO,Itajá,X,-,-,-,-,-,1
+5210901,GO,Itapaci,X,-,X,-,-,-,2
+5211008,GO,Itapirapuã,-,X,-,-,-,-,1
+5211206,GO,Itapuranga,X,-,X,-,-,-,2
+5211404,GO,Itauçu,X,X,-,-,-,-,2
+5211503,GO,Itumbiara,X,X,X,-,X,-,4
+5211701,GO,Jandaia,-,X,X,-,-,-,2
+5211800,GO,Jaraguá,X,X,X,X,-,-,4
+5211909,GO,Jataí,X,X,X,X,-,-,4
+5212055,GO,Jesúpolis,-,-,X,-,-,-,1
+5212105,GO,Joviânia,X,X,X,-,-,-,3
+5212253,GO,Lagoa Santa,X,-,-,X,-,-,2
+5212303,GO,Leopoldo de Bulhões,X,X,X,-,-,-,3
+5212501,GO,Luziânia,X,X,X,X,-,-,4
+5212709,GO,Mambaí,X,-,-,-,-,-,1
+5212808,GO,Mara Rosa,-,X,X,-,-,-,2
+5212907,GO,Marzagão,-,-,X,X,-,-,2
+5213004,GO,Maurilândia,X,X,X,-,-,-,3
+5213053,GO,Mimoso de Goiás,X,-,-,-,-,-,1
+5213087,GO,Minaçu,X,X,X,X,-,-,4
+5213103,GO,Mineiros,X,X,X,X,-,-,4
+5213509,GO,Monte Alegre de Goiás,X,-,-,-,-,-,1
+5213756,GO,Montividiu,X,-,-,-,-,-,1
+5213772,GO,Montividiu do Norte,-,X,-,-,-,-,1
+5213806,GO,Morrinhos,X,X,X,-,-,-,3
+5213855,GO,Morro Agudo de Goiás,-,-,-,X,-,-,1
+5213905,GO,Mossâmedes,-,X,-,-,-,-,1
+5214101,GO,Mutunópolis,-,-,X,-,-,-,1
+5214408,GO,Nazário,X,-,X,-,-,-,2
+5214507,GO,Nerópolis,X,X,X,-,-,-,3
+5214606,GO,Niquelândia,X,X,X,X,-,-,4
+5214804,GO,Nova Aurora,X,-,-,X,-,-,2
+5214838,GO,Nova Crixás,-,X,-,-,-,-,1
+5214861,GO,Nova Glória,X,-,-,-,-,-,1
+5214879,GO,Nova Iguaçu de Goiás,-,X,X,-,-,-,2
+5214903,GO,Nova Roma,X,-,X,-,-,-,2
+5215009,GO,Nova Veneza,X,-,X,-,-,-,2
+5215231,GO,Novo Gama,X,X,X,X,-,-,4
+5215256,GO,Novo Planalto,X,-,-,X,-,-,2
+5215306,GO,Orizona,X,-,X,-,-,-,2
+5215405,GO,Ouro Verde de Goiás,-,-,X,-,-,-,1
+5215504,GO,Ouvidor,X,X,X,-,-,-,3
+5215603,GO,Padre Bernardo,X,-,X,-,-,-,2
+5215652,GO,Palestina de Goiás,-,-,X,-,-,-,1
+5215702,GO,Palmeiras de Goiás,X,X,X,-,-,-,3
+5215801,GO,Palmelo,-,-,X,-,-,-,1
+5215900,GO,Palminópolis,-,-,X,-,-,-,1
+5216007,GO,Panamá,-,-,X,-,-,-,1
+5216304,GO,Paranaiguara,X,-,-,-,-,-,1
+5216403,GO,Paraúna,X,X,X,-,-,-,3
+5216452,GO,Perolândia,-,-,X,-,-,-,1
+5216809,GO,Petrolina de Goiás,X,-,-,-,-,-,1
+5217104,GO,Piracanjuba,X,X,X,-,-,-,3
+5217203,GO,Piranhas,X,-,-,-,-,-,1
+5217302,GO,Pirenópolis,X,X,X,-,-,-,3
+5217401,GO,Pires do Rio,X,X,X,-,-,-,3
+5217609,GO,Planaltina,X,X,X,-,-,-,3
+5217708,GO,Pontalina,X,X,X,-,-,-,3
+5218003,GO,Porangatu,X,X,X,X,-,-,4
+5218052,GO,Porteirão,-,-,X,-,-,-,1
+5218300,GO,Posse,X,X,X,X,-,-,4
+5218391,GO,Professor Jamil,-,-,X,-,-,-,1
+5218508,GO,Quirinópolis,X,X,X,X,-,-,4
+5218607,GO,Rialma,X,-,X,-,-,-,2
+5218706,GO,Rianápolis,-,-,X,-,-,-,1
+5218789,GO,Rio Quente,X,X,X,-,-,-,3
+5218805,GO,Rio Verde,X,X,X,X,-,-,4
+5218904,GO,Rubiataba,X,-,X,-,-,-,2
+5219001,GO,Sanclerlândia,X,X,-,-,-,-,2
+5219100,GO,Santa Bárbara de Goiás,X,-,-,-,-,-,1
+5219209,GO,Santa Cruz de Goiás,-,-,X,-,-,-,1
+5219308,GO,Santa Helena de Goiás,X,X,X,X,-,-,4
+5219407,GO,Santa Rita do Araguaia,X,-,X,-,-,-,2
+5219506,GO,Santa Rosa de Goiás,-,-,X,-,-,-,1
+5219605,GO,Santa Tereza de Goiás,-,-,X,-,-,-,1
+5219712,GO,Santo Antônio da Barra,X,X,X,-,-,-,3
+5219738,GO,Santo Antônio de Goiás,-,X,-,-,-,-,1
+5219753,GO,Santo Antônio do Descoberto,X,X,X,X,-,-,4
+5219803,GO,São Domingos,X,-,-,-,-,-,1
+5219902,GO,São Francisco de Goiás,-,-,X,-,-,-,1
+5220058,GO,São João da Paraúna,-,-,X,-,-,-,1
+5220009,GO,São João d'Aliança,X,-,-,-,-,-,1
+5220108,GO,São Luís de Montes Belos,X,X,X,X,-,-,4
+5220157,GO,São Luiz do Norte,X,-,-,-,-,-,1
+5220207,GO,São Miguel do Araguaia,X,X,-,-,-,-,2
+5220264,GO,São Miguel do Passa Quatro,-,-,X,-,-,-,1
+5220405,GO,São Simão,X,-,-,-,-,-,1
+5220454,GO,Senador Canedo,X,X,X,X,-,-,4
+5220504,GO,Serranópolis,X,-,-,-,-,-,1
+5220603,GO,Silvânia,X,X,X,-,-,-,3
+5220686,GO,Simolândia,X,-,-,-,-,-,1
+5220702,GO,Sítio d'Abadia,X,-,X,-,-,-,2
+5221007,GO,Taquaral de Goiás,-,-,X,-,-,-,1
+5221080,GO,Teresina de Goiás,-,-,-,X,-,-,1
+5221197,GO,Terezópolis de Goiás,X,X,X,-,-,-,3
+5221304,GO,Três Ranchos,X,-,X,-,-,-,2
+5221403,GO,Trindade,X,X,X,X,-,-,4
+5221452,GO,Trombas,-,-,X,-,-,-,1
+5221551,GO,Turvelândia,-,-,X,-,-,-,1
+5221577,GO,Uirapuru,-,X,X,-,-,-,2
+5221601,GO,Uruaçu,X,X,X,X,-,-,4
+5221700,GO,Uruana,X,-,-,-,-,-,1
+5221809,GO,Urutaí,-,-,X,-,-,-,1
+5221858,GO,Valparaíso de Goiás,X,X,X,X,-,-,4
+5221908,GO,Varjão,-,-,X,-,-,-,1
+5222005,GO,Vianópolis,X,X,X,-,-,-,3
+5222054,GO,Vicentinópolis,X,-,-,-,-,-,1
+5222203,GO,Vila Boa,X,-,-,-,-,-,1
+5000203,MS,Água Clara,X,-,X,-,-,-,2
+5000252,MS,Alcinópolis,X,-,-,-,-,-,1
+5000609,MS,Amambai,X,X,X,X,-,-,4
+5000708,MS,Anastácio,X,-,X,-,-,-,2
+5000807,MS,Anaurilândia,X,X,-,-,-,-,2
+5000856,MS,Angélica,X,X,X,-,-,-,3
+5000906,MS,Antônio João,X,-,-,-,-,-,1
+5001003,MS,Aparecida do Taboado,X,X,X,-,-,-,3
+5001102,MS,Aquidauana,X,X,X,-,-,-,3
+5001243,MS,Aral Moreira,X,-,X,-,-,-,2
+5001508,MS,Bandeirantes,X,X,X,-,-,-,3
+5001904,MS,Bataguassu,X,X,-,-,-,-,2
+5002001,MS,Batayporã,X,-,X,-,-,-,2
+5002100,MS,Bela Vista,X,-,-,-,-,-,1
+5002159,MS,Bodoquena,X,X,-,-,-,-,2
+5002209,MS,Bonito,X,X,X,-,-,-,3
+5002308,MS,Brasilândia,X,-,-,-,-,-,1
+5002407,MS,Caarapó,X,X,X,-,-,-,3
+5002605,MS,Camapuã,X,X,X,-,-,-,3
+5002704,MS,Campo Grande,X,X,X,X,-,-,4
+5002902,MS,Cassilândia,X,X,-,-,-,-,2
+5002951,MS,Chapadão do Sul,X,-,-,-,-,-,1
+5003108,MS,Corguinho,X,-,-,-,-,-,1
+5003157,MS,Coronel Sapucaia,X,-,X,-,-,-,2
+5003207,MS,Corumbá,X,X,X,X,-,-,4
+5003256,MS,Costa Rica,X,X,-,-,-,-,2
+5003306,MS,Coxim,X,X,X,X,-,-,4
+5003454,MS,Deodápolis,X,X,X,-,-,-,3
+5003488,MS,Dois Irmãos do Buriti,X,-,-,-,-,-,1
+5003504,MS,Douradina,X,X,X,-,-,-,3
+5003702,MS,Dourados,X,X,X,X,-,-,4
+5003751,MS,Eldorado,X,-,X,-,-,-,2
+5003801,MS,Fátima do Sul,X,X,X,-,-,-,3
+5004007,MS,Glória de Dourados,X,X,X,-,-,-,3
+5004106,MS,Guia Lopes da Laguna,X,X,X,-,-,-,3
+5004304,MS,Iguatemi,-,-,X,-,-,-,1
+5004502,MS,Itaporã,X,X,X,-,-,-,3
+5004601,MS,Itaquiraí,X,X,X,-,-,-,3
+5004700,MS,Ivinhema,X,X,X,-,-,-,3
+5004908,MS,Jaraguari,X,-,X,-,-,-,2
+5005004,MS,Jardim,X,X,X,-,-,-,3
+5005103,MS,Jateí,X,-,-,X,-,-,2
+5005152,MS,Juti,X,X,-,-,-,-,2
+5005202,MS,Ladário,X,X,X,-,-,-,3
+5005251,MS,Laguna Carapã,X,-,X,-,-,-,2
+5005400,MS,Maracaju,X,-,X,X,-,-,3
+5005608,MS,Miranda,X,X,X,-,-,-,3
+5005681,MS,Mundo Novo,X,X,X,-,-,-,3
+5005707,MS,Naviraí,X,X,X,-,-,-,3
+5005806,MS,Nioaque,-,-,X,-,-,-,1
+5006002,MS,Nova Alvorada do Sul,X,X,X,-,-,-,3
+5006200,MS,Nova Andradina,X,X,X,X,-,-,4
+5006259,MS,Novo Horizonte do Sul,X,-,X,-,-,-,2
+5006275,MS,Paraíso das Águas,X,-,-,-,-,-,1
+5006309,MS,Paranaíba,X,X,X,X,X,-,5
+5006408,MS,Pedro Gomes,X,X,-,-,-,-,2
+5006606,MS,Ponta Porã,X,X,X,X,-,-,4
+5007109,MS,Ribas do Rio Pardo,X,-,X,-,-,-,2
+5007208,MS,Rio Brilhante,X,X,X,-,-,-,3
+5007307,MS,Rio Negro,X,-,-,-,-,-,1
+5007406,MS,Rio Verde de Mato Grosso,X,X,X,-,-,-,3
+5007505,MS,Rochedo,X,-,-,-,-,-,1
+5007695,MS,São Gabriel do Oeste,X,X,X,-,-,-,3
+5007802,MS,Selvíria,-,X,X,-,-,-,2
+5007703,MS,Sete Quedas,-,-,X,-,-,-,1
+5007901,MS,Sidrolândia,X,X,X,X,-,-,4
+5007935,MS,Sonora,X,X,X,-,-,-,3
+5007950,MS,Tacuru,-,-,-,X,-,-,1
+5007976,MS,Taquarussu,X,-,-,-,-,-,1
+5008008,MS,Terenos,X,X,X,-,-,-,3
+5008305,MS,Três Lagoas,X,X,X,X,-,-,4
+5008404,MS,Vicentina,X,-,-,-,-,-,1
+5100102,MT,Acorizal,X,-,X,-,-,-,2
+5100250,MT,Alta Floresta,X,X,X,-,-,-,3
+5100300,MT,Alto Araguaia,X,X,X,-,-,-,3
+5100409,MT,Alto Garças,X,-,X,-,-,-,2
+5100508,MT,Alto Paraguai,-,-,X,-,-,-,1
+5100607,MT,Alto Taquari,X,-,-,-,-,-,1
+5100805,MT,Apiacás,-,X,-,-,-,-,1
+5101001,MT,Araguaiana,-,-,-,X,-,-,1
+5101258,MT,Araputanga,X,X,X,-,-,-,3
+5101308,MT,Arenápolis,X,-,-,-,-,-,1
+5101407,MT,Aripuanã,-,X,-,-,-,-,1
+5101605,MT,Barão de Melgaço,X,X,-,-,-,-,2
+5101704,MT,Barra do Bugres,X,X,X,X,-,-,4
+5101803,MT,Barra do Garças,X,X,X,-,-,-,3
+5101902,MT,Brasnorte,X,-,-,-,-,-,1
+5102504,MT,Cáceres,X,X,X,-,-,-,3
+5102637,MT,Campo Novo do Parecis,X,-,X,-,-,-,2
+5102678,MT,Campo Verde,X,X,X,X,-,-,4
+5102686,MT,Campos de Júlio,-,-,X,-,-,-,1
+5102793,MT,Carlinda,X,-,X,-,-,-,2
+5103007,MT,Chapada dos Guimarães,X,X,X,-,-,-,3
+5103056,MT,Cláudia,X,X,-,-,-,-,2
+5103205,MT,Colíder,X,X,X,X,-,-,4
+5103304,MT,Comodoro,-,X,X,-,-,-,2
+5103361,MT,Conquista D'Oeste,-,-,-,X,-,-,1
+5103403,MT,Cuiabá,X,X,X,X,-,-,4
+5103437,MT,Curvelândia,X,-,-,-,-,-,1
+5103452,MT,Denise,X,-,X,-,-,-,2
+5103502,MT,Diamantino,X,X,X,-,-,-,3
+5103601,MT,Dom Aquino,X,X,X,-,-,-,3
+5103700,MT,Feliz Natal,X,X,X,-,-,-,3
+5103957,MT,Glória D'Oeste,X,X,-,-,-,-,2
+5104104,MT,Guarantã do Norte,X,-,X,X,-,-,3
+5104203,MT,Guiratinga,X,-,X,-,-,-,2
+5104500,MT,Indiavaí,-,-,-,X,-,-,1
+5104526,MT,Ipiranga do Norte,-,-,X,-,-,-,1
+5104559,MT,Itaúba,X,-,-,-,-,-,1
+5104609,MT,Itiquira,-,-,X,-,-,-,1
+5104807,MT,Jaciara,X,X,X,-,-,-,3
+5104906,MT,Jangada,X,-,X,-,-,-,2
+5105002,MT,Jauru,-,X,X,-,-,-,2
+5105101,MT,Juara,X,X,X,X,-,-,4
+5105150,MT,Juína,X,X,X,-,-,-,3
+5105200,MT,Juscimeira,X,X,X,-,-,-,3
+5105234,MT,Lambari D'Oeste,X,-,-,-,-,-,1
+5105259,MT,Lucas do Rio Verde,X,X,X,X,-,-,4
+5105309,MT,Luciara,-,-,-,X,-,-,1
+5105580,MT,Marcelândia,X,-,-,-,-,-,1
+5105606,MT,Matupá,X,-,X,-,-,-,2
+5105622,MT,Mirassol d'Oeste,X,X,X,-,-,-,3
+5105903,MT,Nobres,X,-,X,-,-,-,2
+5106000,MT,Nortelândia,X,-,X,-,-,-,2
+5106109,MT,Nossa Senhora do Livramento,X,X,X,-,-,-,3
+5106216,MT,Nova Canaã do Norte,X,-,X,-,-,-,2
+5108808,MT,Nova Guarita,X,-,-,-,-,-,1
+5108857,MT,Nova Marilândia,X,-,-,-,-,-,1
+5108907,MT,Nova Maringá,-,X,-,-,-,-,1
+5106224,MT,Nova Mutum,X,X,X,-,-,-,3
+5106174,MT,Nova Nazaré,-,-,X,-,-,-,1
+5106232,MT,Nova Olímpia,X,X,X,-,-,-,3
+5106190,MT,Nova Santa Helena,X,-,-,-,-,-,1
+5106257,MT,Nova Xavantina,X,-,-,-,-,-,1
+5106273,MT,Novo Horizonte do Norte,-,-,-,X,-,-,1
+5106265,MT,Novo Mundo,X,-,-,-,-,-,1
+5106315,MT,Novo Santo Antônio,-,-,-,X,-,-,1
+5106299,MT,Paranaíta,X,-,X,-,-,-,2
+5106307,MT,Paranatinga,-,X,-,-,-,-,1
+5106372,MT,Pedra Preta,X,X,X,-,-,-,3
+5106422,MT,Peixoto de Azevedo,X,X,X,X,-,-,4
+5106505,MT,Poconé,X,X,X,X,-,-,4
+5106653,MT,Pontal do Araguaia,X,-,X,-,-,-,2
+5106703,MT,Ponte Branca,X,-,-,-,-,-,1
+5106752,MT,Pontes e Lacerda,X,X,X,X,-,-,4
+5106828,MT,Porto Esperidião,X,X,X,-,-,-,3
+5106851,MT,Porto Estrela,X,-,-,-,-,-,1
+5107008,MT,Poxoréu,X,X,X,-,-,-,3
+5107040,MT,Primavera do Leste,X,X,X,-,-,-,3
+5107065,MT,Querência,X,-,-,-,-,-,1
+5107156,MT,Reserva do Cabaçal,-,-,-,X,-,-,1
+5107198,MT,Ribeirãozinho,X,-,-,-,-,-,1
+5107206,MT,Rio Branco,X,X,-,-,-,-,2
+5107578,MT,Rondolândia,-,-,X,-,-,-,1
+5107602,MT,Rondonópolis,X,X,X,X,-,-,4
+5107701,MT,Rosário Oeste,X,-,X,-,-,-,2
+5107750,MT,Salto do Céu,-,-,-,X,-,-,1
+5107248,MT,Santa Carmem,X,-,X,-,-,-,2
+5107743,MT,Santa Cruz do Xingu,-,-,X,-,-,-,1
+5107263,MT,Santo Afonso,X,-,-,-,-,-,1
+5107792,MT,Santo Antônio do Leste,-,-,X,-,-,-,1
+5107800,MT,Santo Antônio do Leverger,X,X,X,-,-,-,3
+5107297,MT,São José do Povo,X,-,-,-,-,-,1
+5107305,MT,São José do Rio Claro,-,-,X,-,-,-,1
+5107354,MT,São José do Xingu,-,-,-,X,-,-,1
+5107107,MT,São José dos Quatro Marcos,X,X,X,-,-,-,3
+5107404,MT,São Pedro da Cipa,X,X,-,X,-,-,3
+5107875,MT,Sapezal,-,X,X,-,-,-,2
+5107909,MT,Sinop,X,X,X,X,-,-,4
+5107925,MT,Sorriso,X,X,X,-,-,-,3
+5107941,MT,Tabaporã,X,-,X,-,-,-,2
+5107958,MT,Tangará da Serra,X,X,X,-,-,-,3
+5108006,MT,Tapurah,-,-,X,-,-,-,1
+5108055,MT,Terra Nova do Norte,X,-,-,-,-,-,1
+5108105,MT,Tesouro,-,-,-,X,-,-,1
+5108204,MT,Torixoréu,X,-,-,-,-,-,1
+5108303,MT,União do Sul,-,-,-,X,-,-,1
+5108352,MT,Vale de São Domingos,-,-,X,-,-,-,1
+5108402,MT,Várzea Grande,X,X,X,X,-,-,4
+5108501,MT,Vera,X,X,X,-,-,-,3
+5105507,MT,Vila Bela da Santíssima Trindade,-,X,-,-,-,-,1
+2211605,PI,Vila Nova do Piauí,-,-,X,X,-,-,2
+2211704,PI,Wall Ferraz,-,-,-,X,-,-,1
+4100103,PR,Abatiá,-,X,X,-,-,-,2
+4100202,PR,Adrianópolis,-,X,-,-,-,-,1
+4100301,PR,Agudos do Sul,-,X,-,-,-,-,1
+4100400,PR,Almirante Tamandaré,X,X,X,X,-,-,4
+4100459,PR,Altamira do Paraná,-,X,-,-,-,-,1
+4128625,PR,Alto Paraíso,X,X,-,-,-,-,2
+4100608,PR,Alto Paraná,X,X,X,-,-,-,3
+4100707,PR,Alto Piquiri,X,X,-,-,-,-,2
+4100509,PR,Altônia,X,X,-,-,-,-,2
+4100806,PR,Alvorada do Sul,X,X,X,-,-,-,3
+4100905,PR,Amaporã,X,X,X,-,-,-,3
+4101002,PR,Ampére,-,X,-,-,-,-,1
+4101051,PR,Anahy,-,X,-,-,-,-,1
+4101101,PR,Andirá,X,X,X,-,-,-,3
+4101150,PR,Ângulo,-,X,-,-,-,-,1
+4101200,PR,Antonina,X,X,X,-,-,-,3
+4101309,PR,Antônio Olinto,-,X,X,-,-,-,2
+4101408,PR,Apucarana,X,X,X,X,-,-,4
+4101507,PR,Arapongas,X,X,X,X,-,-,4
+4101606,PR,Arapoti,-,X,-,-,-,-,1
+4101655,PR,Arapuã,-,X,-,-,-,-,1
+4101705,PR,Araruna,X,X,-,-,-,-,2
+4101804,PR,Araucária,X,X,X,X,-,-,4
+4101853,PR,Ariranha do Ivaí,-,X,-,-,-,-,1
+4101903,PR,Assaí,X,X,X,-,-,-,3
+4102000,PR,Assis Chateaubriand,X,X,X,X,-,-,4
+4102109,PR,Astorga,X,X,-,-,-,-,2
+4102208,PR,Atalaia,X,X,-,-,-,-,2
+4102307,PR,Balsa Nova,X,X,X,-,-,-,3
+4102406,PR,Bandeirantes,X,X,X,X,-,-,4
+4102505,PR,Barbosa Ferraz,-,X,-,-,-,-,1
+4102703,PR,Barra do Jacaré,-,X,-,-,-,-,1
+4102604,PR,Barracão,X,X,X,-,-,-,3
+4102752,PR,Bela Vista da Caroba,-,X,-,-,-,-,1
+4102802,PR,Bela Vista do Paraíso,X,X,-,-,-,-,2
+4102901,PR,Bituruna,-,X,-,-,-,-,1
+4103008,PR,Boa Esperança,-,X,-,-,-,-,1
+4103024,PR,Boa Esperança do Iguaçu,-,X,-,-,-,-,1
+4103040,PR,Boa Ventura de São Roque,-,X,-,-,-,-,1
+4103057,PR,Boa Vista da Aparecida,X,X,X,-,-,-,3
+4103107,PR,Bocaiúva do Sul,-,X,-,-,-,-,1
+4103156,PR,Bom Jesus do Sul,-,X,-,-,-,-,1
+4103206,PR,Bom Sucesso,-,X,X,-,-,-,2
+4103222,PR,Bom Sucesso do Sul,-,X,-,-,-,-,1
+4103305,PR,Borrazópolis,-,X,X,-,-,-,2
+4103354,PR,Braganey,X,X,-,-,-,-,2
+4103370,PR,Brasilândia do Sul,-,X,-,-,-,-,1
+4103404,PR,Cafeara,-,X,-,X,-,-,2
+4103453,PR,Cafelândia,X,X,-,-,-,-,2
+4103479,PR,Cafezal do Sul,-,X,-,-,-,-,1
+4103503,PR,Califórnia,-,X,X,-,-,-,2
+4103602,PR,Cambará,X,X,X,-,-,-,3
+4103701,PR,Cambé,X,X,X,-,-,-,3
+4103800,PR,Cambira,X,X,X,-,-,-,3
+4103909,PR,Campina da Lagoa,X,X,-,-,-,-,2
+4103958,PR,Campina do Simão,-,X,-,-,-,-,1
+4104006,PR,Campina Grande do Sul,X,X,X,X,-,-,4
+4104055,PR,Campo Bonito,-,X,X,-,-,-,2
+4104105,PR,Campo do Tenente,-,X,X,-,-,-,2
+4104204,PR,Campo Largo,X,X,X,X,-,-,4
+4104253,PR,Campo Magro,X,X,X,-,-,-,3
+4104303,PR,Campo Mourão,X,X,X,X,-,-,4
+4104402,PR,Cândido de Abreu,-,X,X,-,-,-,2
+4104428,PR,Candói,X,X,-,-,-,-,2
+4104451,PR,Cantagalo,X,X,X,-,-,-,3
+4104501,PR,Capanema,X,X,X,-,-,-,3
+4104600,PR,Capitão Leônidas Marques,X,X,-,-,-,-,2
+4104659,PR,Carambeí,X,X,-,-,-,-,2
+4104709,PR,Carlópolis,X,X,X,-,-,-,3
+4104808,PR,Cascavel,X,X,X,X,-,-,4
+4104907,PR,Castro,X,X,X,X,-,-,4
+4105003,PR,Catanduvas,X,X,X,-,-,-,3
+4105102,PR,Centenário do Sul,X,X,X,-,-,-,3
+4105201,PR,Cerro Azul,-,X,X,-,-,-,2
+4105300,PR,Céu Azul,X,X,X,-,-,-,3
+4105409,PR,Chopinzinho,-,X,X,-,-,-,2
+4105508,PR,Cianorte,X,X,X,X,-,-,4
+4105607,PR,Cidade Gaúcha,-,X,X,-,-,-,2
+4105706,PR,Clevelândia,X,X,X,-,-,-,3
+4105805,PR,Colombo,X,X,X,X,-,-,4
+4105904,PR,Colorado,X,X,-,-,-,-,2
+4106001,PR,Congonhinhas,-,X,X,-,-,-,2
+4106100,PR,Conselheiro Mairinck,-,X,X,-,-,-,2
+4106209,PR,Contenda,X,X,-,-,-,-,2
+4106308,PR,Corbélia,X,X,X,-,-,-,3
+4106407,PR,Cornélio Procópio,X,X,X,-,-,-,3
+4106456,PR,Coronel Domingos Soares,-,X,-,-,-,-,1
+4106506,PR,Coronel Vivida,X,X,-,-,-,-,2
+4106555,PR,Corumbataí do Sul,-,X,-,-,-,-,1
+4106803,PR,Cruz Machado,-,X,X,-,-,-,2
+4106571,PR,Cruzeiro do Iguaçu,-,X,-,-,-,-,1
+4106605,PR,Cruzeiro do Oeste,X,X,-,-,-,-,2
+4106704,PR,Cruzeiro do Sul,-,X,X,-,-,-,2
+4106852,PR,Cruzmaltina,-,X,-,-,-,-,1
+4106902,PR,Curitiba,X,X,X,X,-,-,4
+4107009,PR,Curiúva,-,X,X,-,-,-,2
+4107108,PR,Diamante do Norte,X,X,-,-,-,-,2
+4107124,PR,Diamante do Sul,-,X,X,X,-,-,3
+4107157,PR,Diamante D'Oeste,-,X,X,-,-,-,2
+4107207,PR,Dois Vizinhos,X,X,X,X,-,-,4
+4107256,PR,Douradina,X,X,X,-,-,-,3
+4107306,PR,Doutor Camargo,-,X,X,-,-,-,2
+4128633,PR,Doutor Ulysses,-,X,X,-,-,-,2
+4107405,PR,Enéas Marques,-,X,-,-,-,-,1
+4107504,PR,Engenheiro Beltrão,X,X,X,-,-,-,3
+4107538,PR,Entre Rios do Oeste,X,X,X,-,-,-,3
+4107520,PR,Esperança Nova,X,X,-,-,-,-,2
+4107546,PR,Espigão Alto do Iguaçu,-,X,-,-,-,-,1
+4107553,PR,Farol,-,X,-,X,-,-,2
+4107603,PR,Faxinal,X,X,X,-,-,-,3
+4107652,PR,Fazenda Rio Grande,X,X,X,-,-,-,3
+4107702,PR,Fênix,-,X,-,-,-,-,1
+4107736,PR,Fernandes Pinheiro,-,X,-,-,-,-,1
+4107751,PR,Figueira,X,X,X,-,-,-,3
+4107850,PR,Flor da Serra do Sul,-,X,-,-,-,-,1
+4107801,PR,Floraí,-,X,-,-,-,-,1
+4107900,PR,Floresta,X,X,X,-,-,-,3
+4108007,PR,Florestópolis,X,X,-,-,-,-,2
+4108106,PR,Flórida,-,X,-,-,-,-,1
+4108205,PR,Formosa do Oeste,X,X,X,-,-,-,3
+4108304,PR,Foz do Iguaçu,X,X,X,X,-,-,4
+4108452,PR,Foz do Jordão,-,X,X,-,-,-,2
+4108320,PR,Francisco Alves,-,X,-,-,-,-,1
+4108403,PR,Francisco Beltrão,X,X,X,X,-,-,4
+4108502,PR,General Carneiro,-,X,X,-,-,-,2
+4108551,PR,Godoy Moreira,-,X,-,-,-,-,1
+4108601,PR,Goioerê,X,X,-,-,-,-,2
+4108650,PR,Goioxim,X,X,-,-,-,-,2
+4108700,PR,Grandes Rios,-,X,X,-,-,-,2
+4108809,PR,Guaíra,X,X,X,X,-,-,4
+4108908,PR,Guairaçá,X,X,-,-,-,-,2
+4108957,PR,Guamiranga,X,X,-,-,-,-,2
+4109005,PR,Guapirama,X,X,-,-,-,-,2
+4109104,PR,Guaporema,X,X,-,-,-,-,2
+4109203,PR,Guaraci,X,X,-,-,-,-,2
+4109302,PR,Guaraniaçu,X,X,X,-,-,-,3
+4109401,PR,Guarapuava,X,X,X,X,-,-,4
+4109500,PR,Guaraqueçaba,-,X,-,-,-,-,1
+4109609,PR,Guaratuba,X,X,X,X,-,-,4
+4109658,PR,Honório Serpa,-,X,-,-,-,-,1
+4109708,PR,Ibaiti,X,X,-,-,-,-,2
+4109757,PR,Ibema,X,X,X,-,-,-,3
+4109807,PR,Ibiporã,X,X,X,-,-,-,3
+4109906,PR,Icaraíma,-,X,X,-,-,-,2
+4110003,PR,Iguaraçu,-,X,-,-,-,-,1
+4110052,PR,Iguatu,-,X,X,-,-,-,2
+4110078,PR,Imbaú,X,X,X,-,-,-,3
+4110102,PR,Imbituva,X,X,-,-,-,-,2
+4110201,PR,Inácio Martins,X,X,X,-,-,-,3
+4110300,PR,Inajá,X,X,-,-,-,-,2
+4110409,PR,Indianópolis,-,X,-,-,-,-,1
+4110508,PR,Ipiranga,-,X,X,-,-,-,2
+4110607,PR,Iporã,-,X,X,-,-,-,2
+4110656,PR,Iracema do Oeste,-,X,X,-,-,-,2
+4110706,PR,Irati,X,X,X,X,-,-,4
+4110805,PR,Iretama,-,X,-,-,-,-,1
+4110904,PR,Itaguajé,X,X,-,-,-,-,2
+4110953,PR,Itaipulândia,X,X,X,-,-,-,3
+4111001,PR,Itambaracá,X,X,X,-,-,-,3
+4111100,PR,Itambé,-,X,X,-,-,-,2
+4111209,PR,Itapejara d'Oeste,X,X,-,-,-,-,2
+4111258,PR,Itaperuçu,-,X,X,-,-,-,2
+4111308,PR,Itaúna do Sul,X,X,-,-,-,-,2
+4111407,PR,Ivaí,-,X,X,-,-,-,2
+4111506,PR,Ivaiporã,X,X,X,-,-,-,3
+4111555,PR,Ivaté,-,X,X,-,-,-,2
+4111605,PR,Ivatuba,-,X,X,-,-,-,2
+4111704,PR,Jaboti,-,X,X,-,-,-,2
+4111803,PR,Jacarezinho,X,X,X,X,-,-,4
+4111902,PR,Jaguapitã,X,X,X,-,-,-,3
+4112009,PR,Jaguariaíva,X,X,X,X,-,-,4
+4112108,PR,Jandaia do Sul,X,X,X,-,-,-,3
+4112207,PR,Janiópolis,-,X,-,-,-,-,1
+4112306,PR,Japira,X,X,-,-,-,-,2
+4112405,PR,Japurá,-,X,X,-,-,-,2
+4112504,PR,Jardim Alegre,-,X,X,-,-,-,2
+4112603,PR,Jardim Olinda,-,X,-,-,-,-,1
+4112702,PR,Jataizinho,X,X,X,-,-,-,3
+4112751,PR,Jesuítas,X,X,X,-,-,-,3
+4112801,PR,Joaquim Távora,X,X,X,-,-,-,3
+4112900,PR,Jundiaí do Sul,-,X,-,-,-,-,1
+4112959,PR,Juranda,X,X,-,-,-,-,2
+4113007,PR,Jussara,X,X,X,-,-,-,3
+4113106,PR,Kaloré,-,X,-,-,-,-,1
+4113205,PR,Lapa,X,X,X,X,-,-,4
+4113254,PR,Laranjal,-,X,-,-,-,-,1
+4113304,PR,Laranjeiras do Sul,X,X,X,X,-,-,4
+4113403,PR,Leópolis,-,X,-,-,-,-,1
+4113429,PR,Lidianópolis,-,X,-,-,-,-,1
+4113452,PR,Lindoeste,-,X,-,-,-,-,1
+4113502,PR,Loanda,X,X,-,-,-,-,2
+4113601,PR,Lobato,-,X,-,-,-,-,1
+4113700,PR,Londrina,X,X,X,X,-,-,4
+4113734,PR,Luiziana,-,X,-,-,-,-,1
+4113759,PR,Lunardelli,-,X,-,-,-,-,1
+4113809,PR,Lupionópolis,-,X,X,-,-,-,2
+4113908,PR,Mallet,-,X,X,-,-,-,2
+4114005,PR,Mamborê,X,X,X,-,-,-,3
+4114104,PR,Mandaguaçu,X,X,-,-,-,-,2
+4114203,PR,Mandaguari,X,X,X,X,-,-,4
+4114302,PR,Mandirituba,X,X,X,-,-,-,3
+4114351,PR,Manfrinópolis,-,X,-,-,-,-,1
+4114401,PR,Mangueirinha,-,X,X,-,-,-,2
+4114500,PR,Manoel Ribas,X,X,X,-,-,-,3
+4114609,PR,Marechal Cândido Rondon,X,X,X,-,-,-,3
+4114708,PR,Maria Helena,-,X,-,-,-,-,1
+4114807,PR,Marialva,X,X,X,X,-,-,4
+4114906,PR,Marilândia do Sul,X,X,X,-,-,-,3
+4115002,PR,Marilena,-,X,X,-,-,-,2
+4115101,PR,Mariluz,-,X,-,-,-,-,1
+4115200,PR,Maringá,X,X,X,X,-,-,4
+4115309,PR,Mariópolis,X,X,X,-,-,-,3
+4115358,PR,Maripá,-,X,-,-,-,-,1
+4115408,PR,Marmeleiro,X,X,-,-,-,-,2
+4115457,PR,Marquinho,-,X,-,-,-,-,1
+4115507,PR,Marumbi,X,X,-,-,-,-,2
+4115606,PR,Matelândia,X,X,X,-,-,-,3
+4115705,PR,Matinhos,X,X,X,-,-,-,3
+4115739,PR,Mato Rico,-,X,-,-,-,-,1
+4115754,PR,Mauá da Serra,X,X,X,-,-,-,3
+4115804,PR,Medianeira,X,X,X,X,-,-,4
+4115853,PR,Mercedes,-,X,X,-,-,-,2
+4115903,PR,Mirador,-,X,-,-,-,-,1
+4116000,PR,Miraselva,-,X,-,-,-,-,1
+4116059,PR,Missal,-,X,X,-,-,-,2
+4116109,PR,Moreira Sales,X,X,X,-,-,-,3
+4116208,PR,Morretes,X,X,X,-,-,-,3
+4116307,PR,Munhoz de Melo,-,X,-,-,-,-,1
+4116406,PR,Nossa Senhora das Graças,-,X,X,-,-,-,2
+4116505,PR,Nova Aliança do Ivaí,X,X,-,-,-,-,2
+4116604,PR,Nova América da Colina,-,X,-,-,-,-,1
+4116703,PR,Nova Aurora,X,X,X,-,-,-,3
+4116802,PR,Nova Cantu,X,X,X,-,-,-,3
+4116901,PR,Nova Esperança,X,X,-,-,-,-,2
+4116950,PR,Nova Esperança do Sudoeste,-,X,-,-,-,-,1
+4117008,PR,Nova Fátima,X,X,X,-,-,-,3
+4117057,PR,Nova Laranjeiras,-,X,X,-,-,-,2
+4117107,PR,Nova Londrina,X,X,-,-,-,-,2
+4117206,PR,Nova Olímpia,-,X,X,-,-,-,2
+4117255,PR,Nova Prata do Iguaçu,X,X,X,-,-,-,3
+4117214,PR,Nova Santa Bárbara,X,X,-,-,-,-,2
+4117222,PR,Nova Santa Rosa,-,X,X,-,-,-,2
+4117271,PR,Nova Tebas,-,X,-,-,-,-,1
+4117297,PR,Novo Itacolomi,-,X,-,-,-,-,1
+4117305,PR,Ortigueira,X,X,X,-,-,-,3
+4117404,PR,Ourizona,-,X,X,-,-,-,2
+4117453,PR,Ouro Verde do Oeste,-,X,-,-,-,-,1
+4117503,PR,Paiçandu,X,X,X,-,-,-,3
+4117602,PR,Palmas,X,X,X,X,-,-,4
+4117701,PR,Palmeira,X,X,X,X,-,-,4
+4117800,PR,Palmital,X,X,X,-,-,-,3
+4117909,PR,Palotina,X,X,X,-,-,-,3
+4118006,PR,Paraíso do Norte,X,X,-,-,-,-,2
+4118105,PR,Paranacity,X,X,-,-,-,-,2
+4118204,PR,Paranaguá,X,X,X,X,-,-,4
+4118303,PR,Paranapoema,X,X,-,-,-,-,2
+4118402,PR,Paranavaí,X,X,X,X,-,-,4
+4118451,PR,Pato Bragado,-,X,-,-,-,-,1
+4118501,PR,Pato Branco,X,X,X,X,-,-,4
+4118600,PR,Paula Freitas,-,X,-,-,-,-,1
+4118709,PR,Paulo Frontin,-,X,-,-,-,-,1
+4118808,PR,Peabiru,X,X,X,-,-,-,3
+4118857,PR,Perobal,-,X,-,-,-,-,1
+4118907,PR,Pérola,X,X,-,-,-,-,2
+4119004,PR,Pérola d'Oeste,-,X,X,-,-,-,2
+4119103,PR,Piên,X,X,X,-,-,-,3
+4119152,PR,Pinhais,X,X,X,X,-,-,4
+4119251,PR,Pinhal de São Bento,-,X,-,-,-,-,1
+4119202,PR,Pinhalão,-,X,X,-,-,-,2
+4119301,PR,Pinhão,X,X,X,X,-,-,4
+4119400,PR,Piraí do Sul,X,X,-,-,-,-,2
+4119509,PR,Piraquara,X,X,X,-,-,-,3
+4119608,PR,Pitanga,X,X,X,X,-,-,4
+4119657,PR,Pitangueiras,X,X,-,-,-,-,2
+4119707,PR,Planaltina do Paraná,X,X,-,-,-,-,2
+4119806,PR,Planalto,X,X,X,-,-,-,3
+4119905,PR,Ponta Grossa,X,X,X,X,-,-,4
+4119954,PR,Pontal do Paraná,X,X,X,-,-,-,3
+4120002,PR,Porecatu,X,X,-,-,-,-,2
+4120101,PR,Porto Amazonas,X,X,-,-,-,-,2
+4120150,PR,Porto Barreiro,-,X,-,-,-,-,1
+4120200,PR,Porto Rico,X,X,-,-,-,-,2
+4120309,PR,Porto Vitória,-,X,-,-,-,-,1
+4120333,PR,Prado Ferreira,-,X,-,-,-,-,1
+4120358,PR,Pranchita,-,X,-,-,-,-,1
+4120408,PR,Presidente Castelo Branco,-,X,-,-,-,-,1
+4120507,PR,Primeiro de Maio,X,X,X,-,-,-,3
+4120606,PR,Prudentópolis,X,X,X,X,-,-,4
+4120655,PR,Quarto Centenário,-,X,-,-,-,-,1
+4120705,PR,Quatiguá,-,X,X,-,-,-,2
+4120804,PR,Quatro Barras,X,X,X,X,-,-,4
+4120853,PR,Quatro Pontes,-,X,-,-,-,-,1
+4120903,PR,Quedas do Iguaçu,-,X,X,X,-,-,3
+4121000,PR,Querência do Norte,-,X,X,-,-,-,2
+4121109,PR,Quinta do Sol,-,X,-,-,-,-,1
+4121208,PR,Quitandinha,X,X,X,-,-,-,3
+4121257,PR,Ramilândia,-,X,X,-,-,-,2
+4121307,PR,Rancho Alegre,X,X,-,-,-,-,2
+4121356,PR,Rancho Alegre D'Oeste,-,X,-,-,-,-,1
+4121406,PR,Realeza,X,X,-,-,-,-,2
+4121505,PR,Rebouças,X,X,X,-,-,-,3
+4121604,PR,Renascença,X,X,-,-,-,-,2
+4121703,PR,Reserva,X,X,-,-,-,-,2
+4121752,PR,Reserva do Iguaçu,-,X,X,-,-,-,2
+4121802,PR,Ribeirão Claro,X,X,-,-,-,-,2
+4121901,PR,Ribeirão do Pinhal,X,X,X,-,-,-,3
+4122008,PR,Rio Azul,X,X,X,-,-,-,3
+4122107,PR,Rio Bom,-,X,-,-,-,-,1
+4122156,PR,Rio Bonito do Iguaçu,X,X,-,-,-,-,2
+4122172,PR,Rio Branco do Ivaí,-,X,-,-,-,-,1
+4122206,PR,Rio Branco do Sul,-,X,X,X,-,-,3
+4122305,PR,Rio Negro,X,X,X,X,-,-,4
+4122404,PR,Rolândia,X,X,X,-,-,-,3
+4122503,PR,Roncador,-,X,X,-,-,-,2
+4122602,PR,Rondon,X,X,X,-,-,-,3
+4122651,PR,Rosário do Ivaí,-,X,-,-,-,-,1
+4122701,PR,Sabáudia,-,X,-,-,-,-,1
+4122800,PR,Salgado Filho,-,X,-,-,-,-,1
+4122909,PR,Salto do Itararé,-,X,-,-,-,-,1
+4123006,PR,Salto do Lontra,X,X,X,-,-,-,3
+4123105,PR,Santa Amélia,-,X,-,-,-,-,1
+4123204,PR,Santa Cecília do Pavão,X,X,-,-,-,-,2
+4123303,PR,Santa Cruz de Monte Castelo,X,X,-,-,-,-,2
+4123402,PR,Santa Fé,X,X,-,-,-,-,2
+4123501,PR,Santa Helena,X,X,X,-,-,-,3
+4123600,PR,Santa Inês,-,X,-,X,-,-,2
+4123709,PR,Santa Isabel do Ivaí,X,X,X,-,-,-,3
+4123808,PR,Santa Izabel do Oeste,-,X,-,-,-,-,1
+4123824,PR,Santa Lúcia,-,X,X,-,-,-,2
+4123857,PR,Santa Maria do Oeste,-,X,X,-,-,-,2
+4123907,PR,Santa Mariana,X,X,X,-,-,-,3
+4123956,PR,Santa Mônica,X,X,-,-,-,-,2
+4124020,PR,Santa Tereza do Oeste,X,X,X,-,-,-,3
+4124053,PR,Santa Terezinha de Itaipu,X,X,-,-,-,-,2
+4124004,PR,Santana do Itararé,X,X,-,-,-,-,2
+4124103,PR,Santo Antônio da Platina,X,X,X,X,-,-,4
+4124202,PR,Santo Antônio do Caiuá,X,X,-,-,-,-,2
+4124301,PR,Santo Antônio do Paraíso,-,X,-,-,-,-,1
+4124400,PR,Santo Antônio do Sudoeste,X,X,-,-,-,-,2
+4124509,PR,Santo Inácio,-,X,-,X,-,-,2
+4124608,PR,São Carlos do Ivaí,-,X,X,-,-,-,2
+4124707,PR,São Jerônimo da Serra,X,X,X,-,-,-,3
+4124806,PR,São João,X,X,X,-,-,-,3
+4124905,PR,São João do Caiuá,-,X,X,-,-,-,2
+4125001,PR,São João do Ivaí,-,X,X,-,-,-,2
+4125100,PR,São João do Triunfo,-,X,X,-,-,-,2
+4125308,PR,São Jorge do Ivaí,-,X,X,-,-,-,2
+4125357,PR,São Jorge do Patrocínio,X,X,-,-,-,-,2
+4125209,PR,São Jorge d'Oeste,-,X,X,-,-,-,2
+4125407,PR,São José da Boa Vista,-,X,-,-,-,-,1
+4125456,PR,São José das Palmeiras,-,X,X,-,-,-,2
+4125506,PR,São José dos Pinhais,X,X,X,X,-,-,4
+4125555,PR,São Manoel do Paraná,X,X,-,-,-,-,2
+4125605,PR,São Mateus do Sul,X,X,X,X,-,-,4
+4125704,PR,São Miguel do Iguaçu,X,X,X,-,-,-,3
+4125753,PR,São Pedro do Iguaçu,-,X,-,-,-,-,1
+4125803,PR,São Pedro do Ivaí,X,X,X,-,-,-,3
+4125902,PR,São Pedro do Paraná,X,X,-,-,-,-,2
+4126009,PR,São Sebastião da Amoreira,X,X,X,-,-,-,3
+4126108,PR,São Tomé,X,X,-,-,-,-,2
+4126207,PR,Sapopema,-,X,-,-,-,-,1
+4126256,PR,Sarandi,X,X,X,X,-,-,4
+4126272,PR,Saudade do Iguaçu,-,X,-,-,-,-,1
+4126306,PR,Sengés,-,X,-,-,-,-,1
+4126355,PR,Serranópolis do Iguaçu,X,X,-,-,-,-,2
+4126405,PR,Sertaneja,X,X,X,-,-,-,3
+4126504,PR,Sertanópolis,X,X,X,-,-,-,3
+4126603,PR,Siqueira Campos,-,X,-,-,-,-,1
+4126652,PR,Sulina,-,X,-,-,-,-,1
+4126678,PR,Tamarana,X,X,-,-,-,-,2
+4126702,PR,Tamboara,X,X,-,-,-,-,2
+4126801,PR,Tapejara,-,X,-,-,-,-,1
+4126900,PR,Tapira,X,X,-,-,-,-,2
+4127007,PR,Teixeira Soares,X,X,X,-,-,-,3
+4127106,PR,Telêmaco Borba,X,X,X,X,-,-,4
+4127205,PR,Terra Boa,X,X,-,-,-,-,2
+4127304,PR,Terra Rica,X,X,X,-,-,-,3
+4127403,PR,Terra Roxa,X,X,X,-,-,-,3
+4127502,PR,Tibagi,X,X,-,-,-,-,2
+4127601,PR,Tijucas do Sul,X,X,-,-,-,-,2
+4127700,PR,Toledo,X,X,X,X,-,-,4
+4127809,PR,Tomazina,-,X,X,-,-,-,2
+4127858,PR,Três Barras do Paraná,X,X,X,-,-,-,3
+4127882,PR,Tunas do Paraná,-,X,X,-,-,-,2
+4127908,PR,Tuneiras do Oeste,-,X,X,-,-,-,2
+4127957,PR,Tupãssi,-,X,X,-,-,-,2
+4127965,PR,Turvo,X,X,X,-,-,-,3
+4128005,PR,Ubiratã,X,X,X,-,-,-,3
+4128104,PR,Umuarama,X,X,X,X,-,-,4
+4128203,PR,União da Vitória,X,X,X,X,-,-,4
+4128302,PR,Uniflor,-,X,-,-,-,-,1
+4128401,PR,Uraí,X,X,X,-,-,-,3
+4128534,PR,Ventania,-,X,-,-,-,-,1
+4128559,PR,Vera Cruz do Oeste,X,X,X,-,-,-,3
+4128609,PR,Verê,-,X,-,-,-,-,1
+4128658,PR,Virmond,X,X,-,X,-,-,3
+4128708,PR,Vitorino,X,X,X,-,-,-,3
+4128500,PR,Wenceslau Braz,-,X,X,-,-,-,2
+4128807,PR,Xambrê,-,X,-,-,-,-,1
+1100015,RO,Alta Floresta D'Oeste,X,-,X,-,-,-,2
+1100403,RO,Alto Paraíso,X,X,-,-,-,-,2
+1100346,RO,Alvorada D'Oeste,X,X,X,-,-,-,3
+1100023,RO,Ariquemes,X,X,X,-,-,-,3
+1100452,RO,Buritis,-,X,X,X,-,-,3
+1100049,RO,Cacoal,X,X,X,-,-,-,3
+1100700,RO,Campo Novo de Rondônia,-,-,X,-,-,-,1
+1100809,RO,Candeias do Jamari,X,X,X,-,-,-,3
+1100908,RO,Castanheiras,X,-,X,-,-,-,2
+1100056,RO,Cerejeiras,-,X,X,-,-,-,2
+1100924,RO,Chupinguaia,-,-,X,-,-,-,1
+1100064,RO,Colorado do Oeste,X,X,X,-,-,-,3
+1100080,RO,Costa Marques,-,-,X,-,-,-,1
+1100940,RO,Cujubim,-,-,X,-,-,-,1
+1100098,RO,Espigão D'Oeste,X,-,X,-,-,-,2
+1101005,RO,Governador Jorge Teixeira,X,-,-,-,-,-,1
+1100106,RO,Guajará-Mirim,X,-,X,X,-,-,3
+1101104,RO,Itapuã do Oeste,-,-,X,-,-,-,1
+1100114,RO,Jaru,X,X,X,X,-,-,4
+1100122,RO,Ji-Paraná,X,X,X,X,-,-,4
+1100130,RO,Machadinho D'Oeste,X,X,X,-,-,-,3
+1101203,RO,Ministro Andreazza,X,-,-,-,-,-,1
+1101302,RO,Mirante da Serra,-,-,X,-,-,-,1
+1101401,RO,Monte Negro,-,X,X,-,-,-,2
+1100148,RO,Nova Brasilândia D'Oeste,X,-,X,-,-,-,2
+1100338,RO,Nova Mamoré,X,-,X,-,-,-,2
+1100155,RO,Ouro Preto do Oeste,X,X,X,X,-,-,4
+1100189,RO,Pimenta Bueno,X,X,X,X,-,-,4
+1101468,RO,Pimenteiras do Oeste,-,-,X,-,-,-,1
+1100205,RO,Porto Velho,X,X,X,X,-,-,4
+1100254,RO,Presidente Médici,X,X,X,-,-,-,3
+1101476,RO,Primavera de Rondônia,-,-,X,-,-,-,1
+1100262,RO,Rio Crespo,-,-,-,X,-,-,1
+1100288,RO,Rolim de Moura,X,X,X,X,-,-,4
+1100296,RO,Santa Luzia D'Oeste,X,-,-,-,-,-,1
+1101492,RO,São Francisco do Guaporé,-,-,X,-,-,-,1
+1100320,RO,São Miguel do Guaporé,X,-,X,-,-,-,2
+1101500,RO,Seringueiras,-,-,X,-,-,-,1
+1101559,RO,Teixeirópolis,-,-,X,-,-,-,1
+1101609,RO,Theobroma,-,-,X,-,-,-,1
+1101708,RO,Urupá,X,-,-,-,-,-,1
+1101757,RO,Vale do Anari,-,-,X,-,-,-,1
+1101807,RO,Vale do Paraíso,-,-,X,-,-,-,1
+1100304,RO,Vilhena,X,X,X,-,-,-,3
+4300034,RS,Aceguá,X,-,-,-,-,-,1
+4300109,RS,Agudo,X,X,-,-,-,-,2
+4300208,RS,Ajuricaba,X,X,-,-,-,-,2
+4300307,RS,Alecrim,X,X,-,-,-,-,2
+4300406,RS,Alegrete,X,X,X,X,-,-,4
+4300455,RS,Alegria,X,-,-,-,-,-,1
+4300505,RS,Alpestre,X,-,-,-,-,-,1
+4300554,RS,Alto Alegre,X,-,-,-,-,-,1
+4300570,RS,Alto Feliz,X,-,-,X,-,-,2
+4300604,RS,Alvorada,X,X,X,X,-,-,4
+4300638,RS,Amaral Ferrador,X,-,X,-,-,-,2
+4300646,RS,Ametista do Sul,X,-,-,-,-,-,1
+4300661,RS,André da Rocha,X,-,-,-,-,-,1
+4300703,RS,Anta Gorda,X,-,X,-,-,-,2
+4300802,RS,Antônio Prado,X,X,X,-,-,-,3
+4300851,RS,Arambaré,X,X,-,-,-,-,2
+4300877,RS,Araricá,X,X,X,-,-,-,3
+4300901,RS,Aratiba,X,X,X,-,-,-,3
+4301008,RS,Arroio do Meio,X,X,X,-,-,-,3
+4301073,RS,Arroio do Padre,-,X,-,-,-,-,1
+4301057,RS,Arroio do Sal,X,X,X,-,-,-,3
+4301206,RS,Arroio do Tigre,X,-,X,-,-,-,2
+4301107,RS,Arroio dos Ratos,X,-,X,-,-,-,2
+4301305,RS,Arroio Grande,X,X,X,-,-,-,3
+4301404,RS,Arvorezinha,X,X,X,-,-,-,3
+4301503,RS,Augusto Pestana,X,X,X,-,-,-,3
+4301602,RS,Bagé,X,X,X,X,-,-,4
+4301636,RS,Balneário Pinhal,X,X,X,-,-,-,3
+4301651,RS,Barão,X,X,-,-,-,-,2
+4301701,RS,Barão de Cotegipe,X,-,-,-,-,-,1
+4301750,RS,Barão do Triunfo,X,-,X,-,-,-,2
+4301859,RS,Barra do Guarita,X,X,-,-,-,-,2
+4301875,RS,Barra do Quaraí,X,-,-,-,-,-,1
+4301909,RS,Barra do Ribeiro,X,X,X,-,-,-,3
+4301925,RS,Barra do Rio Azul,-,-,X,-,-,-,1
+4301958,RS,Barra Funda,X,-,-,-,-,-,1
+4301800,RS,Barracão,X,-,-,-,-,-,1
+4302006,RS,Barros Cassal,X,X,-,-,-,-,2
+4302055,RS,Benjamin Constant do Sul,-,-,-,X,-,-,1
+4302105,RS,Bento Gonçalves,X,X,X,X,-,-,4
+4302154,RS,Boa Vista das Missões,X,-,-,-,-,-,1
+4302204,RS,Boa Vista do Buricá,X,X,-,-,-,-,2
+4302238,RS,Boa Vista do Incra,-,X,-,-,-,-,1
+4302253,RS,Boa Vista do Sul,X,-,-,-,-,-,1
+4302303,RS,Bom Jesus,X,X,-,-,-,-,2
+4302352,RS,Bom Princípio,X,X,X,-,-,-,3
+4302378,RS,Bom Progresso,X,-,-,-,-,-,1
+4302402,RS,Bom Retiro do Sul,X,X,-,-,-,-,2
+4302451,RS,Boqueirão do Leão,X,-,-,-,-,-,1
+4302501,RS,Bossoroca,X,X,-,-,-,-,2
+4302584,RS,Bozano,X,X,-,-,-,-,2
+4302600,RS,Braga,-,X,-,-,-,-,1
+4302659,RS,Brochier,X,-,-,-,-,-,1
+4302709,RS,Butiá,X,X,-,-,-,-,2
+4302808,RS,Caçapava do Sul,X,X,X,X,-,-,4
+4302907,RS,Cacequi,X,X,X,-,-,-,3
+4303004,RS,Cachoeira do Sul,X,X,X,-,-,-,3
+4303103,RS,Cachoeirinha,X,X,X,X,-,-,4
+4303202,RS,Cacique Doble,X,-,-,-,-,-,1
+4303301,RS,Caibaté,X,X,-,-,-,-,2
+4303400,RS,Caiçara,X,-,-,-,-,-,1
+4303509,RS,Camaquã,X,X,X,X,-,-,4
+4303608,RS,Cambará do Sul,X,X,X,-,-,-,3
+4303673,RS,Campestre da Serra,X,X,-,-,-,-,2
+4303707,RS,Campina das Missões,X,X,-,-,-,-,2
+4303806,RS,Campinas do Sul,X,X,X,-,-,-,3
+4303905,RS,Campo Bom,X,X,X,-,-,-,3
+4304002,RS,Campo Novo,X,-,-,-,-,-,1
+4304101,RS,Campos Borges,X,-,-,-,-,-,1
+4304200,RS,Candelária,X,X,X,X,-,-,4
+4304309,RS,Cândido Godói,X,X,-,-,-,-,2
+4304358,RS,Candiota,X,X,-,-,-,-,2
+4304408,RS,Canela,X,X,X,X,-,-,4
+4304507,RS,Canguçu,X,X,X,-,-,-,3
+4304606,RS,Canoas,X,X,X,X,-,-,4
+4304614,RS,Canudos do Vale,-,-,X,-,-,-,1
+4304622,RS,Capão Bonito do Sul,X,-,-,-,-,-,1
+4304630,RS,Capão da Canoa,X,X,X,-,-,-,3
+4304655,RS,Capão do Cipó,-,X,-,-,-,-,1
+4304663,RS,Capão do Leão,X,X,X,-,-,-,3
+4304689,RS,Capela de Santana,X,X,-,-,-,-,2
+4304697,RS,Capitão,-,-,X,-,-,-,1
+4304671,RS,Capivari do Sul,X,X,-,-,-,-,2
+4304713,RS,Caraá,X,-,X,-,-,-,2
+4304705,RS,Carazinho,X,X,X,X,-,-,4
+4304804,RS,Carlos Barbosa,X,X,X,-,-,-,3
+4304853,RS,Carlos Gomes,-,-,X,-,-,-,1
+4304903,RS,Casca,X,X,X,-,-,-,3
+4304952,RS,Caseiros,X,-,-,-,-,-,1
+4305009,RS,Catuípe,X,X,X,-,-,-,3
+4305108,RS,Caxias do Sul,X,X,X,X,-,-,4
+4305116,RS,Centenário,X,-,X,-,-,-,2
+4305124,RS,Cerrito,X,X,-,-,-,-,2
+4305132,RS,Cerro Branco,X,-,-,-,-,-,1
+4305157,RS,Cerro Grande,-,-,X,-,-,-,1
+4305173,RS,Cerro Grande do Sul,X,-,-,-,-,-,1
+4305207,RS,Cerro Largo,X,X,-,-,-,-,2
+4305306,RS,Chapada,X,-,X,-,-,-,2
+4305355,RS,Charqueadas,X,X,X,-,-,-,3
+4305371,RS,Charrua,X,-,-,-,-,-,1
+4305405,RS,Chiapetta,X,-,-,-,-,-,1
+4305439,RS,Chuí,X,X,-,-,-,-,2
+4305447,RS,Chuvisca,X,X,-,-,-,-,2
+4305454,RS,Cidreira,X,X,X,-,-,-,3
+4305504,RS,Ciríaco,X,X,-,-,-,-,2
+4305587,RS,Colinas,-,-,X,-,-,-,1
+4305702,RS,Condor,X,-,X,-,-,-,2
+4305801,RS,Constantina,X,X,-,-,-,-,2
+4305835,RS,Coqueiro Baixo,-,-,X,-,-,-,1
+4305850,RS,Coqueiros do Sul,-,-,-,X,-,-,1
+4305871,RS,Coronel Barros,X,-,-,-,-,-,1
+4305900,RS,Coronel Bicaco,X,X,-,-,-,-,2
+4305934,RS,Coronel Pilar,-,-,X,-,-,-,1
+4305959,RS,Cotiporã,X,-,-,-,-,-,1
+4305975,RS,Coxilha,X,X,-,-,-,-,2
+4306007,RS,Crissiumal,X,X,-,-,-,-,2
+4306056,RS,Cristal,X,X,-,-,-,-,2
+4306072,RS,Cristal do Sul,-,-,X,-,-,-,1
+4306106,RS,Cruz Alta,X,X,X,X,-,-,4
+4306205,RS,Cruzeiro do Sul,X,X,-,-,-,-,2
+4306304,RS,David Canabarro,-,X,-,-,-,-,1
+4306320,RS,Derrubadas,X,X,-,-,-,-,2
+4306353,RS,Dezesseis de Novembro,X,-,-,-,-,-,1
+4306403,RS,Dois Irmãos,X,X,X,X,-,-,4
+4306429,RS,Dois Irmãos das Missões,-,-,X,-,-,-,1
+4306452,RS,Dois Lajeados,X,X,-,-,-,-,2
+4306502,RS,Dom Feliciano,X,-,X,-,-,-,2
+4306601,RS,Dom Pedrito,X,X,X,-,-,-,3
+4306551,RS,Dom Pedro de Alcântara,-,X,-,-,-,-,1
+4306700,RS,Dona Francisca,X,X,-,-,-,-,2
+4306734,RS,Doutor Maurício Cardoso,X,-,-,-,-,-,1
+4306759,RS,Doutor Ricardo,-,X,-,-,-,-,1
+4306767,RS,Eldorado do Sul,X,X,X,-,-,-,3
+4306809,RS,Encantado,X,X,X,-,-,-,3
+4306908,RS,Encruzilhada do Sul,X,X,-,-,-,-,2
+4306924,RS,Engenho Velho,-,-,-,X,-,-,1
+4306957,RS,Entre Rios do Sul,X,-,-,-,-,-,1
+4306932,RS,Entre-Ijuís,X,X,X,-,-,-,3
+4306973,RS,Erebango,X,-,X,-,-,-,2
+4307005,RS,Erechim,X,X,X,X,-,-,4
+4307054,RS,Ernestina,X,X,X,-,-,-,3
+4307203,RS,Erval Grande,X,-,-,-,-,-,1
+4307302,RS,Erval Seco,X,-,-,-,-,-,1
+4307401,RS,Esmeralda,X,-,-,-,-,-,1
+4307450,RS,Esperança do Sul,X,-,-,-,-,-,1
+4307500,RS,Espumoso,X,X,X,-,-,-,3
+4307559,RS,Estação,X,X,X,-,-,-,3
+4307609,RS,Estância Velha,X,X,X,X,-,-,4
+4307708,RS,Esteio,X,X,X,-,-,-,3
+4307807,RS,Estrela,X,X,X,X,-,-,4
+4307815,RS,Estrela Velha,-,-,X,-,-,-,1
+4307831,RS,Eugênio de Castro,-,X,-,-,-,-,1
+4307864,RS,Fagundes Varela,X,-,-,X,-,-,2
+4307906,RS,Farroupilha,X,X,X,X,-,-,4
+4308003,RS,Faxinal do Soturno,X,X,X,-,-,-,3
+4308052,RS,Faxinalzinho,X,-,-,-,-,-,1
+4308078,RS,Fazenda Vilanova,X,X,-,-,-,-,2
+4308102,RS,Feliz,X,X,X,-,-,-,3
+4308201,RS,Flores da Cunha,X,X,X,-,-,-,3
+4308250,RS,Floriano Peixoto,-,X,-,-,-,-,1
+4308300,RS,Fontoura Xavier,X,X,-,-,-,-,2
+4308409,RS,Formigueiro,X,-,X,-,-,-,2
+4308433,RS,Forquetinha,-,-,X,-,-,-,1
+4308458,RS,Fortaleza dos Valos,X,-,-,-,-,-,1
+4308508,RS,Frederico Westphalen,X,-,X,-,-,-,2
+4308607,RS,Garibaldi,X,X,X,X,-,-,4
+4308656,RS,Garruchos,-,X,-,-,-,-,1
+4308706,RS,Gaurama,X,X,-,-,-,-,2
+4308805,RS,General Câmara,X,X,X,-,-,-,3
+4308904,RS,Getúlio Vargas,X,X,X,-,-,-,3
+4309001,RS,Giruá,X,X,X,-,-,-,3
+4309050,RS,Glorinha,X,-,X,-,-,-,2
+4309100,RS,Gramado,X,X,X,X,-,-,4
+4309126,RS,Gramado dos Loureiros,-,-,X,-,-,-,1
+4309159,RS,Gramado Xavier,-,-,X,-,-,-,1
+4309209,RS,Gravataí,X,X,X,X,-,-,4
+4309258,RS,Guabiju,-,-,-,X,-,-,1
+4309308,RS,Guaíba,X,X,X,-,-,-,3
+4309407,RS,Guaporé,X,X,X,-,-,-,3
+4309506,RS,Guarani das Missões,X,-,-,-,-,-,1
+4309555,RS,Harmonia,X,-,-,-,-,-,1
+4307104,RS,Herval,X,X,-,-,-,-,2
+4309571,RS,Herveiras,-,-,X,-,-,-,1
+4309605,RS,Horizontina,X,-,X,-,-,-,2
+4309654,RS,Hulha Negra,X,-,-,-,-,-,1
+4309704,RS,Humaitá,X,-,-,-,-,-,1
+4309753,RS,Ibarama,X,-,-,-,-,-,1
+4309803,RS,Ibiaçá,X,-,-,-,-,-,1
+4309902,RS,Ibiraiaras,X,-,-,-,-,-,1
+4309951,RS,Ibirapuitã,X,-,-,-,-,-,1
+4310009,RS,Ibirubá,X,X,X,-,-,-,3
+4310108,RS,Igrejinha,X,X,X,-,-,-,3
+4310207,RS,Ijuí,X,X,X,X,-,-,4
+4310306,RS,Ilópolis,X,-,-,-,-,-,1
+4310330,RS,Imbé,X,X,X,-,-,-,3
+4310363,RS,Imigrante,-,X,-,-,-,-,1
+4310405,RS,Independência,X,-,-,-,-,-,1
+4310413,RS,Inhacorá,X,-,-,-,-,-,1
+4310439,RS,Ipê,X,X,-,-,-,-,2
+4310462,RS,Ipiranga do Sul,-,-,X,-,-,-,1
+4310504,RS,Iraí,X,X,-,-,-,-,2
+4310538,RS,Itaara,X,X,X,-,-,-,3
+4310553,RS,Itacurubi,X,-,-,-,-,-,1
+4310579,RS,Itapuca,X,-,-,X,-,-,2
+4310603,RS,Itaqui,X,X,X,X,-,-,4
+4310652,RS,Itati,X,X,-,X,-,-,3
+4310702,RS,Itatiba do Sul,X,-,-,-,-,-,1
+4310751,RS,Ivorá,-,X,-,-,-,-,1
+4310801,RS,Ivoti,X,X,X,-,-,-,3
+4310850,RS,Jaboticaba,X,-,-,-,-,-,1
+4310876,RS,Jacuizinho,X,-,-,-,-,-,1
+4310900,RS,Jacutinga,X,-,-,-,-,-,1
+4311007,RS,Jaguarão,X,X,X,-,-,-,3
+4311106,RS,Jaguari,X,X,-,-,-,-,2
+4311122,RS,Jaquirana,X,-,-,-,-,-,1
+4311130,RS,Jari,-,X,-,-,-,-,1
+4311155,RS,Jóia,X,-,X,-,-,-,2
+4311205,RS,Júlio de Castilhos,X,X,X,-,-,-,3
+4311239,RS,Lagoa Bonita do Sul,-,-,X,-,-,-,1
+4311270,RS,Lagoa dos Três Cantos,-,X,-,-,-,-,1
+4311304,RS,Lagoa Vermelha,X,-,-,-,-,-,1
+4311254,RS,Lagoão,X,-,-,-,-,-,1
+4311403,RS,Lajeado,X,X,X,X,-,-,4
+4311429,RS,Lajeado do Bugre,-,-,X,-,-,-,1
+4311502,RS,Lavras do Sul,X,-,-,-,-,-,1
+4311601,RS,Liberato Salzano,X,-,X,-,-,-,2
+4311627,RS,Lindolfo Collor,X,-,X,-,-,-,2
+4311643,RS,Linha Nova,-,-,X,-,-,-,1
+4311718,RS,Maçambará,-,X,-,X,-,-,2
+4311700,RS,Machadinho,X,-,X,-,-,-,2
+4311734,RS,Mampituba,-,X,X,-,-,-,2
+4311759,RS,Manoel Viana,X,-,-,-,-,-,1
+4311775,RS,Maquiné,X,X,X,-,-,-,3
+4311791,RS,Maratá,X,-,-,-,-,-,1
+4311809,RS,Marau,X,X,X,X,-,-,4
+4311908,RS,Marcelino Ramos,X,X,X,-,-,-,3
+4311981,RS,Mariana Pimentel,X,-,X,-,-,-,2
+4312005,RS,Mariano Moro,-,-,-,X,-,-,1
+4312054,RS,Marques de Souza,X,X,X,-,-,-,3
+4312104,RS,Mata,X,X,-,-,-,-,2
+4312138,RS,Mato Castelhano,X,-,-,-,-,-,1
+4312153,RS,Mato Leitão,X,-,X,-,-,-,2
+4312179,RS,Mato Queimado,X,X,-,X,-,-,3
+4312203,RS,Maximiliano de Almeida,X,-,-,-,-,-,1
+4312252,RS,Minas do Leão,X,X,-,-,-,-,2
+4312302,RS,Miraguaí,X,-,-,-,-,-,1
+4312351,RS,Montauri,X,-,-,-,-,-,1
+4312377,RS,Monte Alegre dos Campos,X,-,-,-,-,-,1
+4312385,RS,Monte Belo do Sul,-,-,X,-,-,-,1
+4312401,RS,Montenegro,X,X,X,-,-,-,3
+4312427,RS,Mormaço,-,X,-,-,-,-,1
+4312443,RS,Morrinhos do Sul,-,-,X,-,-,-,1
+4312450,RS,Morro Redondo,-,X,X,-,-,-,2
+4312476,RS,Morro Reuter,X,X,X,-,-,-,3
+4312500,RS,Mostardas,X,-,X,-,-,-,2
+4312609,RS,Muçum,X,X,-,-,-,-,2
+4312617,RS,Muitos Capões,X,-,-,-,-,-,1
+4312625,RS,Muliterno,X,-,-,-,-,-,1
+4312658,RS,Não-Me-Toque,X,X,-,X,-,-,3
+4312674,RS,Nicolau Vergueiro,-,-,X,-,-,-,1
+4312708,RS,Nonoai,X,X,X,-,-,-,3
+4312757,RS,Nova Alvorada,-,X,-,X,-,-,2
+4312807,RS,Nova Araçá,X,X,-,-,-,-,2
+4312906,RS,Nova Bassano,X,X,X,-,-,-,3
+4312955,RS,Nova Boa Vista,X,-,X,-,-,-,2
+4313003,RS,Nova Bréscia,-,X,-,X,-,-,2
+4313011,RS,Nova Candelária,X,-,-,-,-,-,1
+4313037,RS,Nova Esperança do Sul,X,X,-,-,-,-,2
+4313060,RS,Nova Hartz,X,X,X,-,-,-,3
+4313086,RS,Nova Pádua,-,X,-,-,-,-,1
+4313102,RS,Nova Palma,X,-,-,-,-,-,1
+4313201,RS,Nova Petrópolis,X,X,X,X,-,-,4
+4313300,RS,Nova Prata,X,X,X,-,-,-,3
+4313334,RS,Nova Ramada,X,-,-,-,-,-,1
+4313359,RS,Nova Roma do Sul,X,-,-,-,-,-,1
+4313375,RS,Nova Santa Rita,X,X,X,-,-,-,3
+4313490,RS,Novo Barreiro,-,-,X,-,-,-,1
+4313391,RS,Novo Cabrais,X,-,-,-,-,-,1
+4313409,RS,Novo Hamburgo,X,X,X,X,-,-,4
+4313425,RS,Novo Machado,X,-,-,-,-,-,1
+4313466,RS,Novo Xingu,X,-,-,-,-,-,1
+4313508,RS,Osório,X,X,X,-,-,-,3
+4313607,RS,Paim Filho,-,-,-,X,-,-,1
+4313656,RS,Palmares do Sul,X,X,X,-,-,-,3
+4313706,RS,Palmeira das Missões,X,X,X,-,-,-,3
+4313805,RS,Palmitinho,X,-,-,-,-,-,1
+4313904,RS,Panambi,X,X,X,-,-,-,3
+4313953,RS,Pantano Grande,X,X,X,-,-,-,3
+4314001,RS,Paraí,X,X,-,-,-,-,2
+4314027,RS,Paraíso do Sul,X,-,-,-,-,-,1
+4314035,RS,Pareci Novo,X,-,-,X,-,-,2
+4314050,RS,Parobé,X,X,X,-,-,-,3
+4314068,RS,Passa Sete,-,-,X,-,-,-,1
+4314076,RS,Passo do Sobrado,X,-,-,-,-,-,1
+4314100,RS,Passo Fundo,X,X,X,X,-,-,4
+4314134,RS,Paulo Bento,-,-,X,-,-,-,1
+4314159,RS,Paverama,X,-,X,-,-,-,2
+4314175,RS,Pedras Altas,-,-,X,-,-,-,1
+4314209,RS,Pedro Osório,X,X,X,-,-,-,3
+4314308,RS,Pejuçara,X,-,-,-,-,-,1
+4314407,RS,Pelotas,X,X,X,X,-,-,4
+4314423,RS,Picada Café,X,X,X,-,-,-,3
+4314456,RS,Pinhal,X,-,-,-,-,-,1
+4314464,RS,Pinhal da Serra,-,X,-,-,-,-,1
+4314472,RS,Pinhal Grande,X,-,-,-,-,-,1
+4314498,RS,Pinheirinho do Vale,-,-,X,-,-,-,1
+4314506,RS,Pinheiro Machado,X,X,X,-,-,-,3
+4314548,RS,Pinto Bandeira,X,-,-,-,-,-,1
+4314555,RS,Pirapó,-,X,-,-,-,-,1
+4314605,RS,Piratini,X,-,-,-,-,-,1
+4314704,RS,Planalto,X,X,-,-,-,-,2
+4314753,RS,Poço das Antas,-,-,X,X,-,-,2
+4314779,RS,Pontão,-,X,-,-,-,-,1
+4314787,RS,Ponte Preta,-,-,X,-,-,-,1
+4314803,RS,Portão,X,X,X,X,-,-,4
+4314902,RS,Porto Alegre,X,X,X,X,-,-,4
+4315008,RS,Porto Lucena,X,X,-,-,-,-,2
+4315057,RS,Porto Mauá,X,-,-,-,-,-,1
+4315073,RS,Porto Vera Cruz,-,-,X,-,-,-,1
+4315107,RS,Porto Xavier,X,X,-,-,-,-,2
+4315131,RS,Pouso Novo,X,-,-,X,-,-,2
+4315149,RS,Presidente Lucena,X,-,-,-,-,-,1
+4315156,RS,Progresso,X,X,X,-,-,-,3
+4315172,RS,Protásio Alves,X,-,-,X,-,-,2
+4315206,RS,Putinga,-,-,X,X,-,-,2
+4315305,RS,Quaraí,X,X,-,-,-,-,2
+4315313,RS,Quatro Irmãos,-,-,X,-,-,-,1
+4315321,RS,Quevedos,-,X,-,-,-,-,1
+4315404,RS,Redentora,X,-,-,-,-,-,1
+4315453,RS,Relvado,-,-,X,-,-,-,1
+4315503,RS,Restinga Sêca,X,X,X,-,-,-,3
+4315552,RS,Rio dos Índios,X,-,-,-,-,-,1
+4315602,RS,Rio Grande,X,X,X,X,-,-,4
+4315701,RS,Rio Pardo,X,X,X,X,-,-,4
+4315750,RS,Riozinho,X,-,-,-,-,-,1
+4315800,RS,Roca Sales,X,X,X,-,-,-,3
+4315909,RS,Rodeio Bonito,X,-,-,-,-,-,1
+4315958,RS,Rolador,X,-,-,X,-,-,2
+4316006,RS,Rolante,X,X,-,-,-,-,2
+4316105,RS,Ronda Alta,X,-,-,-,-,-,1
+4316204,RS,Rondinha,X,-,X,-,-,-,2
+4316303,RS,Roque Gonzales,X,X,-,-,-,-,2
+4316402,RS,Rosário do Sul,X,X,X,-,-,-,3
+4316428,RS,Sagrada Família,-,-,X,-,-,-,1
+4316436,RS,Saldanha Marinho,X,-,-,-,-,-,1
+4316451,RS,Salto do Jacuí,X,-,-,-,-,-,1
+4316477,RS,Salvador das Missões,-,X,-,-,-,-,1
+4316501,RS,Salvador do Sul,X,X,-,-,-,-,2
+4316600,RS,Sananduva,X,-,-,-,-,-,1
+4316709,RS,Santa Bárbara do Sul,X,-,X,-,-,-,2
+4316758,RS,Santa Clara do Sul,X,X,X,-,-,-,3
+4316808,RS,Santa Cruz do Sul,X,X,X,X,-,-,4
+4316972,RS,Santa Margarida do Sul,X,X,-,-,-,-,2
+4316907,RS,Santa Maria,X,X,X,X,-,-,4
+4316956,RS,Santa Maria do Herval,X,-,X,-,-,-,2
+4317202,RS,Santa Rosa,X,X,X,X,-,-,4
+4317251,RS,Santa Tereza,X,-,-,-,-,-,1
+4317301,RS,Santa Vitória do Palmar,X,X,X,-,-,-,3
+4317004,RS,Santana da Boa Vista,X,-,X,-,-,-,2
+4317103,RS,Sant'Ana do Livramento,X,X,X,X,-,-,4
+4317400,RS,Santiago,X,X,X,X,-,-,4
+4317509,RS,Santo Ângelo,X,X,X,X,-,-,4
+4317608,RS,Santo Antônio da Patrulha,X,X,X,-,-,-,3
+4317707,RS,Santo Antônio das Missões,X,X,-,-,-,-,2
+4317558,RS,Santo Antônio do Palma,X,-,-,-,-,-,1
+4317756,RS,Santo Antônio do Planalto,X,X,-,-,-,-,2
+4317806,RS,Santo Augusto,X,-,-,-,-,-,1
+4317905,RS,Santo Cristo,X,X,-,X,-,-,3
+4317954,RS,Santo Expedito do Sul,-,X,-,-,-,-,1
+4318002,RS,São Borja,X,X,X,-,-,-,3
+4318051,RS,São Domingos do Sul,X,-,-,-,-,-,1
+4318101,RS,São Francisco de Assis,X,X,X,-,-,-,3
+4318200,RS,São Francisco de Paula,X,X,X,-,-,-,3
+4318309,RS,São Gabriel,X,X,X,X,-,-,4
+4318408,RS,São Jerônimo,X,X,X,X,-,-,4
+4318424,RS,São João da Urtiga,X,-,-,-,-,-,1
+4318432,RS,São João do Polêsine,-,X,-,X,-,-,2
+4318440,RS,São Jorge,X,-,-,-,-,-,1
+4318457,RS,São José das Missões,X,-,X,-,-,-,2
+4318465,RS,São José do Herval,X,-,X,-,-,-,2
+4318481,RS,São José do Hortêncio,X,-,-,-,-,-,1
+4318499,RS,São José do Inhacorá,-,-,-,X,-,-,1
+4318507,RS,São José do Norte,X,X,X,-,-,-,3
+4318606,RS,São José do Ouro,X,-,-,-,-,-,1
+4318614,RS,São José do Sul,X,-,-,-,-,-,1
+4318622,RS,São José dos Ausentes,X,-,-,-,-,-,1
+4318705,RS,São Leopoldo,X,X,X,X,-,-,4
+4318804,RS,São Lourenço do Sul,X,X,X,-,-,-,3
+4318903,RS,São Luiz Gonzaga,X,X,X,X,-,-,4
+4319000,RS,São Marcos,X,X,X,-,-,-,3
+4319109,RS,São Martinho,X,-,-,-,-,-,1
+4319125,RS,São Martinho da Serra,X,-,-,-,-,-,1
+4319158,RS,São Miguel das Missões,X,X,-,-,-,-,2
+4319208,RS,São Nicolau,X,-,-,-,-,-,1
+4319307,RS,São Paulo das Missões,X,-,-,-,-,-,1
+4319356,RS,São Pedro da Serra,X,-,-,X,-,-,2
+4319364,RS,São Pedro das Missões,-,-,-,X,-,-,1
+4319372,RS,São Pedro do Butiá,X,-,-,-,-,-,1
+4319406,RS,São Pedro do Sul,X,X,-,-,-,-,2
+4319505,RS,São Sebastião do Caí,X,X,X,-,-,-,3
+4319604,RS,São Sepé,X,X,X,-,-,-,3
+4319703,RS,São Valentim,X,-,-,-,-,-,1
+4319711,RS,São Valentim do Sul,X,-,-,X,-,-,2
+4319737,RS,São Valério do Sul,X,-,-,-,-,-,1
+4319752,RS,São Vendelino,X,X,-,-,-,-,2
+4319802,RS,São Vicente do Sul,X,X,-,-,-,-,2
+4319901,RS,Sapiranga,X,X,X,-,-,-,3
+4320008,RS,Sapucaia do Sul,X,X,X,X,-,-,4
+4320107,RS,Sarandi,X,X,X,-,-,-,3
+4320206,RS,Seberi,X,X,-,-,-,-,2
+4320230,RS,Sede Nova,X,-,-,-,-,-,1
+4320263,RS,Segredo,X,-,-,-,-,-,1
+4320305,RS,Selbach,X,X,-,-,-,-,2
+4320321,RS,Senador Salgado Filho,X,X,-,-,-,-,2
+4320354,RS,Sentinela do Sul,X,-,-,-,-,-,1
+4320404,RS,Serafina Corrêa,X,X,X,-,-,-,3
+4320453,RS,Sério,-,-,X,-,-,-,1
+4320503,RS,Sertão,X,X,-,-,-,-,2
+4320552,RS,Sertão Santana,X,-,-,-,-,-,1
+4320578,RS,Sete de Setembro,X,-,-,X,-,-,2
+4320602,RS,Severiano de Almeida,X,-,-,-,-,-,1
+4320651,RS,Silveira Martins,X,-,-,X,-,-,2
+4320677,RS,Sinimbu,X,-,X,-,-,-,2
+4320701,RS,Sobradinho,X,-,X,-,-,-,2
+4320800,RS,Soledade,X,X,X,X,-,-,4
+4320859,RS,Tabaí,X,-,-,-,-,-,1
+4320909,RS,Tapejara,X,-,X,-,-,-,2
+4321006,RS,Tapera,X,X,X,-,-,-,3
+4321105,RS,Tapes,X,X,X,-,-,-,3
+4321204,RS,Taquara,X,X,X,-,-,-,3
+4321303,RS,Taquari,X,X,X,-,-,-,3
+4321329,RS,Taquaruçu do Sul,X,-,-,-,-,-,1
+4321352,RS,Tavares,X,-,X,-,-,-,2
+4321402,RS,Tenente Portela,X,X,-,-,-,-,2
+4321436,RS,Terra de Areia,X,X,X,-,-,-,3
+4321451,RS,Teutônia,X,X,X,-,-,-,3
+4321469,RS,Tio Hugo,X,-,-,-,-,-,1
+4321477,RS,Tiradentes do Sul,X,-,-,-,-,-,1
+4321493,RS,Toropi,-,X,-,-,-,-,1
+4321501,RS,Torres,X,X,X,X,-,-,4
+4321600,RS,Tramandaí,X,X,X,X,-,-,4
+4321626,RS,Travesseiro,X,-,-,-,-,-,1
+4321667,RS,Três Cachoeiras,X,X,X,-,-,-,3
+4321709,RS,Três Coroas,X,X,X,-,-,-,3
+4321808,RS,Três de Maio,X,-,X,-,-,-,2
+4321832,RS,Três Forquilhas,-,X,-,-,-,-,1
+4321857,RS,Três Palmeiras,X,-,-,-,-,-,1
+4321907,RS,Três Passos,X,X,X,-,-,-,3
+4321956,RS,Trindade do Sul,X,-,X,-,-,-,2
+4322004,RS,Triunfo,X,X,X,-,-,-,3
+4322103,RS,Tucunduva,X,-,-,-,-,-,1
+4322152,RS,Tunas,-,X,-,-,-,-,1
+4322186,RS,Tupanci do Sul,-,X,-,-,-,-,1
+4322202,RS,Tupanciretã,X,X,-,-,-,-,2
+4322251,RS,Tupandi,X,-,-,-,-,-,1
+4322301,RS,Tuparendi,X,X,-,-,-,-,2
+4322327,RS,Turuçu,-,X,-,-,-,-,1
+4322343,RS,Ubiretama,-,X,-,-,-,-,1
+4322350,RS,União da Serra,X,-,-,X,-,-,2
+4322376,RS,Unistalda,X,-,-,-,-,-,1
+4322400,RS,Uruguaiana,X,X,X,X,-,-,4
+4322509,RS,Vacaria,X,X,X,X,-,-,4
+4322533,RS,Vale do Sol,X,X,X,-,-,-,3
+4322541,RS,Vale Real,X,X,-,-,-,-,2
+4322525,RS,Vale Verde,X,-,-,-,-,-,1
+4322558,RS,Vanini,-,X,-,-,-,-,1
+4322608,RS,Venâncio Aires,X,X,X,-,-,-,3
+4322707,RS,Vera Cruz,X,X,X,-,-,-,3
+4322806,RS,Veranópolis,X,X,X,-,-,-,3
+4322855,RS,Vespasiano Corrêa,X,X,X,-,-,-,3
+4322905,RS,Viadutos,X,X,X,-,-,-,3
+4323002,RS,Viamão,X,X,X,X,-,-,4
+4323101,RS,Vicente Dutra,X,-,-,-,-,-,1
+4323200,RS,Victor Graeff,X,-,-,-,-,-,1
+4323309,RS,Vila Flores,X,X,-,-,-,-,2
+4323408,RS,Vila Maria,X,X,X,-,-,-,3
+4323457,RS,Vila Nova do Sul,X,X,-,-,-,-,2
+4323507,RS,Vista Alegre,X,-,-,-,-,-,1
+4323606,RS,Vista Alegre do Prata,X,-,-,-,-,-,1
+4323705,RS,Vista Gaúcha,X,-,-,-,-,-,1
+4323754,RS,Vitória das Missões,-,X,-,-,-,-,1
+4323770,RS,Westfália,-,X,-,-,-,-,1
+4323804,RS,Xangri-lá,X,X,X,-,-,-,3
+4200051,SC,Abdon Batista,-,X,X,-,-,-,2
+4200101,SC,Abelardo Luz,-,X,X,-,-,-,2
+4200200,SC,Agrolândia,X,X,X,-,-,-,3
+4200309,SC,Agronômica,-,X,X,-,-,-,2
+4200408,SC,Água Doce,X,X,X,-,-,-,3
+4200507,SC,Águas de Chapecó,X,X,X,-,-,-,3
+4200556,SC,Águas Frias,-,X,X,-,-,-,2
+4200606,SC,Águas Mornas,X,X,-,-,-,-,2
+4200705,SC,Alfredo Wagner,-,X,X,-,-,-,2
+4200754,SC,Alto Bela Vista,-,X,-,-,-,-,1
+4200804,SC,Anchieta,-,X,-,-,-,-,1
+4200903,SC,Angelina,-,X,-,-,-,-,1
+4201000,SC,Anita Garibaldi,-,X,X,-,-,-,2
+4201109,SC,Anitápolis,-,X,X,-,-,-,2
+4201208,SC,Antônio Carlos,X,X,X,-,-,-,3
+4201257,SC,Apiúna,X,X,X,-,-,-,3
+4201273,SC,Arabutã,-,X,-,-,-,-,1
+4201307,SC,Araquari,X,X,X,-,-,-,3
+4201406,SC,Araranguá,X,X,X,X,-,-,4
+4201505,SC,Armazém,X,X,X,-,-,-,3
+4201604,SC,Arroio Trinta,-,X,-,-,-,-,1
+4201653,SC,Arvoredo,-,X,-,-,-,-,1
+4201703,SC,Ascurra,X,X,X,-,-,-,3
+4201802,SC,Atalanta,-,X,X,X,-,-,3
+4201901,SC,Aurora,X,X,-,-,-,-,2
+4201950,SC,Balneário Arroio do Silva,X,X,-,-,-,-,2
+4202057,SC,Balneário Barra do Sul,X,X,-,-,-,-,2
+4202008,SC,Balneário Camboriú,X,X,X,X,-,-,4
+4202073,SC,Balneário Gaivota,X,X,X,-,-,-,3
+4212809,SC,Balneário Piçarras,X,X,X,-,-,-,3
+4220000,SC,Balneário Rincão,X,X,-,-,-,-,2
+4202081,SC,Bandeirante,X,X,-,-,-,-,2
+4202099,SC,Barra Bonita,-,X,-,-,-,-,1
+4202107,SC,Barra Velha,X,X,X,-,-,-,3
+4202131,SC,Bela Vista do Toldo,-,X,-,-,-,-,1
+4202156,SC,Belmonte,X,X,-,-,-,-,2
+4202206,SC,Benedito Novo,-,X,X,-,-,-,2
+4202305,SC,Biguaçu,X,X,X,-,-,-,3
+4202404,SC,Blumenau,X,X,X,X,-,-,4
+4202438,SC,Bocaina do Sul,X,X,-,-,-,-,2
+4202503,SC,Bom Jardim da Serra,X,X,-,X,-,-,3
+4202537,SC,Bom Jesus,-,X,X,-,-,-,2
+4202578,SC,Bom Jesus do Oeste,-,X,-,-,-,-,1
+4202602,SC,Bom Retiro,-,X,X,-,-,-,2
+4202453,SC,Bombinhas,X,X,X,-,-,-,3
+4202701,SC,Botuverá,-,X,-,-,-,-,1
+4202800,SC,Braço do Norte,X,X,X,-,-,-,3
+4202859,SC,Braço do Trombudo,-,X,-,X,-,-,2
+4202875,SC,Brunópolis,X,X,-,-,-,-,2
+4202909,SC,Brusque,X,X,X,X,-,-,4
+4203006,SC,Caçador,X,X,X,X,-,-,4
+4203105,SC,Caibi,X,X,X,-,-,-,3
+4203154,SC,Calmon,-,X,-,-,-,-,1
+4203204,SC,Camboriú,X,X,X,X,-,-,4
+4203303,SC,Campo Alegre,-,X,-,-,-,-,1
+4203402,SC,Campo Belo do Sul,-,X,X,-,-,-,2
+4203501,SC,Campo Erê,X,X,X,-,-,-,3
+4203600,SC,Campos Novos,X,X,X,X,-,-,4
+4203709,SC,Canelinha,X,X,X,-,-,-,3
+4203808,SC,Canoinhas,X,X,X,X,-,-,4
+4203253,SC,Capão Alto,-,X,X,X,-,-,3
+4203907,SC,Capinzal,X,X,-,-,-,-,2
+4203956,SC,Capivari de Baixo,X,X,X,-,-,-,3
+4204004,SC,Catanduvas,X,X,X,-,-,-,3
+4204103,SC,Caxambu do Sul,-,X,-,-,-,-,1
+4204152,SC,Celso Ramos,-,X,X,-,-,-,2
+4204178,SC,Cerro Negro,-,X,X,-,-,-,2
+4204194,SC,Chapadão do Lageado,-,X,-,-,-,-,1
+4204202,SC,Chapecó,X,X,X,X,-,-,4
+4204251,SC,Cocal do Sul,X,X,X,-,-,-,3
+4204301,SC,Concórdia,X,X,X,X,-,-,4
+4204350,SC,Cordilheira Alta,-,X,X,X,-,-,3
+4204400,SC,Coronel Freitas,X,X,-,-,-,-,2
+4204459,SC,Coronel Martins,-,X,X,-,-,-,2
+4204558,SC,Correia Pinto,X,X,X,-,-,-,3
+4204509,SC,Corupá,X,X,X,-,-,-,3
+4204608,SC,Criciúma,X,X,X,X,-,-,4
+4204707,SC,Cunha Porã,X,X,-,-,-,-,2
+4204756,SC,Cunhataí,-,X,-,-,-,-,1
+4204806,SC,Curitibanos,X,X,X,X,-,-,4
+4204905,SC,Descanso,X,X,X,-,-,-,3
+4205001,SC,Dionísio Cerqueira,X,X,X,-,-,-,3
+4205100,SC,Dona Emma,-,X,-,-,-,-,1
+4205159,SC,Doutor Pedrinho,-,X,-,-,-,-,1
+4205175,SC,Entre Rios,-,X,X,-,-,-,2
+4205191,SC,Ermo,X,X,-,-,-,-,2
+4205209,SC,Erval Velho,-,X,-,X,-,-,2
+4205308,SC,Faxinal dos Guedes,X,X,X,-,-,-,3
+4205357,SC,Flor do Sertão,-,X,-,-,-,-,1
+4205407,SC,Florianópolis,X,X,X,X,-,-,4
+4205431,SC,Formosa do Sul,-,X,-,-,-,-,1
+4205456,SC,Forquilhinha,X,X,-,-,-,-,2
+4205506,SC,Fraiburgo,X,X,X,X,-,-,4
+4205555,SC,Frei Rogério,-,X,X,-,-,-,2
+4205605,SC,Galvão,-,X,-,-,-,-,1
+4205704,SC,Garopaba,X,X,X,-,-,-,3
+4205803,SC,Garuva,X,X,X,-,-,-,3
+4205902,SC,Gaspar,X,X,X,X,-,-,4
+4206009,SC,Governador Celso Ramos,X,X,X,-,-,-,3
+4206108,SC,Grão Pará,-,X,X,-,-,-,2
+4206207,SC,Gravatal,X,X,-,-,-,-,2
+4206306,SC,Guabiruba,X,X,X,-,-,-,3
+4206405,SC,Guaraciaba,X,X,-,-,-,-,2
+4206504,SC,Guaramirim,X,X,X,-,-,-,3
+4206603,SC,Guarujá do Sul,X,X,-,-,-,-,2
+4206652,SC,Guatambú,-,X,-,-,-,-,1
+4206702,SC,Herval d'Oeste,X,X,X,-,-,-,3
+4206751,SC,Ibiam,-,X,-,-,-,-,1
+4206801,SC,Ibicaré,-,X,-,X,-,-,2
+4206900,SC,Ibirama,X,X,X,-,-,-,3
+4207007,SC,Içara,X,X,X,X,-,-,4
+4207106,SC,Ilhota,X,X,-,-,-,-,2
+4207205,SC,Imaruí,-,X,-,-,-,-,1
+4207304,SC,Imbituba,X,X,X,-,-,-,3
+4207403,SC,Imbuia,-,X,-,-,-,-,1
+4207502,SC,Indaial,X,X,X,-,-,-,3
+4207577,SC,Iomerê,X,X,-,X,-,-,3
+4207601,SC,Ipira,-,X,X,-,-,-,2
+4207650,SC,Iporã do Oeste,X,X,-,-,-,-,2
+4207684,SC,Ipuaçu,-,X,-,-,-,-,1
+4207700,SC,Ipumirim,-,X,X,-,-,-,2
+4207759,SC,Iraceminha,-,X,-,X,-,-,2
+4207809,SC,Irani,X,X,X,-,-,-,3
+4207858,SC,Irati,-,X,-,-,-,-,1
+4207908,SC,Irineópolis,-,X,X,-,-,-,2
+4208005,SC,Itá,-,X,X,-,-,-,2
+4208104,SC,Itaiópolis,X,X,-,-,-,-,2
+4208203,SC,Itajaí,X,X,X,X,-,-,4
+4208302,SC,Itapema,X,X,X,X,-,-,4
+4208401,SC,Itapiranga,X,X,X,-,-,-,3
+4208450,SC,Itapoá,X,X,X,-,-,-,3
+4208500,SC,Ituporanga,X,X,-,-,-,-,2
+4208609,SC,Jaborá,X,X,-,-,-,-,2
+4208708,SC,Jacinto Machado,X,X,X,-,-,-,3
+4208807,SC,Jaguaruna,X,X,X,-,-,-,3
+4208906,SC,Jaraguá do Sul,X,X,X,X,-,-,4
+4208955,SC,Jardinópolis,-,X,-,-,-,-,1
+4209003,SC,Joaçaba,X,X,X,-,-,-,3
+4209102,SC,Joinville,X,X,X,X,-,-,4
+4209151,SC,José Boiteux,-,X,-,-,-,-,1
+4209177,SC,Jupiá,-,X,X,-,-,-,2
+4209201,SC,Lacerdópolis,-,X,-,-,-,-,1
+4209300,SC,Lages,X,X,X,X,-,-,4
+4209409,SC,Laguna,X,X,X,X,-,-,4
+4209458,SC,Lajeado Grande,-,X,X,-,-,-,2
+4209508,SC,Laurentino,-,X,X,-,-,-,2
+4209607,SC,Lauro Muller,X,X,-,-,-,-,2
+4209706,SC,Lebon Régis,X,X,-,-,-,-,2
+4209805,SC,Leoberto Leal,-,X,X,X,-,-,3
+4209854,SC,Lindóia do Sul,-,X,-,-,-,-,1
+4209904,SC,Lontras,X,X,X,-,-,-,3
+4210001,SC,Luiz Alves,X,X,X,-,-,-,3
+4210035,SC,Luzerna,-,X,X,-,-,-,2
+4210050,SC,Macieira,-,X,-,-,-,-,1
+4210100,SC,Mafra,X,X,X,X,-,-,4
+4210209,SC,Major Gercino,-,X,X,-,-,-,2
+4210308,SC,Major Vieira,-,X,-,-,-,-,1
+4210407,SC,Maracajá,-,X,X,-,-,-,2
+4210506,SC,Maravilha,X,X,X,-,-,-,3
+4210555,SC,Marema,-,X,X,-,-,-,2
+4210605,SC,Massaranduba,X,X,X,-,-,-,3
+4210704,SC,Matos Costa,-,X,-,-,-,-,1
+4210803,SC,Meleiro,X,X,X,-,-,-,3
+4210852,SC,Mirim Doce,-,X,-,X,-,-,2
+4210902,SC,Modelo,-,X,X,-,-,-,2
+4211009,SC,Mondaí,X,X,-,-,-,-,2
+4211058,SC,Monte Carlo,X,X,-,-,-,-,2
+4211108,SC,Monte Castelo,X,X,X,-,-,-,3
+4211207,SC,Morro da Fumaça,X,X,-,-,-,-,2
+4211256,SC,Morro Grande,-,X,-,X,-,-,2
+4211306,SC,Navegantes,X,X,X,X,-,-,4
+4211405,SC,Nova Erechim,-,X,-,-,-,-,1
+4211454,SC,Nova Itaberaba,-,X,-,X,-,-,2
+4211504,SC,Nova Trento,X,X,X,-,-,-,3
+4211603,SC,Nova Veneza,X,X,X,-,-,-,3
+4211652,SC,Novo Horizonte,-,X,-,-,-,-,1
+4211702,SC,Orleans,X,X,-,-,-,-,2
+4211751,SC,Otacílio Costa,X,X,X,-,-,-,3
+4211801,SC,Ouro,X,X,-,-,-,-,2
+4211850,SC,Ouro Verde,-,X,X,-,-,-,2
+4211876,SC,Paial,-,X,-,-,-,-,1
+4211892,SC,Painel,-,X,X,-,-,-,2
+4211900,SC,Palhoça,X,X,X,X,-,-,4
+4212007,SC,Palma Sola,X,X,X,-,-,-,3
+4212056,SC,Palmeira,-,X,X,-,-,-,2
+4212106,SC,Palmitos,X,X,X,-,-,-,3
+4212205,SC,Papanduva,X,X,X,-,-,-,3
+4212239,SC,Paraíso,-,X,-,-,-,-,1
+4212254,SC,Passo de Torres,-,X,X,-,-,-,2
+4212270,SC,Passos Maia,-,X,-,-,-,-,1
+4212304,SC,Paulo Lopes,X,X,X,-,-,-,3
+4212403,SC,Pedras Grandes,X,X,-,X,-,-,3
+4212502,SC,Penha,X,X,X,-,-,-,3
+4212601,SC,Peritiba,-,X,-,-,-,-,1
+4212650,SC,Pescaria Brava,X,X,-,-,-,-,2
+4212700,SC,Petrolândia,X,X,-,-,-,-,2
+4212908,SC,Pinhalzinho,X,X,X,-,-,-,3
+4213005,SC,Pinheiro Preto,X,X,-,X,-,-,3
+4213104,SC,Piratuba,-,X,X,-,-,-,2
+4213153,SC,Planalto Alegre,-,X,-,-,-,-,1
+4213203,SC,Pomerode,X,X,X,-,-,-,3
+4213302,SC,Ponte Alta,X,X,X,-,-,-,3
+4213351,SC,Ponte Alta do Norte,X,X,-,-,-,-,2
+4213401,SC,Ponte Serrada,X,X,X,-,-,-,3
+4213500,SC,Porto Belo,X,X,X,-,-,-,3
+4213609,SC,Porto União,X,X,X,-,-,-,3
+4213708,SC,Pouso Redondo,X,X,X,-,-,-,3
+4213807,SC,Praia Grande,X,X,X,-,-,-,3
+4213906,SC,Presidente Castello Branco,-,X,-,-,-,-,1
+4214003,SC,Presidente Getúlio,X,X,X,-,-,-,3
+4214102,SC,Presidente Nereu,-,X,X,X,-,-,3
+4214151,SC,Princesa,-,X,-,-,-,-,1
+4214201,SC,Quilombo,X,X,-,-,-,-,2
+4214300,SC,Rancho Queimado,X,X,X,-,-,-,3
+4214409,SC,Rio das Antas,X,X,-,-,-,-,2
+4214508,SC,Rio do Campo,-,X,-,-,-,-,1
+4214607,SC,Rio do Oeste,X,X,X,-,-,-,3
+4214805,SC,Rio do Sul,X,X,X,X,-,-,4
+4214706,SC,Rio dos Cedros,X,X,X,-,-,-,3
+4214904,SC,Rio Fortuna,X,X,-,-,-,-,2
+4215000,SC,Rio Negrinho,X,X,X,X,-,-,4
+4215059,SC,Rio Rufino,-,X,-,-,-,-,1
+4215075,SC,Riqueza,-,X,-,-,-,-,1
+4215109,SC,Rodeio,X,X,X,-,-,-,3
+4215208,SC,Romelândia,-,X,-,-,-,-,1
+4215307,SC,Salete,-,X,X,-,-,-,2
+4215356,SC,Saltinho,-,X,-,-,-,-,1
+4215406,SC,Salto Veloso,-,X,-,X,-,-,2
+4215455,SC,Sangão,-,X,X,-,-,-,2
+4215505,SC,Santa Cecília,X,X,X,-,-,-,3
+4215554,SC,Santa Helena,X,X,-,-,-,-,2
+4215604,SC,Santa Rosa de Lima,-,X,-,-,-,-,1
+4215653,SC,Santa Rosa do Sul,X,X,X,-,-,-,3
+4215679,SC,Santa Terezinha,-,X,-,-,-,-,1
+4215687,SC,Santa Terezinha do Progresso,-,X,-,-,-,-,1
+4215695,SC,Santiago do Sul,-,X,-,-,-,-,1
+4215703,SC,Santo Amaro da Imperatriz,X,X,-,-,-,-,2
+4215802,SC,São Bento do Sul,X,X,X,X,-,-,4
+4215752,SC,São Bernardino,-,X,-,-,-,-,1
+4215901,SC,São Bonifácio,-,X,X,-,-,-,2
+4216008,SC,São Carlos,X,X,X,-,-,-,3
+4216057,SC,São Cristovão do Sul,X,X,-,-,-,-,2
+4216107,SC,São Domingos,X,X,X,-,-,-,3
+4216206,SC,São Francisco do Sul,X,X,X,X,-,-,4
+4216305,SC,São João Batista,X,X,X,-,-,-,3
+4216354,SC,São João do Itaperiú,-,X,-,X,-,-,2
+4216255,SC,São João do Oeste,-,X,-,-,-,-,1
+4216404,SC,São João do Sul,X,X,X,-,-,-,3
+4216503,SC,São Joaquim,X,X,X,-,-,-,3
+4216602,SC,São José,X,X,X,X,-,-,4
+4216701,SC,São José do Cedro,X,X,X,-,-,-,3
+4216800,SC,São José do Cerrito,-,X,X,-,-,-,2
+4216909,SC,São Lourenço do Oeste,X,X,-,-,-,-,2
+4217006,SC,São Ludgero,-,X,X,-,-,-,2
+4217105,SC,São Martinho,-,X,-,-,-,-,1
+4217154,SC,São Miguel da Boa Vista,-,X,-,-,-,-,1
+4217204,SC,São Miguel do Oeste,X,X,X,X,-,-,4
+4217253,SC,São Pedro de Alcântara,-,X,X,-,-,-,2
+4217303,SC,Saudades,-,X,X,-,-,-,2
+4217402,SC,Schroeder,X,X,X,-,-,-,3
+4217501,SC,Seara,X,X,-,-,-,-,2
+4217550,SC,Serra Alta,-,X,-,-,-,-,1
+4217600,SC,Siderópolis,X,X,X,-,-,-,3
+4217709,SC,Sombrio,X,X,X,-,-,-,3
+4217758,SC,Sul Brasil,-,X,-,X,-,-,2
+4217808,SC,Taió,X,X,-,-,-,-,2
+4217907,SC,Tangará,X,X,X,-,-,-,3
+4217956,SC,Tigrinhos,-,X,-,-,-,-,1
+4218004,SC,Tijucas,X,X,X,-,-,-,3
+4218103,SC,Timbé do Sul,X,X,-,-,-,-,2
+4218202,SC,Timbó,X,X,X,-,-,-,3
+4218251,SC,Timbó Grande,-,X,X,-,-,-,2
+4218301,SC,Três Barras,X,X,-,-,-,-,2
+4218350,SC,Treviso,-,X,-,-,-,-,1
+4218400,SC,Treze de Maio,-,X,-,-,-,-,1
+4218509,SC,Treze Tílias,X,X,X,-,-,-,3
+4218608,SC,Trombudo Central,-,X,X,-,-,-,2
+4218707,SC,Tubarão,X,X,X,-,-,-,3
+4218756,SC,Tunápolis,X,X,-,-,-,-,2
+4218806,SC,Turvo,X,X,X,-,-,-,3
+4218855,SC,União do Oeste,-,X,-,-,-,-,1
+4218905,SC,Urubici,X,X,X,-,-,-,3
+4218954,SC,Urupema,X,X,-,-,-,-,2
+4219002,SC,Urussanga,X,X,-,-,-,-,2
+4219101,SC,Vargeão,-,X,-,X,-,-,2
+4219150,SC,Vargem,-,X,X,X,-,-,3
+4219176,SC,Vargem Bonita,X,X,-,X,-,-,3
+4219200,SC,Vidal Ramos,-,X,-,-,-,-,1
+4219309,SC,Videira,X,X,X,X,-,-,4
+4219358,SC,Vitor Meireles,-,X,-,-,-,-,1
+1700251,TO,Abreulândia,-,-,X,-,-,-,1
+1700301,TO,Aguiarnópolis,X,-,X,X,-,-,3
+1700350,TO,Aliança do Tocantins,X,X,X,-,-,-,3
+1700400,TO,Almas,-,-,X,-,-,-,1
+1700707,TO,Alvorada,X,-,-,-,-,-,1
+1701002,TO,Ananás,-,-,X,-,-,-,1
+1701051,TO,Angico,-,-,X,-,-,-,1
+1701101,TO,Aparecida do Rio Negro,-,-,X,-,-,-,1
+1702109,TO,Araguaína,X,X,X,X,-,-,4
+1702158,TO,Araguanã,-,-,X,-,-,-,1
+1702208,TO,Araguatins,X,-,X,X,-,-,3
+1702307,TO,Arapoema,-,-,X,-,-,-,1
+1702406,TO,Arraias,-,-,X,-,-,-,1
+1702554,TO,Augustinópolis,X,-,X,-,-,-,2
+1702901,TO,Axixá do Tocantins,-,-,X,-,-,-,1
+1703073,TO,Barra do Ouro,-,-,X,-,-,-,1
+1703107,TO,Barrolândia,X,-,X,-,-,-,2
+1703206,TO,Bernardo Sayão,-,-,X,-,-,-,1
+1703305,TO,Bom Jesus do Tocantins,-,-,X,-,-,-,1
+1703602,TO,Brasilândia do Tocantins,-,-,X,-,-,-,1
+1703800,TO,Buriti do Tocantins,X,-,-,-,-,-,1
+1703826,TO,Cachoeirinha,-,X,-,-,-,-,1
+1703867,TO,Cariri do Tocantins,-,-,X,-,-,-,1
+1703883,TO,Carmolândia,-,-,X,-,-,-,1
+1703891,TO,Carrasco Bonito,X,-,-,-,-,-,1
+1704105,TO,Centenário,-,-,X,-,-,-,1
+1705102,TO,Chapada da Natividade,-,-,X,-,-,-,1
+1705508,TO,Colinas do Tocantins,X,X,X,X,-,-,4
+1716703,TO,Colméia,X,-,X,-,-,-,2
+1705557,TO,Combinado,-,-,X,-,-,-,1
+1706001,TO,Couto Magalhães,-,-,X,-,-,-,1
+1706100,TO,Cristalândia,-,-,X,-,-,-,1
+1706258,TO,Crixás do Tocantins,-,-,X,-,-,-,1
+1706506,TO,Darcinópolis,-,-,X,X,-,-,2
+1707009,TO,Dianópolis,-,-,X,-,-,-,1
+1707108,TO,Divinópolis do Tocantins,-,-,X,-,-,-,1
+1707306,TO,Dueré,-,-,X,-,-,-,1
+1707405,TO,Esperantina,-,-,X,-,-,-,1
+1707553,TO,Fátima,-,-,X,-,-,-,1
+1707652,TO,Figueirópolis,X,-,X,-,-,-,2
+1707702,TO,Filadélfia,X,X,-,-,-,-,2
+1708205,TO,Formoso do Araguaia,X,X,X,-,-,-,3
+1708254,TO,Fortaleza do Tabocão,-,-,X,-,-,-,1
+1709005,TO,Goiatins,-,-,-,X,-,-,1
+1709302,TO,Guaraí,X,X,-,-,-,-,2
+1709500,TO,Gurupi,X,X,X,X,-,-,4
+1709807,TO,Ipueiras,-,-,X,-,-,-,1
+1710706,TO,Itaguatins,-,-,X,-,-,-,1
+1710904,TO,Itapiratins,-,-,X,-,-,-,1
+1711803,TO,Juarina,-,-,-,X,-,-,1
+1711902,TO,Lagoa da Confusão,-,-,X,-,-,-,1
+1711951,TO,Lagoa do Tocantins,-,-,X,-,-,-,1
+1712009,TO,Lajeado,-,-,X,X,-,-,2
+1712157,TO,Lavandeira,-,-,X,-,-,-,1
+1712405,TO,Lizarda,-,-,X,-,-,-,1
+1712454,TO,Luzinópolis,-,-,-,X,-,-,1
+1712702,TO,Mateiros,-,-,X,-,-,-,1
+1712801,TO,Maurilândia do Tocantins,-,-,X,-,-,-,1
+1713205,TO,Miracema do Tocantins,X,-,X,-,-,-,2
+1713304,TO,Miranorte,X,-,X,X,-,-,3
+1713601,TO,Monte do Carmo,-,-,X,-,-,-,1
+1713957,TO,Muricilândia,-,-,X,-,-,-,1
+1714203,TO,Natividade,-,X,X,-,-,-,2
+1714302,TO,Nazaré,X,-,X,-,-,-,2
+1714880,TO,Nova Olinda,-,-,X,-,-,-,1
+1715002,TO,Nova Rosalândia,X,-,X,X,-,-,3
+1715101,TO,Novo Acordo,-,-,X,-,-,-,1
+1715259,TO,Novo Jardim,-,-,X,-,-,-,1
+1715507,TO,Oliveira de Fátima,X,-,X,-,-,-,2
+1721000,TO,Palmas,X,X,X,X,-,-,4
+1713809,TO,Palmeiras do Tocantins,-,X,X,X,-,-,3
+1716109,TO,Paraíso do Tocantins,X,X,X,X,-,-,4
+1716307,TO,Pau D'Arco,-,-,X,-,-,-,1
+1716505,TO,Pedro Afonso,-,-,X,-,-,-,1
+1716604,TO,Peixe,-,-,X,-,-,-,1
+1716653,TO,Pequizeiro,-,-,X,-,-,-,1
+1717008,TO,Pindorama do Tocantins,-,-,X,-,-,-,1
+1717206,TO,Piraquê,-,-,X,-,-,-,1
+1718006,TO,Porto Alegre do Tocantins,-,-,X,-,-,-,1
+1718204,TO,Porto Nacional,X,X,X,X,-,-,4
+1718303,TO,Praia Norte,-,X,X,-,-,-,2
+1718402,TO,Presidente Kennedy,-,-,X,X,-,-,2
+1718451,TO,Pugmil,X,-,X,-,-,-,2
+1718501,TO,Recursolândia,-,-,X,-,-,-,1
+1718550,TO,Riachinho,-,-,X,-,-,-,1
+1718659,TO,Rio da Conceição,-,-,X,-,-,-,1
+1718709,TO,Rio dos Bois,-,-,X,-,-,-,1
+1718758,TO,Rio Sono,-,-,X,-,-,-,1
+1718808,TO,Sampaio,X,-,-,-,-,-,1
+1718840,TO,Sandolândia,-,-,X,-,-,-,1
+1718865,TO,Santa Fé do Araguaia,-,-,X,-,-,-,1
+1718881,TO,Santa Maria do Tocantins,-,-,X,-,-,-,1
+1718899,TO,Santa Rita do Tocantins,-,-,X,-,-,-,1
+1718907,TO,Santa Rosa do Tocantins,-,-,X,X,-,-,2
+1719004,TO,Santa Tereza do Tocantins,-,-,X,-,-,-,1
+1720002,TO,Santa Terezinha do Tocantins,-,-,X,-,-,-,1
+1720101,TO,São Bento do Tocantins,-,-,X,-,-,-,1
+1720150,TO,São Félix do Tocantins,-,-,X,-,-,-,1
+1720309,TO,São Sebastião do Tocantins,X,-,-,-,-,-,1
+1720499,TO,São Valério,-,-,X,X,-,-,2
+1720903,TO,Taguatinga,X,X,X,-,-,-,3
+1720937,TO,Taipas do Tocantins,-,-,X,-,-,-,1
+1720978,TO,Talismã,-,-,X,-,-,-,1
+1721109,TO,Tocantínia,X,-,-,-,-,-,1
+1721208,TO,Tocantinópolis,X,X,X,-,-,-,3
+1721257,TO,Tupirama,-,-,X,-,-,-,1
+1721307,TO,Tupiratins,-,-,X,-,-,-,1
+1722081,TO,Wanderlândia,-,-,X,-,-,-,1
+1722107,TO,Xambioá,-,-,X,-,-,-,1

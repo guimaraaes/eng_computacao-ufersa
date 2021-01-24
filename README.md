@@ -21,6 +21,11 @@ Kit elaborado para bancada com impressão 3D, técnicas de carpintaria e corte a
 ### multicronometro-baixo-custo
 Multicronômetro de baixo custo com impressão 3D e automação com o sensor LRD e laser. Disponibilizado o arquivo em .pdf (apresentação no SNEF 2019) com instruções sobre o projeto, incluindo o código para o microcontrolador Atmega 328p no texto. Além disso, é disponibilizado o projeto 3D para a contução do multicronômetros.
 
+### panorama-4g-brasil
+
+Análise da tecnologia 4G diante da sua evolução e arquitetura com a descrição da distribuição desta no Brasil com os dados disponibilizados pelo portal [Teleco](https://www.teleco.com.br/). Disponibilizado o arquivo em .pdf do artigo, os arquivos .csv com os dados e o arquivo .ipynb da análise feita com python em um notebook do Colab.
+
+
 ### sistema-tolerante-a-falhas-hardware
 
 Sistema com diferentes modelos de sensores de temperadores para simular um sistema de hardware tolerante a falhas. Disponibilizado o arquivo em .pdf com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos e o código para o microcontrolador Atmega 328p.

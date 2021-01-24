@@ -1,0 +1,2695 @@
+code_ibge,up,city,Vivo,TIM,Claro,Oi,Algar,Nextel,total
+2700102,AL,Água Branca,-,X,X,-,-,-,2
+2700201,AL,Anadia,-,X,-,-,-,-,1
+2700300,AL,Arapiraca,X,X,X,X,-,-,4
+2700409,AL,Atalaia,-,X,X,-,-,-,2
+2700508,AL,Barra de Santo Antônio,-,X,X,-,-,-,2
+2700607,AL,Barra de São Miguel,X,X,X,-,-,-,3
+2700706,AL,Batalha,X,X,-,-,-,-,2
+2700805,AL,Belém,-,-,X,-,-,-,1
+2700904,AL,Belo Monte,X,-,-,-,-,-,1
+2701001,AL,Boca da Mata,-,X,-,-,-,-,1
+2701100,AL,Branquinha,X,X,-,-,-,-,2
+2701209,AL,Cacimbinhas,-,X,-,-,-,-,1
+2701308,AL,Cajueiro,-,X,-,-,-,-,1
+2701407,AL,Campo Alegre,X,X,X,X,-,-,4
+2701506,AL,Campo Grande,-,X,-,-,-,-,1
+2701605,AL,Canapi,X,-,-,-,-,-,1
+2701704,AL,Capela,-,X,-,-,-,-,1
+2701902,AL,Chã Preta,-,-,X,-,-,-,1
+2702009,AL,Coité do Nóia,X,X,-,-,-,-,2
+2702108,AL,Colônia Leopoldina,-,X,-,-,-,-,1
+2702207,AL,Coqueiro Seco,-,X,-,-,-,-,1
+2702306,AL,Coruripe,X,X,X,X,-,-,4
+2702355,AL,Craíbas,X,X,-,-,-,-,2
+2702405,AL,Delmiro Gouveia,X,X,X,X,-,-,4
+2702504,AL,Dois Riachos,X,-,-,-,-,-,1
+2702553,AL,Estrela de Alagoas,X,X,-,-,-,-,2
+2702603,AL,Feira Grande,X,X,-,-,-,-,2
+2702702,AL,Feliz Deserto,-,X,-,-,-,-,1
+2702801,AL,Flexeiras,-,X,X,-,-,-,2
+2702900,AL,Girau do Ponciano,X,X,X,X,-,-,4
+2703106,AL,Igaci,X,X,X,-,-,-,3
+2703205,AL,Igreja Nova,-,X,-,-,-,-,1
+2703304,AL,Inhapi,X,-,-,-,-,-,1
+2703403,AL,Jacaré dos Homens,X,X,-,-,-,-,2
+2703601,AL,Japaratinga,X,X,X,-,-,-,3
+2703700,AL,Jaramataia,-,X,-,-,-,-,1
+2703759,AL,Jequiá da Praia,-,X,-,-,-,-,1
+2703809,AL,Joaquim Gomes,-,X,-,-,-,-,1
+2704005,AL,Junqueiro,X,X,-,-,-,-,2
+2704104,AL,Lagoa da Canoa,-,X,X,-,-,-,2
+2704203,AL,Limoeiro de Anadia,X,X,-,-,-,-,2
+2704302,AL,Maceió,X,X,X,X,-,-,4
+2704401,AL,Major Isidoro,X,X,X,-,-,-,3
+2704906,AL,Mar Vermelho,-,-,X,-,-,-,1
+2704500,AL,Maragogi,X,X,X,-,-,-,3
+2704609,AL,Maravilha,X,-,-,-,-,-,1
+2704708,AL,Marechal Deodoro,X,X,X,-,-,-,3
+2704807,AL,Maribondo,X,X,-,-,-,-,2
+2705002,AL,Mata Grande,X,X,-,-,-,-,2
+2705101,AL,Matriz de Camaragibe,-,X,X,-,-,-,2
+2705200,AL,Messias,X,X,-,-,-,-,2
+2705408,AL,Monteirópolis,-,X,-,-,-,-,1
+2705507,AL,Murici,-,X,-,-,-,-,1
+2705606,AL,Novo Lino,X,X,-,-,-,-,2
+2705705,AL,Olho d'Água das Flores,X,X,X,-,-,-,3
+2706000,AL,Olivença,X,X,-,-,-,-,2
+2706109,AL,Ouro Branco,X,-,-,-,-,-,1
+2706208,AL,Palestina,X,-,-,-,-,-,1
+2706307,AL,Palmeira dos Índios,X,X,X,X,-,-,4
+2706406,AL,Pão de Açúcar,-,X,X,-,-,-,2
+2706422,AL,Pariconha,X,-,-,-,-,-,1
+2706448,AL,Paripueira,-,X,-,-,-,-,1
+2706505,AL,Passo de Camaragibe,X,X,-,-,-,-,2
+2706703,AL,Penedo,X,X,X,X,-,-,4
+2706802,AL,Piaçabuçu,-,X,-,-,-,-,1
+2706901,AL,Pilar,X,X,X,-,-,-,3
+2707008,AL,Pindoba,-,-,X,-,-,-,1
+2707107,AL,Piranhas,X,X,-,-,-,-,2
+2707206,AL,Poço das Trincheiras,X,-,-,-,-,-,1
+2707305,AL,Porto Calvo,-,X,X,-,-,-,2
+2707404,AL,Porto de Pedras,-,X,-,-,-,-,1
+2707503,AL,Porto Real do Colégio,X,X,X,-,-,-,3
+2707602,AL,Quebrangulo,-,X,-,-,-,-,1
+2707701,AL,Rio Largo,X,X,X,-,-,-,3
+2707800,AL,Roteiro,-,X,-,-,-,-,1
+2707909,AL,Santa Luzia do Norte,-,X,-,-,-,-,1
+2708006,AL,Santana do Ipanema,X,X,X,X,-,-,4
+2708105,AL,Santana do Mundaú,X,-,-,-,-,-,1
+2708303,AL,São José da Laje,-,X,-,-,-,-,1
+2708402,AL,São José da Tapera,X,X,X,X,-,-,4
+2708501,AL,São Luís do Quitunde,-,X,X,X,-,-,3
+2708600,AL,São Miguel dos Campos,X,X,X,X,-,-,4
+2708709,AL,São Miguel dos Milagres,X,X,X,-,-,-,3
+2708808,AL,São Sebastião,-,X,X,X,-,-,3
+2708907,AL,Satuba,-,X,-,-,-,-,1
+2708956,AL,Senador Rui Palmeira,X,-,-,-,-,-,1
+2709004,AL,Tanque d'Arca,-,-,X,-,-,-,1
+2709103,AL,Taquarana,X,X,-,-,-,-,2
+2709152,AL,Teotônio Vilela,-,X,X,-,-,-,2
+2709202,AL,Traipu,X,X,-,-,-,-,2
+2709301,AL,União dos Palmares,X,X,X,X,-,-,4
+2709400,AL,Viçosa,X,X,-,-,-,-,2
+1300029,AM,Alvarães,-,-,X,-,-,-,1
+1300060,AM,Amaturá,-,X,X,-,-,-,2
+1300086,AM,Anamã,X,-,-,-,-,-,1
+1300102,AM,Anori,X,-,-,-,-,-,1
+1300201,AM,Atalaia do Norte,-,-,X,-,-,-,1
+1300300,AM,Autazes,X,X,-,X,-,-,3
+1300508,AM,Barreirinha,X,-,X,-,-,-,2
+1300607,AM,Benjamin Constant,-,X,X,X,-,-,3
+1300631,AM,Beruri,X,-,-,-,-,-,1
+1300680,AM,Boa Vista do Ramos,X,-,-,-,-,-,1
+1300706,AM,Boca do Acre,-,X,X,X,-,-,3
+1300805,AM,Borba,X,X,X,X,-,-,4
+1300839,AM,Caapiranga,X,-,-,-,-,-,1
+1300904,AM,Canutama,-,-,X,-,-,-,1
+1301001,AM,Carauari,X,-,-,-,-,-,1
+1301100,AM,Careiro,X,X,X,X,-,-,4
+1301159,AM,Careiro da Várzea,X,-,X,-,-,-,2
+1301209,AM,Coari,X,X,X,X,-,-,4
+1301308,AM,Codajás,X,-,X,-,-,-,2
+1301407,AM,Eirunepé,-,-,X,X,-,-,2
+1301506,AM,Envira,-,X,X,-,-,-,2
+1301654,AM,Guajará,-,X,-,-,-,-,1
+1301704,AM,Humaitá,X,X,X,X,-,-,4
+1301803,AM,Ipixuna,-,-,X,-,-,-,1
+1301852,AM,Iranduba,X,X,X,X,-,-,4
+1301902,AM,Itacoatiara,X,X,X,X,-,-,4
+1301951,AM,Itamarati,-,X,-,-,-,-,1
+1302009,AM,Itapiranga,X,-,X,-,-,-,2
+1302207,AM,Juruá,-,X,X,-,-,-,2
+1302405,AM,Lábrea,-,X,-,X,-,-,2
+1302504,AM,Manacapuru,X,X,X,X,-,-,4
+1302553,AM,Manaquiri,X,-,X,-,-,-,2
+1302603,AM,Manaus,X,X,X,X,-,-,4
+1302702,AM,Manicoré,-,-,-,X,-,-,1
+1302900,AM,Maués,X,X,X,X,-,-,4
+1303007,AM,Nhamundá,X,-,-,-,-,-,1
+1303106,AM,Nova Olinda do Norte,X,X,X,X,-,-,4
+1303205,AM,Novo Airão,-,-,X,-,-,-,1
+1303304,AM,Novo Aripuanã,-,-,X,-,-,-,1
+1303403,AM,Parintins,X,X,X,X,-,-,4
+1303536,AM,Presidente Figueiredo,X,-,X,X,-,-,3
+1303569,AM,Rio Preto da Eva,X,-,X,-,-,-,2
+1303809,AM,São Gabriel da Cachoeira,-,X,X,X,-,-,3
+1303908,AM,São Paulo de Olivença,-,X,X,X,-,-,3
+1303957,AM,São Sebastião do Uatumã,X,-,-,-,-,-,1
+1304005,AM,Silves,X,-,-,-,-,-,1
+1304062,AM,Tabatinga,-,X,-,X,-,-,2
+1304203,AM,Tefé,-,X,-,X,-,-,2
+1304237,AM,Tonantins,-,X,-,-,-,-,1
+1304260,AM,Uarini,-,-,X,-,-,-,1
+1304302,AM,Urucará,X,-,-,-,-,-,1
+1304401,AM,Urucurituba,X,-,X,-,-,-,2
+1600105,AP,Amapá,-,-,-,X,-,-,1
+1600204,AP,Calçoene,-,-,X,X,-,-,2
+1600212,AP,Cutias,-,-,X,-,-,-,1
+1600238,AP,Ferreira Gomes,X,-,-,-,-,-,1
+1600253,AP,Itaubal,-,-,X,-,-,-,1
+1600279,AP,Laranjal do Jari,X,X,X,X,-,-,4
+1600303,AP,Macapá,X,X,X,X,-,-,4
+1600402,AP,Mazagão,X,-,-,-,-,-,1
+1600501,AP,Oiapoque,-,X,-,-,-,-,1
+1600154,AP,Pedra Branca do Amapari,-,-,X,-,-,-,1
+1600535,AP,Porto Grande,X,-,-,-,-,-,1
+1600550,AP,Pracuúba,-,-,X,-,-,-,1
+1600600,AP,Santana,X,X,X,X,-,-,4
+1600709,AP,Tartarugalzinho,-,-,-,X,-,-,1
+1600808,AP,Vitória do Jari,X,-,-,-,-,-,1
+2900207,BA,Abaré,X,-,-,-,-,-,1
+2900306,BA,Acajutiba,X,-,-,-,-,-,1
+2900355,BA,Adustina,X,-,-,-,-,-,1
+2900405,BA,Água Fria,-,-,X,-,-,-,1
+2900603,BA,Aiquara,X,-,X,-,-,-,2
+2900702,BA,Alagoinhas,X,X,X,X,-,-,4
+2900801,BA,Alcobaça,X,X,-,-,-,-,2
+2900900,BA,Almadina,-,-,-,X,-,-,1
+2901007,BA,Amargosa,X,X,X,X,-,-,4
+2901106,BA,Amélia Rodrigues,X,X,X,-,-,-,3
+2901155,BA,América Dourada,X,-,-,-,-,-,1
+2901205,BA,Anagé,X,X,-,-,-,-,2
+2901304,BA,Andaraí,-,X,X,-,-,-,2
+2901353,BA,Andorinha,-,X,-,-,-,-,1
+2901403,BA,Angical,X,-,-,-,-,-,1
+2901601,BA,Antas,X,X,-,-,-,-,2
+2901700,BA,Antônio Cardoso,-,-,-,X,-,-,1
+2901809,BA,Antônio Gonçalves,-,X,-,X,-,-,2
+2901908,BA,Aporá,X,-,-,-,-,-,1
+2901957,BA,Apuarema,X,-,-,-,-,-,1
+2902104,BA,Araci,X,X,X,-,-,-,3
+2902203,BA,Aramari,-,X,-,X,-,-,2
+2902252,BA,Arataca,-,-,X,X,-,-,2
+2902401,BA,Aurelino Leal,X,X,X,-,-,-,3
+2902500,BA,Baianópolis,X,-,-,-,-,-,1
+2902609,BA,Baixa Grande,X,X,-,-,-,-,2
+2902658,BA,Banzaê,X,-,-,X,-,-,2
+2902708,BA,Barra,X,X,X,X,-,-,4
+2902807,BA,Barra da Estiva,X,-,-,-,-,-,1
+2902906,BA,Barra do Choça,X,X,X,X,-,-,4
+2903003,BA,Barra do Mendes,X,X,-,-,-,-,2
+2903102,BA,Barra do Rocha,-,-,X,X,-,-,2
+2903201,BA,Barreiras,X,X,X,X,-,-,4
+2903235,BA,Barro Alto,X,X,-,-,-,-,2
+2903300,BA,Barro Preto,-,-,X,-,-,-,1
+2903276,BA,Barrocas,-,X,-,-,-,-,1
+2903409,BA,Belmonte,X,X,-,-,-,-,2
+2903508,BA,Belo Campo,X,-,-,-,-,-,1
+2903607,BA,Biritinga,-,X,-,-,-,-,1
+2903706,BA,Boa Nova,X,-,-,-,-,-,1
+2903904,BA,Bom Jesus da Lapa,X,X,X,-,-,-,3
+2903953,BA,Bom Jesus da Serra,-,-,-,X,-,-,1
+2904001,BA,Boninal,-,X,-,-,-,-,1
+2904050,BA,Bonito,X,-,-,-,-,-,1
+2904100,BA,Boquira,X,-,-,-,-,-,1
+2904209,BA,Botuporã,-,X,-,-,-,-,1
+2904407,BA,Brejolândia,X,-,X,-,-,-,2
+2904506,BA,Brotas de Macaúbas,-,X,-,-,-,-,1
+2904605,BA,Brumado,X,X,X,-,-,-,3
+2904704,BA,Buerarema,X,X,-,-,-,-,2
+2904753,BA,Buritirama,X,-,-,-,-,-,1
+2904852,BA,Cabaceiras do Paraguaçu,-,X,X,-,-,-,2
+2904902,BA,Cachoeira,X,X,-,X,-,-,3
+2905008,BA,Caculé,X,X,X,-,-,-,3
+2905107,BA,Caém,X,-,X,-,-,-,2
+2905206,BA,Caetité,X,X,X,X,-,-,4
+2905404,BA,Cairu,X,X,-,-,-,-,2
+2905602,BA,Camacan,X,X,X,X,-,-,4
+2905701,BA,Camaçari,X,X,X,X,-,-,4
+2905800,BA,Camamu,X,X,X,X,-,-,4
+2905909,BA,Campo Alegre de Lourdes,X,-,-,-,-,-,1
+2906006,BA,Campo Formoso,X,X,X,X,-,-,4
+2906105,BA,Canápolis,X,-,-,X,-,-,2
+2906204,BA,Canarana,X,-,-,-,-,-,1
+2906303,BA,Canavieiras,X,X,X,X,-,-,4
+2906501,BA,Candeias,X,X,X,X,-,-,4
+2906600,BA,Candiba,-,-,X,-,-,-,1
+2906709,BA,Cândido Sales,X,X,-,-,-,-,2
+2906808,BA,Cansanção,X,X,-,X,-,-,3
+2906824,BA,Canudos,X,-,-,-,-,-,1
+2906857,BA,Capela do Alto Alegre,X,-,X,-,-,-,2
+2906873,BA,Capim Grosso,X,X,-,-,-,-,2
+2906899,BA,Caraíbas,-,-,-,X,-,-,1
+2906907,BA,Caravelas,X,X,-,-,-,-,2
+2907004,BA,Cardeal da Silva,-,-,-,X,-,-,1
+2907103,BA,Carinhanha,X,-,-,-,-,-,1
+2907202,BA,Casa Nova,X,X,-,-,-,-,2
+2907301,BA,Castro Alves,X,X,-,-,-,-,2
+2907400,BA,Catolândia,X,-,-,-,-,-,1
+2907509,BA,Catu,X,X,X,-,-,-,3
+2907558,BA,Caturama,-,X,-,-,-,-,1
+2907608,BA,Central,X,X,-,-,-,-,2
+2907707,BA,Chorrochó,X,-,X,-,-,-,2
+2907806,BA,Cícero Dantas,X,X,X,X,-,-,4
+2907905,BA,Cipó,X,X,X,-,-,-,3
+2908002,BA,Coaraci,-,X,X,-,-,-,2
+2908200,BA,Conceição da Feira,X,X,-,-,-,-,2
+2908309,BA,Conceição do Almeida,X,X,-,-,-,-,2
+2908408,BA,Conceição do Coité,X,X,X,-,-,-,3
+2908507,BA,Conceição do Jacuípe,X,X,X,X,-,-,4
+2908606,BA,Conde,X,X,-,-,-,-,2
+2908705,BA,Condeúba,-,X,-,-,-,-,1
+2908804,BA,Contendas do Sincorá,-,X,X,-,-,-,2
+2908903,BA,Coração de Maria,X,X,X,-,-,-,3
+2909000,BA,Cordeiros,-,-,-,X,-,-,1
+2909109,BA,Coribe,X,X,-,-,-,-,2
+2909208,BA,Coronel João Sá,X,-,-,-,-,-,1
+2909307,BA,Correntina,X,X,-,X,-,-,3
+2909406,BA,Cotegipe,X,-,-,-,-,-,1
+2909505,BA,Cravolândia,-,-,-,X,-,-,1
+2909604,BA,Crisópolis,X,X,-,-,-,-,2
+2909703,BA,Cristópolis,X,-,-,-,-,-,1
+2909802,BA,Cruz das Almas,X,X,X,X,-,-,4
+2909901,BA,Curaçá,X,X,X,X,-,-,4
+2910057,BA,Dias d'Ávila,X,X,X,X,-,-,4
+2910107,BA,Dom Basílio,-,X,-,-,-,-,1
+2910206,BA,Dom Macedo Costa,-,-,-,X,-,-,1
+2910305,BA,Elísio Medrado,X,-,-,-,-,-,1
+2910404,BA,Encruzilhada,X,-,-,-,-,-,1
+2910503,BA,Entre Rios,X,X,X,X,-,-,4
+2900504,BA,Érico Cardoso,-,X,-,-,-,-,1
+2910602,BA,Esplanada,X,X,X,X,-,-,4
+2910701,BA,Euclides da Cunha,X,X,-,X,-,-,3
+2910727,BA,Eunápolis,X,X,X,X,-,-,4
+2910750,BA,Fátima,X,-,-,-,-,-,1
+2910800,BA,Feira de Santana,X,X,X,X,-,-,4
+2910859,BA,Filadélfia,X,X,-,-,-,-,2
+2910909,BA,Firmino Alves,-,-,-,X,-,-,1
+2911006,BA,Floresta Azul,-,-,X,X,-,-,2
+2911105,BA,Formosa do Rio Preto,X,-,-,-,-,-,1
+2911204,BA,Gandu,X,X,X,X,-,-,4
+2911253,BA,Gavião,X,-,X,-,-,-,2
+2911402,BA,Glória,X,X,-,-,-,-,2
+2911501,BA,Gongogi,-,-,-,X,-,-,1
+2911600,BA,Governador Mangabeira,X,X,X,-,-,-,3
+2911659,BA,Guajeru,-,-,-,X,-,-,1
+2911709,BA,Guanambi,X,X,X,-,-,-,3
+2911808,BA,Guaratinga,X,-,-,-,-,-,1
+2911857,BA,Heliópolis,X,-,-,-,-,-,1
+2911907,BA,Iaçu,X,X,-,-,-,-,2
+2912004,BA,Ibiassucê,-,X,-,-,-,-,1
+2912103,BA,Ibicaraí,X,X,X,-,-,-,3
+2912202,BA,Ibicoara,-,X,X,-,-,-,2
+2912301,BA,Ibicuí,X,-,-,-,-,-,1
+2912400,BA,Ibipeba,X,X,-,-,-,-,2
+2912509,BA,Ibipitanga,-,X,-,-,-,-,1
+2912707,BA,Ibirapitanga,-,-,X,-,-,-,1
+2912905,BA,Ibirataia,X,X,-,-,-,-,2
+2913002,BA,Ibitiara,-,X,-,-,-,-,1
+2913101,BA,Ibititá,X,X,-,-,-,-,2
+2913200,BA,Ibotirama,X,X,-,-,-,-,2
+2913309,BA,Ichu,-,-,-,X,-,-,1
+2913408,BA,Igaporã,X,X,-,-,-,-,2
+2913457,BA,Igrapiúna,X,-,-,-,-,-,1
+2913507,BA,Iguaí,X,-,-,-,-,-,1
+2913606,BA,Ilhéus,X,X,X,X,-,-,4
+2913705,BA,Inhambupe,X,X,X,X,-,-,4
+2913804,BA,Ipecaetá,X,X,-,-,-,-,2
+2913903,BA,Ipiaú,X,X,X,X,-,-,4
+2914000,BA,Ipirá,X,X,X,X,-,-,4
+2914109,BA,Ipupiara,-,X,-,-,-,-,1
+2914208,BA,Irajuba,X,-,-,X,-,-,2
+2914307,BA,Iramaia,-,X,-,-,-,-,1
+2914406,BA,Iraquara,X,-,-,-,-,-,1
+2914505,BA,Irará,X,-,X,-,-,-,2
+2914604,BA,Irecê,X,X,X,-,-,-,3
+2914653,BA,Itabela,X,X,X,-,-,-,3
+2914703,BA,Itaberaba,X,X,X,-,-,-,3
+2914802,BA,Itabuna,X,X,X,X,-,-,4
+2914901,BA,Itacaré,X,X,X,-,-,-,3
+2915007,BA,Itaeté,-,X,-,-,-,-,1
+2915106,BA,Itagi,X,X,-,-,-,-,2
+2915205,BA,Itagibá,-,-,X,-,-,-,1
+2915304,BA,Itagimirim,X,-,X,-,-,-,2
+2915353,BA,Itaguaçu da Bahia,X,-,X,-,-,-,2
+2915502,BA,Itajuípe,X,X,-,-,-,-,2
+2915601,BA,Itamaraju,X,X,X,X,-,-,4
+2915700,BA,Itamari,X,-,-,-,-,-,1
+2915809,BA,Itambé,X,X,-,-,-,-,2
+2915908,BA,Itanagra,X,-,-,-,-,-,1
+2916005,BA,Itanhém,X,-,-,-,-,-,1
+2916104,BA,Itaparica,X,X,-,-,-,-,2
+2916203,BA,Itapé,-,-,-,X,-,-,1
+2916302,BA,Itapebi,X,-,-,-,-,-,1
+2916401,BA,Itapetinga,X,X,X,-,-,-,3
+2916500,BA,Itapicuru,X,X,X,X,-,-,4
+2916609,BA,Itapitanga,-,-,-,X,-,-,1
+2916708,BA,Itaquara,-,-,-,X,-,-,1
+2916807,BA,Itarantim,-,-,X,-,-,-,1
+2916856,BA,Itatim,X,-,X,-,-,-,2
+2916906,BA,Itiruçu,-,X,-,-,-,-,1
+2917003,BA,Itiúba,X,X,X,X,-,-,4
+2917102,BA,Itororó,X,-,-,-,-,-,1
+2917201,BA,Ituaçu,-,-,X,-,-,-,1
+2917300,BA,Ituberá,X,X,-,-,-,-,2
+2917334,BA,Iuiú,X,X,-,-,-,-,2
+2917359,BA,Jaborandi,X,-,-,X,-,-,2
+2917409,BA,Jacaraci,-,X,-,-,-,-,1
+2917508,BA,Jacobina,X,X,X,-,-,-,3
+2917607,BA,Jaguaquara,X,X,X,X,-,-,4
+2917706,BA,Jaguarari,X,-,X,X,-,-,3
+2917805,BA,Jaguaripe,X,-,-,-,-,-,1
+2917904,BA,Jandaíra,X,X,-,-,-,-,2
+2918001,BA,Jequié,X,X,X,X,-,-,4
+2918100,BA,Jeremoabo,X,X,-,X,-,-,3
+2918308,BA,Jitaúna,X,X,-,-,-,-,2
+2918357,BA,João Dourado,X,-,-,-,-,-,1
+2918407,BA,Juazeiro,X,X,X,X,-,-,4
+2918456,BA,Jucuruçu,-,-,X,-,-,-,1
+2918506,BA,Jussara,X,-,X,-,-,-,2
+2918555,BA,Jussari,-,-,-,X,-,-,1
+2918704,BA,Lafaiete Coutinho,X,-,X,-,-,-,2
+2918753,BA,Lagoa Real,-,X,-,-,-,-,1
+2918803,BA,Laje,X,-,-,-,-,-,1
+2919058,BA,Lajedo do Tabocal,-,X,-,X,-,-,2
+2919108,BA,Lamarão,-,-,X,X,-,-,2
+2919157,BA,Lapão,X,-,-,-,-,-,1
+2919207,BA,Lauro de Freitas,X,X,X,X,-,-,4
+2919306,BA,Lençóis,X,X,-,-,-,-,2
+2919405,BA,Licínio de Almeida,-,X,-,-,-,-,1
+2919504,BA,Livramento de Nossa Senhora,X,X,X,X,-,-,4
+2919553,BA,Luís Eduardo Magalhães,X,X,X,X,-,-,4
+2919603,BA,Macajuba,X,X,-,-,-,-,2
+2919801,BA,Macaúbas,X,X,X,X,-,-,4
+2919900,BA,Macururé,X,-,-,-,-,-,1
+2919926,BA,Madre de Deus,X,X,-,-,-,-,2
+2919959,BA,Maetinga,-,-,-,X,-,-,1
+2920007,BA,Maiquinique,-,X,-,-,-,-,1
+2920106,BA,Mairi,X,-,X,-,-,-,2
+2920205,BA,Malhada,X,-,-,-,-,-,1
+2920304,BA,Malhada de Pedras,-,-,-,X,-,-,1
+2920452,BA,Mansidão,X,-,-,-,-,-,1
+2920502,BA,Maracás,X,X,-,-,-,-,2
+2920601,BA,Maragogipe,X,X,X,-,-,-,3
+2920700,BA,Maraú,X,-,-,-,-,-,1
+2920809,BA,Marcionílio Souza,-,X,-,X,-,-,2
+2920908,BA,Mascote,-,X,-,-,-,-,1
+2921005,BA,Mata de São João,X,X,X,X,-,-,4
+2921054,BA,Matina,-,X,-,-,-,-,1
+2921104,BA,Medeiros Neto,X,X,-,-,-,-,2
+2921203,BA,Miguel Calmon,X,X,-,-,-,-,2
+2921302,BA,Milagres,-,-,-,X,-,-,1
+2921401,BA,Mirangaba,X,-,-,-,-,-,1
+2921450,BA,Mirante,-,-,-,X,-,-,1
+2921500,BA,Monte Santo,X,X,-,X,-,-,3
+2921609,BA,Morpará,X,-,-,-,-,-,1
+2921708,BA,Morro do Chapéu,X,X,X,X,-,-,4
+2921807,BA,Mortugaba,-,X,-,-,-,-,1
+2922003,BA,Mucuri,X,X,X,X,-,-,4
+2922052,BA,Mulungu do Morro,-,X,-,-,-,-,1
+2922102,BA,Mundo Novo,X,X,-,-,-,-,2
+2922201,BA,Muniz Ferreira,-,-,-,X,-,-,1
+2922300,BA,Muritiba,X,X,X,X,-,-,4
+2922409,BA,Mutuípe,X,-,-,-,-,-,1
+2922508,BA,Nazaré,X,X,X,-,-,-,3
+2922607,BA,Nilo Peçanha,X,-,-,-,-,-,1
+2922656,BA,Nordestina,-,X,-,-,-,-,1
+2922730,BA,Nova Fátima,X,-,X,X,-,-,3
+2922755,BA,Nova Ibiá,-,X,-,-,-,-,1
+2922805,BA,Nova Itarana,X,-,-,X,-,-,2
+2922854,BA,Nova Redenção,-,X,-,-,-,-,1
+2922904,BA,Nova Soure,X,-,X,-,-,-,2
+2923001,BA,Nova Viçosa,X,X,X,X,-,-,4
+2923035,BA,Novo Horizonte,-,X,-,X,-,-,2
+2923050,BA,Novo Triunfo,X,-,-,-,-,-,1
+2923100,BA,Olindina,X,-,-,-,-,-,1
+2923209,BA,Oliveira dos Brejinhos,X,-,-,-,-,-,1
+2923308,BA,Ouriçangas,-,-,X,-,-,-,1
+2923357,BA,Ourolândia,-,-,X,-,-,-,1
+2923407,BA,Palmas de Monte Alto,X,-,-,-,-,-,1
+2923506,BA,Palmeiras,-,X,-,-,-,-,1
+2923605,BA,Paramirim,X,-,-,-,-,-,1
+2923704,BA,Paratinga,X,-,-,-,-,-,1
+2923803,BA,Paripiranga,X,-,-,-,-,-,1
+2923902,BA,Pau Brasil,-,-,-,X,-,-,1
+2924009,BA,Paulo Afonso,X,X,X,X,-,-,4
+2924306,BA,Piatã,-,X,-,-,-,-,1
+2924405,BA,Pilão Arcado,X,X,-,X,-,-,3
+2924504,BA,Pindaí,-,X,-,-,-,-,1
+2924603,BA,Pindobaçu,X,X,-,-,-,-,2
+2924652,BA,Pintadas,-,-,X,-,-,-,1
+2924678,BA,Piraí do Norte,-,-,X,-,-,-,1
+2924801,BA,Piritiba,X,-,-,-,-,-,1
+2924900,BA,Planaltino,X,-,-,-,-,-,1
+2925006,BA,Planalto,X,X,-,-,-,-,2
+2925105,BA,Poções,X,X,X,X,-,-,4
+2925204,BA,Pojuca,X,X,X,X,-,-,4
+2925303,BA,Porto Seguro,X,X,X,X,-,-,4
+2925501,BA,Prado,X,X,-,-,-,-,2
+2925600,BA,Presidente Dutra,X,-,-,-,-,-,1
+2925758,BA,Presidente Tancredo Neves,X,-,-,-,-,-,1
+2925808,BA,Queimadas,X,-,-,-,-,-,1
+2925907,BA,Quijingue,X,-,-,-,-,-,1
+2925931,BA,Quixabeira,X,-,X,-,-,-,2
+2925956,BA,Rafael Jambeiro,X,X,-,-,-,-,2
+2926004,BA,Remanso,X,X,X,X,-,-,4
+2926103,BA,Retirolândia,-,-,X,-,-,-,1
+2926202,BA,Riachão das Neves,X,-,-,-,-,-,1
+2926301,BA,Riachão do Jacuípe,X,X,X,X,-,-,4
+2926400,BA,Riacho de Santana,X,-,X,X,-,-,3
+2926509,BA,Ribeira do Amparo,X,X,-,-,-,-,2
+2926608,BA,Ribeira do Pombal,X,X,X,X,-,-,4
+2926657,BA,Ribeirão do Largo,-,X,-,X,-,-,2
+2926905,BA,Rio do Pires,-,X,-,-,-,-,1
+2927002,BA,Rio Real,X,X,X,X,-,-,4
+2927200,BA,Ruy Barbosa,X,X,-,-,-,-,2
+2927309,BA,Salinas da Margarida,X,-,-,-,-,-,1
+2927408,BA,Salvador,X,X,X,X,-,-,4
+2927507,BA,Santa Bárbara,X,X,-,-,-,-,2
+2927606,BA,Santa Brígida,X,-,-,-,-,-,1
+2927705,BA,Santa Cruz Cabrália,X,X,X,-,-,-,3
+2927804,BA,Santa Cruz da Vitória,-,-,-,X,-,-,1
+2927903,BA,Santa Inês,-,-,-,X,-,-,1
+2928059,BA,Santa Luzia,X,-,-,-,-,-,1
+2928109,BA,Santa Maria da Vitória,X,X,X,X,-,-,4
+2928406,BA,Santa Rita de Cássia,X,-,-,-,-,-,1
+2928505,BA,Santa Teresinha,X,X,-,-,-,-,2
+2928000,BA,Santaluz,X,X,X,X,-,-,4
+2928208,BA,Santana,X,X,-,-,-,-,2
+2928307,BA,Santanópolis,-,-,X,-,-,-,1
+2928604,BA,Santo Amaro,X,X,X,X,-,-,4
+2928703,BA,Santo Antônio de Jesus,X,X,X,X,-,-,4
+2928802,BA,Santo Estêvão,X,X,X,X,-,-,4
+2928901,BA,São Desidério,X,X,-,-,-,-,2
+2928950,BA,São Domingos,X,-,X,X,-,-,3
+2929107,BA,São Felipe,X,-,-,-,-,-,1
+2929008,BA,São Félix,X,X,X,-,-,-,3
+2929057,BA,São Félix do Coribe,X,X,X,-,-,-,3
+2929206,BA,São Francisco do Conde,X,X,X,X,-,-,4
+2929255,BA,São Gabriel,X,-,X,-,-,-,2
+2929305,BA,São Gonçalo dos Campos,X,X,X,X,-,-,4
+2929354,BA,São José da Vitória,-,-,-,X,-,-,1
+2929370,BA,São José do Jacuípe,X,-,X,-,-,-,2
+2929404,BA,São Miguel das Matas,-,-,X,-,-,-,1
+2929503,BA,São Sebastião do Passé,X,X,X,-,-,-,3
+2929602,BA,Sapeaçu,X,-,-,-,-,-,1
+2929701,BA,Sátiro Dias,X,X,-,-,-,-,2
+2929750,BA,Saubara,-,X,X,-,-,-,2
+2929800,BA,Saúde,X,-,-,X,-,-,2
+2929909,BA,Seabra,X,X,X,X,-,-,4
+2930006,BA,Sebastião Laranjeiras,-,X,-,-,-,-,1
+2930105,BA,Senhor do Bonfim,X,X,X,-,-,-,3
+2930204,BA,Sento Sé,X,X,X,X,-,-,4
+2930154,BA,Serra do Ramalho,X,X,X,X,-,-,4
+2930303,BA,Serra Dourada,X,X,-,-,-,-,2
+2930501,BA,Serrinha,X,X,X,X,-,-,4
+2930600,BA,Serrolândia,X,-,-,-,-,-,1
+2930709,BA,Simões Filho,X,X,X,X,-,-,4
+2930758,BA,Sítio do Mato,X,-,X,-,-,-,2
+2930766,BA,Sítio do Quinto,X,-,-,-,-,-,1
+2930774,BA,Sobradinho,X,X,-,-,-,-,2
+2930808,BA,Souto Soares,-,X,-,-,-,-,1
+2930907,BA,Tabocas do Brejo Velho,X,-,-,X,-,-,2
+2931004,BA,Tanhaçu,X,-,-,-,-,-,1
+2931053,BA,Tanque Novo,X,-,-,-,-,-,1
+2931103,BA,Tanquinho,X,-,X,-,-,-,2
+2931202,BA,Taperoá,X,X,-,-,-,-,2
+2931301,BA,Tapiramutá,X,-,-,-,-,-,1
+2931350,BA,Teixeira de Freitas,X,X,X,X,-,-,4
+2931400,BA,Teodoro Sampaio,-,-,X,-,-,-,1
+2931509,BA,Teofilândia,X,X,-,-,-,-,2
+2931608,BA,Teolândia,-,-,X,-,-,-,1
+2931707,BA,Terra Nova,X,-,-,-,-,-,1
+2931806,BA,Tremedal,X,-,-,-,-,-,1
+2931905,BA,Tucano,X,X,X,X,-,-,4
+2932002,BA,Uauá,X,-,-,-,-,-,1
+2932200,BA,Ubaitaba,X,X,X,-,-,-,3
+2932309,BA,Ubatã,X,X,-,-,-,-,2
+2932507,BA,Una,X,-,-,-,-,-,1
+2932606,BA,Urandi,-,X,-,-,-,-,1
+2932705,BA,Uruçuca,X,X,-,-,-,-,2
+2932804,BA,Utinga,X,-,-,-,-,-,1
+2932903,BA,Valença,X,X,X,X,-,-,4
+2933000,BA,Valente,-,X,X,-,-,-,2
+2933059,BA,Várzea da Roça,X,-,-,-,-,-,1
+2933109,BA,Várzea do Poço,X,-,-,-,-,-,1
+2933174,BA,Varzedo,X,X,-,-,-,-,2
+2933208,BA,Vera Cruz,X,X,X,X,-,-,4
+2933307,BA,Vitória da Conquista,X,X,X,X,-,-,4
+2933406,BA,Wagner,X,-,X,-,-,-,2
+2933455,BA,Wanderley,X,-,-,-,-,-,1
+2933505,BA,Wenceslau Guimarães,X,-,-,-,-,-,1
+2933604,BA,Xique-Xique,X,X,X,-,-,-,3
+2300150,CE,Acarape,-,X,-,-,-,-,1
+2300200,CE,Acaraú,X,X,X,X,-,-,4
+2300309,CE,Acopiara,X,X,X,X,-,-,4
+2300408,CE,Aiuaba,-,X,X,-,-,-,2
+2300606,CE,Altaneira,-,X,X,-,-,-,2
+2300705,CE,Alto Santo,-,X,-,-,-,-,1
+2300754,CE,Amontada,X,X,X,X,-,-,4
+2300804,CE,Antonina do Norte,-,-,X,-,-,-,1
+2301000,CE,Aquiraz,X,X,X,X,-,-,4
+2301109,CE,Aracati,X,X,X,X,-,-,4
+2301208,CE,Aracoiaba,-,X,X,-,-,-,2
+2301307,CE,Araripe,-,X,X,-,-,-,2
+2301406,CE,Aratuba,-,X,-,-,-,-,1
+2301505,CE,Arneiroz,X,X,-,-,-,-,2
+2301703,CE,Aurora,-,X,-,-,-,-,1
+2301802,CE,Baixio,-,X,-,-,-,-,1
+2301851,CE,Banabuiú,-,X,-,-,-,-,1
+2301901,CE,Barbalha,X,X,X,-,-,-,3
+2301950,CE,Barreira,-,-,X,-,-,-,1
+2302008,CE,Barro,-,X,X,-,-,-,2
+2302057,CE,Barroquinha,X,X,X,-,-,-,3
+2302107,CE,Baturité,X,X,X,-,-,-,3
+2302206,CE,Beberibe,X,X,X,X,-,-,4
+2302305,CE,Bela Cruz,X,X,X,X,-,-,4
+2302404,CE,Boa Viagem,X,X,X,X,-,-,4
+2302503,CE,Brejo Santo,X,X,X,X,-,-,4
+2302602,CE,Camocim,X,X,X,X,-,-,4
+2302701,CE,Campos Sales,-,X,-,-,-,-,1
+2302800,CE,Canindé,X,X,X,X,-,-,4
+2302909,CE,Capistrano,-,X,-,-,-,-,1
+2303006,CE,Caridade,-,X,-,-,-,-,1
+2303105,CE,Cariré,X,X,-,-,-,-,2
+2303204,CE,Caririaçu,X,X,-,-,-,-,2
+2303303,CE,Cariús,X,X,-,-,-,-,2
+2303402,CE,Carnaubal,-,X,-,-,-,-,1
+2303501,CE,Cascavel,X,X,X,X,-,-,4
+2303600,CE,Catarina,-,-,X,-,-,-,1
+2303659,CE,Catunda,-,X,-,-,-,-,1
+2303709,CE,Caucaia,X,X,X,X,-,-,4
+2303808,CE,Cedro,X,X,-,-,-,-,2
+2303907,CE,Chaval,-,-,X,-,-,-,1
+2303931,CE,Choró,X,X,X,-,-,-,3
+2303956,CE,Chorozinho,-,X,X,-,-,-,2
+2304103,CE,Crateús,X,X,X,X,-,-,4
+2304202,CE,Crato,X,X,X,X,-,-,4
+2304236,CE,Croatá,-,X,-,-,-,-,1
+2304251,CE,Cruz,-,X,-,-,-,-,1
+2304285,CE,Eusébio,X,X,X,-,-,-,3
+2304301,CE,Farias Brito,-,X,-,-,-,-,1
+2304350,CE,Forquilha,-,X,X,-,-,-,2
+2304400,CE,Fortaleza,X,X,X,X,-,-,4
+2304459,CE,Fortim,-,X,X,-,-,-,2
+2304657,CE,Graça,-,X,X,-,-,-,2
+2304707,CE,Granja,X,X,X,X,-,-,4
+2304806,CE,Granjeiro,-,-,X,-,-,-,1
+2304905,CE,Groaíras,-,-,X,-,-,-,1
+2304954,CE,Guaiúba,-,X,X,-,-,-,2
+2305001,CE,Guaraciaba do Norte,X,X,X,X,-,-,4
+2305100,CE,Guaramiranga,X,X,X,X,-,-,4
+2305209,CE,Hidrolândia,-,X,-,-,-,-,1
+2305233,CE,Horizonte,X,X,X,X,-,-,4
+2305266,CE,Ibaretama,X,-,X,-,-,-,2
+2305308,CE,Ibiapina,-,X,-,-,-,-,1
+2305332,CE,Ibicuitinga,X,-,X,-,-,-,2
+2305357,CE,Icapuí,-,X,-,-,-,-,1
+2305407,CE,Icó,X,X,X,X,-,-,4
+2305506,CE,Iguatu,X,X,X,X,-,-,4
+2305605,CE,Independência,-,X,-,-,-,-,1
+2305704,CE,Ipaumirim,-,X,-,-,-,-,1
+2305803,CE,Ipu,X,X,-,X,-,-,3
+2305902,CE,Ipueiras,X,X,-,X,-,-,3
+2306009,CE,Iracema,-,X,-,-,-,-,1
+2306108,CE,Irauçuba,-,X,-,-,-,-,1
+2306256,CE,Itaitinga,X,X,X,X,-,-,4
+2306306,CE,Itapajé,X,X,X,X,-,-,4
+2306405,CE,Itapipoca,X,X,X,X,-,-,4
+2306504,CE,Itapiúna,X,X,X,-,-,-,3
+2306553,CE,Itarema,X,X,X,X,-,-,4
+2306603,CE,Itatira,X,X,-,-,-,-,2
+2306702,CE,Jaguaretama,X,X,X,-,-,-,3
+2306801,CE,Jaguaribara,-,X,-,-,-,-,1
+2306900,CE,Jaguaribe,X,X,X,X,-,-,4
+2307007,CE,Jaguaruana,X,X,X,X,-,-,4
+2307106,CE,Jardim,X,-,-,-,-,-,1
+2307254,CE,Jijoca de Jericoacoara,X,X,X,-,-,-,3
+2307304,CE,Juazeiro do Norte,X,X,X,X,-,-,4
+2307403,CE,Jucás,X,X,-,-,-,-,2
+2307502,CE,Lavras da Mangabeira,X,X,X,X,-,-,4
+2307601,CE,Limoeiro do Norte,X,X,X,X,-,-,4
+2307635,CE,Madalena,-,X,-,-,-,-,1
+2307650,CE,Maracanaú,X,X,X,X,-,-,4
+2307700,CE,Maranguape,X,X,X,X,-,-,4
+2307809,CE,Marco,-,X,X,-,-,-,2
+2307908,CE,Martinópole,-,-,X,-,-,-,1
+2308005,CE,Massapê,X,X,X,X,-,-,4
+2308104,CE,Mauriti,X,X,X,X,-,-,4
+2308203,CE,Meruoca,-,X,-,-,-,-,1
+2308302,CE,Milagres,X,X,X,-,-,-,3
+2308351,CE,Milhã,-,X,-,-,-,-,1
+2308377,CE,Miraíma,-,X,-,-,-,-,1
+2308401,CE,Missão Velha,X,X,X,X,-,-,4
+2308500,CE,Mombaça,X,X,X,X,-,-,4
+2308609,CE,Monsenhor Tabosa,X,X,-,-,-,-,2
+2308708,CE,Morada Nova,X,X,X,X,-,-,4
+2308807,CE,Moraújo,-,-,X,-,-,-,1
+2308906,CE,Morrinhos,-,X,X,-,-,-,2
+2309003,CE,Mucambo,-,X,-,-,-,-,1
+2309102,CE,Mulungu,-,X,-,-,-,-,1
+2309201,CE,Nova Olinda,-,X,-,-,-,-,1
+2309300,CE,Nova Russas,X,X,X,X,-,-,4
+2309409,CE,Novo Oriente,-,X,-,-,-,-,1
+2309458,CE,Ocara,-,-,X,-,-,-,1
+2309508,CE,Orós,-,X,X,-,-,-,2
+2309607,CE,Pacajus,X,X,X,X,-,-,4
+2309706,CE,Pacatuba,X,X,X,X,-,-,4
+2309805,CE,Pacoti,-,X,X,X,-,-,3
+2310209,CE,Paracuru,X,X,X,X,-,-,4
+2310258,CE,Paraipaba,X,X,X,X,-,-,4
+2310308,CE,Parambu,X,X,X,X,-,-,4
+2310506,CE,Pedra Branca,X,X,X,X,-,-,4
+2310704,CE,Pentecoste,X,X,X,X,-,-,4
+2310803,CE,Pereiro,-,X,-,-,-,-,1
+2310852,CE,Pindoretama,X,X,-,-,-,-,2
+2310902,CE,Piquet Carneiro,-,X,X,-,-,-,2
+2310951,CE,Pires Ferreira,-,X,-,-,-,-,1
+2311108,CE,Porteiras,X,-,-,-,-,-,1
+2311207,CE,Potengi,X,-,-,-,-,-,1
+2311231,CE,Potiretama,-,X,-,-,-,-,1
+2311264,CE,Quiterianópolis,X,X,-,-,-,-,2
+2311306,CE,Quixadá,X,X,X,X,-,-,4
+2311355,CE,Quixelô,X,X,-,-,-,-,2
+2311405,CE,Quixeramobim,X,X,X,X,-,-,4
+2311504,CE,Quixeré,X,X,-,-,-,-,2
+2311603,CE,Redenção,X,X,-,-,-,-,2
+2311702,CE,Reriutaba,-,X,-,-,-,-,1
+2311801,CE,Russas,X,X,X,X,-,-,4
+2311900,CE,Saboeiro,X,X,-,-,-,-,2
+2312205,CE,Santa Quitéria,X,X,X,X,-,-,4
+2312007,CE,Santana do Acaraú,-,X,-,-,-,-,1
+2312106,CE,Santana do Cariri,-,X,-,-,-,-,1
+2312304,CE,São Benedito,X,X,X,X,-,-,4
+2312403,CE,São Gonçalo do Amarante,X,X,X,X,-,-,4
+2312502,CE,São João do Jaguaribe,X,X,-,-,-,-,2
+2312700,CE,Senador Pompeu,-,X,-,-,-,-,1
+2312809,CE,Senador Sá,-,-,X,-,-,-,1
+2312908,CE,Sobral,X,X,X,X,-,-,4
+2313005,CE,Solonópole,-,X,-,-,-,-,1
+2313104,CE,Tabuleiro do Norte,X,X,-,-,-,-,2
+2313203,CE,Tamboril,X,X,-,-,-,-,2
+2313252,CE,Tarrafas,-,X,-,-,-,-,1
+2313302,CE,Tauá,X,X,-,X,-,-,3
+2313351,CE,Tejuçuoca,-,-,X,-,-,-,1
+2313401,CE,Tianguá,X,X,X,X,-,-,4
+2313500,CE,Trairi,X,X,X,X,-,-,4
+2313559,CE,Tururu,X,-,-,-,-,-,1
+2313609,CE,Ubajara,X,X,X,X,-,-,4
+2313708,CE,Umari,X,-,-,-,-,-,1
+2313757,CE,Umirim,X,X,X,-,-,-,3
+2313807,CE,Uruburetama,-,X,-,-,-,-,1
+2313906,CE,Uruoca,-,X,-,-,-,-,1
+2313955,CE,Varjota,-,X,X,-,-,-,2
+2314003,CE,Várzea Alegre,X,X,X,X,-,-,4
+2314102,CE,Viçosa do Ceará,X,X,X,X,-,-,4
+3200102,ES,Afonso Cláudio,X,X,X,X,-,-,4
+3200169,ES,Água Doce do Norte,X,X,-,-,-,-,2
+3200136,ES,Águia Branca,X,X,X,-,-,-,3
+3200201,ES,Alegre,X,X,X,X,-,-,4
+3200300,ES,Alfredo Chaves,X,X,X,-,-,-,3
+3200359,ES,Alto Rio Novo,X,X,-,-,-,-,2
+3200409,ES,Anchieta,X,X,X,-,-,-,3
+3200508,ES,Apiacá,X,X,-,-,-,-,2
+3200607,ES,Aracruz,X,X,X,X,-,-,4
+3200706,ES,Atilio Vivacqua,X,X,-,-,-,-,2
+3200805,ES,Baixo Guandu,X,X,X,-,-,-,3
+3200904,ES,Barra de São Francisco,X,X,X,X,-,-,4
+3201001,ES,Boa Esperança,X,X,-,-,-,-,2
+3201100,ES,Bom Jesus do Norte,X,X,X,-,-,-,3
+3201159,ES,Brejetuba,X,X,-,-,-,-,2
+3201209,ES,Cachoeiro de Itapemirim,X,X,X,X,-,-,4
+3201308,ES,Cariacica,X,X,X,X,-,-,4
+3201407,ES,Castelo,X,X,X,X,-,-,4
+3201506,ES,Colatina,X,X,X,X,-,-,4
+3201605,ES,Conceição da Barra,X,X,-,-,-,-,2
+3201704,ES,Conceição do Castelo,X,X,X,-,-,-,3
+3201803,ES,Divino de São Lourenço,X,X,-,-,-,-,2
+3201902,ES,Domingos Martins,X,X,X,X,-,-,4
+3202009,ES,Dores do Rio Preto,X,X,-,-,-,-,2
+3202108,ES,Ecoporanga,X,X,-,-,-,-,2
+3202207,ES,Fundão,X,X,-,-,-,-,2
+3202256,ES,Governador Lindenberg,X,X,-,-,-,-,2
+3202306,ES,Guaçuí,X,X,X,-,-,-,3
+3202405,ES,Guarapari,X,X,X,X,-,-,4
+3202454,ES,Ibatiba,X,X,-,-,-,-,2
+3202504,ES,Ibiraçu,X,X,-,-,-,-,2
+3202553,ES,Ibitirama,X,X,-,-,-,-,2
+3202603,ES,Iconha,X,X,-,-,-,-,2
+3202652,ES,Irupi,X,X,X,-,-,-,3
+3202702,ES,Itaguaçu,X,X,X,-,-,-,3
+3202801,ES,Itapemirim,X,X,X,X,-,-,4
+3202900,ES,Itarana,X,X,-,-,-,-,2
+3203007,ES,Iúna,X,X,X,-,-,-,3
+3203056,ES,Jaguaré,X,X,X,-,-,-,3
+3203106,ES,Jerônimo Monteiro,X,X,X,-,-,-,3
+3203130,ES,João Neiva,X,X,X,-,-,-,3
+3203163,ES,Laranja da Terra,X,X,-,-,-,-,2
+3203205,ES,Linhares,X,X,X,X,-,-,4
+3203304,ES,Mantenópolis,X,X,-,-,-,-,2
+3203320,ES,Marataízes,X,X,X,-,-,-,3
+3203346,ES,Marechal Floriano,X,X,X,-,-,-,3
+3203353,ES,Marilândia,X,X,-,-,-,-,2
+3203403,ES,Mimoso do Sul,X,X,-,-,-,-,2
+3203502,ES,Montanha,X,X,-,-,-,-,2
+3203601,ES,Mucurici,X,X,-,-,-,-,2
+3203700,ES,Muniz Freire,X,X,X,-,-,-,3
+3203809,ES,Muqui,X,X,-,-,-,-,2
+3203908,ES,Nova Venécia,X,X,-,X,-,-,3
+3204005,ES,Pancas,X,X,-,-,-,-,2
+3204054,ES,Pedro Canário,X,X,-,-,-,-,2
+3204104,ES,Pinheiros,X,X,-,-,-,-,2
+3204203,ES,Piúma,X,X,X,-,-,-,3
+3204252,ES,Ponto Belo,X,X,-,-,-,-,2
+3204302,ES,Presidente Kennedy,X,X,-,-,-,-,2
+3204351,ES,Rio Bananal,X,X,X,-,-,-,3
+3204401,ES,Rio Novo do Sul,X,X,-,-,-,-,2
+3204500,ES,Santa Leopoldina,X,X,-,-,-,-,2
+3204559,ES,Santa Maria de Jetibá,X,X,X,X,-,-,4
+3204609,ES,Santa Teresa,X,X,X,-,-,-,3
+3204658,ES,São Domingos do Norte,X,X,X,-,-,-,3
+3204708,ES,São Gabriel da Palha,X,X,X,X,-,-,4
+3204807,ES,São José do Calçado,X,X,-,-,-,-,2
+3204906,ES,São Mateus,X,X,X,X,-,-,4
+3204955,ES,São Roque do Canaã,X,X,X,-,-,-,3
+3205002,ES,Serra,X,X,X,X,-,-,4
+3205010,ES,Sooretama,X,X,-,-,-,-,2
+3205036,ES,Vargem Alta,X,X,-,-,-,-,2
+3205069,ES,Venda Nova do Imigrante,X,X,-,-,-,-,2
+3205101,ES,Viana,X,X,X,-,-,-,3
+3205150,ES,Vila Pavão,X,X,X,-,-,-,3
+3205176,ES,Vila Valério,X,X,-,-,-,-,2
+3205200,ES,Vila Velha,X,X,X,X,-,-,4
+3205309,ES,Vitória,X,X,X,X,-,-,4
+2100055,MA,Açailândia,X,X,X,X,-,-,4
+2100105,MA,Afonso Cunha,-,-,X,-,-,-,1
+2100154,MA,Água Doce do Maranhão,-,-,-,X,-,-,1
+2100204,MA,Alcântara,X,-,-,-,-,-,1
+2100402,MA,Altamira do Maranhão,X,-,-,-,-,-,1
+2100436,MA,Alto Alegre do Maranhão,X,-,X,-,-,-,2
+2100477,MA,Alto Alegre do Pindaré,X,X,X,X,-,-,4
+2100501,MA,Alto Parnaíba,-,-,X,-,-,-,1
+2100600,MA,Amarante do Maranhão,X,X,X,X,-,-,4
+2100709,MA,Anajatuba,-,-,X,-,-,-,1
+2100808,MA,Anapurus,-,-,X,-,-,-,1
+2100832,MA,Apicum-Açu,-,-,X,-,-,-,1
+2100873,MA,Araguanã,-,-,-,X,-,-,1
+2100907,MA,Araioses,X,-,-,X,-,-,2
+2100956,MA,Arame,-,X,X,X,-,-,3
+2101004,MA,Arari,-,X,X,-,-,-,2
+2101103,MA,Axixá,X,-,X,-,-,-,2
+2101202,MA,Bacabal,X,X,X,X,-,-,4
+2101251,MA,Bacabeira,X,-,-,-,-,-,1
+2101350,MA,Bacurituba,-,-,X,-,-,-,1
+2101400,MA,Balsas,X,X,X,-,-,-,3
+2101608,MA,Barra do Corda,X,X,X,-,-,-,3
+2101707,MA,Barreirinhas,X,X,X,-,-,-,3
+2101772,MA,Bela Vista do Maranhão,-,-,X,-,-,-,1
+2101731,MA,Belágua,X,-,-,-,-,-,1
+2101806,MA,Benedito Leite,X,X,-,-,-,-,2
+2101905,MA,Bequimão,-,X,-,-,-,-,1
+2101939,MA,Bernardo do Mearim,-,X,-,-,-,-,1
+2101970,MA,Boa Vista do Gurupi,-,-,-,X,-,-,1
+2102002,MA,Bom Jardim,X,X,X,X,-,-,4
+2102036,MA,Bom Jesus das Selvas,-,X,X,-,-,-,2
+2102077,MA,Bom Lugar,-,-,X,-,-,-,1
+2102101,MA,Brejo,X,X,X,X,-,-,4
+2102150,MA,Brejo de Areia,X,X,-,-,-,-,2
+2102200,MA,Buriti,-,-,X,-,-,-,1
+2102309,MA,Buriti Bravo,-,-,X,-,-,-,1
+2102325,MA,Buriticupu,X,X,X,X,-,-,4
+2102358,MA,Buritirana,-,-,X,-,-,-,1
+2102374,MA,Cachoeira Grande,-,-,X,-,-,-,1
+2102408,MA,Cajapió,-,-,X,-,-,-,1
+2102507,MA,Cajari,-,-,X,-,-,-,1
+2102556,MA,Campestre do Maranhão,-,-,X,-,-,-,1
+2102606,MA,Cândido Mendes,-,-,X,-,-,-,1
+2102705,MA,Cantanhede,-,-,X,-,-,-,1
+2102754,MA,Capinzal do Norte,X,X,-,-,-,-,2
+2102804,MA,Carolina,X,X,X,-,-,-,3
+2102903,MA,Carutapera,-,X,-,-,-,-,1
+2103000,MA,Caxias,X,X,X,X,-,-,4
+2103109,MA,Cedral,-,-,X,-,-,-,1
+2103125,MA,Central do Maranhão,-,X,X,-,-,-,2
+2103158,MA,Centro do Guilherme,-,-,X,-,-,-,1
+2103174,MA,Centro Novo do Maranhão,-,X,X,-,-,-,2
+2103208,MA,Chapadinha,X,X,X,X,-,-,4
+2103257,MA,Cidelândia,-,-,X,-,-,-,1
+2103307,MA,Codó,X,X,X,X,-,-,4
+2103406,MA,Coelho Neto,-,-,X,-,-,-,1
+2103505,MA,Colinas,-,X,X,X,-,-,3
+2103604,MA,Coroatá,X,X,X,-,-,-,3
+2103703,MA,Cururupu,-,X,X,X,-,-,3
+2103752,MA,Davinópolis,X,-,-,-,-,-,1
+2103802,MA,Dom Pedro,X,X,X,-,-,-,3
+2103901,MA,Duque Bacelar,-,X,-,-,-,-,1
+2104008,MA,Esperantinópolis,-,-,X,-,-,-,1
+2104057,MA,Estreito,X,X,X,X,-,-,4
+2104073,MA,Feira Nova do Maranhão,-,X,-,-,-,-,1
+2104081,MA,Fernando Falcão,-,-,X,-,-,-,1
+2104107,MA,Fortaleza dos Nogueiras,-,X,-,-,-,-,1
+2104206,MA,Fortuna,-,-,X,-,-,-,1
+2104305,MA,Godofredo Viana,-,X,X,-,-,-,2
+2104404,MA,Gonçalves Dias,-,X,-,-,-,-,1
+2104503,MA,Governador Archer,-,X,-,-,-,-,1
+2104552,MA,Governador Edison Lobão,X,X,X,-,-,-,3
+2104602,MA,Governador Eugênio Barros,-,X,-,-,-,-,1
+2104628,MA,Governador Luiz Rocha,-,X,-,-,-,-,1
+2104651,MA,Governador Newton Bello,-,X,X,-,-,-,2
+2104677,MA,Governador Nunes Freire,-,X,X,-,-,-,2
+2104701,MA,Graça Aranha,X,-,-,-,-,-,1
+2104800,MA,Grajaú,X,-,X,-,-,-,2
+2104909,MA,Guimarães,-,X,-,-,-,-,1
+2105005,MA,Humberto de Campos,X,-,X,-,-,-,2
+2105104,MA,Icatu,-,-,X,-,-,-,1
+2105203,MA,Igarapé Grande,-,X,X,-,-,-,2
+2105302,MA,Imperatriz,X,X,X,X,-,-,4
+2105351,MA,Itaipava do Grajaú,-,-,-,X,-,-,1
+2105401,MA,Itapecuru Mirim,X,X,X,-,-,-,3
+2105427,MA,Itinga do Maranhão,X,X,X,-,-,-,3
+2105450,MA,Jatobá,-,X,-,-,-,-,1
+2105500,MA,João Lisboa,X,X,-,-,-,-,2
+2105609,MA,Joselândia,-,-,X,-,-,-,1
+2105708,MA,Lago da Pedra,X,X,X,-,-,-,3
+2105948,MA,Lago dos Rodrigues,-,X,-,-,-,-,1
+2105906,MA,Lago Verde,-,X,-,-,-,-,1
+2105922,MA,Lagoa do Mato,-,-,X,-,-,-,1
+2105963,MA,Lagoa Grande do Maranhão,-,X,-,-,-,-,1
+2106003,MA,Lima Campos,-,X,-,-,-,-,1
+2106102,MA,Loreto,-,X,X,-,-,-,2
+2106201,MA,Luís Domingues,-,X,-,-,-,-,1
+2106300,MA,Magalhães de Almeida,-,X,X,-,-,-,2
+2106326,MA,Maracaçumé,-,-,X,-,-,-,1
+2106359,MA,Marajá do Sena,-,X,-,-,-,-,1
+2106375,MA,Maranhãozinho,-,-,X,-,-,-,1
+2106409,MA,Mata Roma,-,-,X,X,-,-,2
+2106607,MA,Matões,X,X,X,-,-,-,3
+2106631,MA,Matões do Norte,X,-,X,-,-,-,2
+2106672,MA,Milagres do Maranhão,-,-,X,X,-,-,2
+2106706,MA,Mirador,-,X,-,-,-,-,1
+2106755,MA,Miranda do Norte,-,X,X,-,-,-,2
+2106805,MA,Mirinzal,-,-,X,-,-,-,1
+2106904,MA,Monção,X,X,X,X,-,-,4
+2107100,MA,Morros,X,-,X,-,-,-,2
+2107258,MA,Nova Colinas,-,-,X,-,-,-,1
+2107357,MA,Nova Olinda do Maranhão,-,-,X,-,-,-,1
+2107407,MA,Olho d'Água das Cunhãs,-,X,X,-,-,-,2
+2107456,MA,Olinda Nova do Maranhão,-,-,X,-,-,-,1
+2107506,MA,Paço do Lumiar,X,X,X,X,-,-,4
+2107605,MA,Palmeirândia,-,X,X,-,-,-,2
+2107704,MA,Paraibano,-,X,X,-,-,-,2
+2107803,MA,Parnarama,-,X,X,X,-,-,3
+2108009,MA,Pastos Bons,-,-,X,-,-,-,1
+2108058,MA,Paulino Neves,-,-,-,X,-,-,1
+2108108,MA,Paulo Ramos,-,X,-,-,-,-,1
+2108207,MA,Pedreiras,X,X,X,-,-,-,3
+2108256,MA,Pedro do Rosário,-,-,X,-,-,-,1
+2108306,MA,Penalva,X,X,X,X,-,-,4
+2108405,MA,Peri Mirim,-,X,-,-,-,-,1
+2108454,MA,Peritoró,X,X,-,-,-,-,2
+2108504,MA,Pindaré-Mirim,X,X,X,X,-,-,4
+2108603,MA,Pinheiro,X,X,X,-,-,-,3
+2108702,MA,Pio XII,X,-,-,-,-,-,1
+2108801,MA,Pirapemas,-,X,-,-,-,-,1
+2108900,MA,Poção de Pedras,-,-,X,-,-,-,1
+2109007,MA,Porto Franco,-,X,-,-,-,-,1
+2109056,MA,Porto Rico do Maranhão,-,X,-,-,-,-,1
+2109106,MA,Presidente Dutra,X,X,X,-,-,-,3
+2109205,MA,Presidente Juscelino,-,-,X,-,-,-,1
+2109239,MA,Presidente Médici,-,X,-,X,-,-,2
+2109270,MA,Presidente Sarney,-,-,X,-,-,-,1
+2109304,MA,Presidente Vargas,X,-,-,-,-,-,1
+2109403,MA,Primeira Cruz,-,-,X,-,-,-,1
+2109452,MA,Raposa,X,X,X,X,-,-,4
+2109502,MA,Riachão,-,-,X,-,-,-,1
+2109551,MA,Ribamar Fiquene,-,X,X,X,-,-,3
+2109601,MA,Rosário,X,X,X,X,-,-,4
+2109700,MA,Sambaíba,-,X,X,-,-,-,2
+2109759,MA,Santa Filomena do Maranhão,-,-,X,-,-,-,1
+2109809,MA,Santa Helena,-,X,X,-,-,-,2
+2109908,MA,Santa Inês,X,X,X,X,-,-,4
+2110005,MA,Santa Luzia,X,X,X,-,-,-,3
+2110039,MA,Santa Luzia do Paruá,-,-,X,-,-,-,1
+2110203,MA,Santa Rita,X,X,X,X,-,-,4
+2110237,MA,Santana do Maranhão,-,-,X,-,-,-,1
+2110278,MA,Santo Amaro do Maranhão,-,-,X,-,-,-,1
+2110302,MA,Santo Antônio dos Lopes,-,X,X,-,-,-,2
+2110401,MA,São Benedito do Rio Preto,-,-,X,-,-,-,1
+2110500,MA,São Bento,X,X,X,X,-,-,4
+2110609,MA,São Bernardo,-,X,X,-,-,-,2
+2110658,MA,São Domingos do Azeitão,-,-,X,-,-,-,1
+2110708,MA,São Domingos do Maranhão,X,X,X,X,-,-,4
+2110807,MA,São Félix de Balsas,-,X,X,-,-,-,2
+2110906,MA,São Francisco do Maranhão,-,-,X,-,-,-,1
+2111003,MA,São João Batista,-,-,X,-,-,-,1
+2111029,MA,São João do Carú,-,-,X,-,-,-,1
+2111052,MA,São João do Paraíso,-,X,-,-,-,-,1
+2111078,MA,São João do Soter,-,-,X,-,-,-,1
+2111102,MA,São João dos Patos,-,X,X,-,-,-,2
+2111201,MA,São José de Ribamar,X,X,X,X,-,-,4
+2111250,MA,São José dos Basílios,-,X,-,-,-,-,1
+2111300,MA,São Luís,X,X,X,X,-,-,4
+2111409,MA,São Luís Gonzaga do Maranhão,-,X,-,-,-,-,1
+2111508,MA,São Mateus do Maranhão,X,X,X,-,-,-,3
+2111532,MA,São Pedro da Água Branca,-,X,-,-,-,-,1
+2111573,MA,São Pedro dos Crentes,-,X,X,-,-,-,2
+2111607,MA,São Raimundo das Mangabeiras,-,X,X,-,-,-,2
+2111631,MA,São Raimundo do Doca Bezerra,-,-,X,-,-,-,1
+2111672,MA,São Roberto,-,-,X,-,-,-,1
+2111706,MA,São Vicente Ferrer,X,X,-,-,-,-,2
+2111722,MA,Satubinha,-,-,X,-,-,-,1
+2111748,MA,Senador Alexandre Costa,-,X,-,-,-,-,1
+2111805,MA,Sítio Novo,-,-,X,-,-,-,1
+2111904,MA,Sucupira do Norte,X,-,-,-,-,-,1
+2111953,MA,Sucupira do Riachão,-,-,X,-,-,-,1
+2112001,MA,Tasso Fragoso,-,X,X,-,-,-,2
+2112100,MA,Timbiras,-,X,-,-,-,-,1
+2112209,MA,Timon,X,X,X,X,-,-,4
+2112233,MA,Trizidela do Vale,X,X,X,-,-,-,3
+2112274,MA,Tufilândia,-,X,X,-,-,-,2
+2112308,MA,Tuntum,X,X,X,X,-,-,4
+2112407,MA,Turiaçu,-,-,X,X,-,-,2
+2112456,MA,Turilândia,-,X,X,-,-,-,2
+2112506,MA,Tutóia,-,X,X,X,-,-,3
+2112704,MA,Vargem Grande,X,X,X,X,-,-,4
+2112803,MA,Viana,X,X,X,-,-,-,3
+2112852,MA,Vila Nova dos Martírios,-,X,-,-,-,-,1
+2112902,MA,Vitória do Mearim,X,X,X,X,-,-,4
+2113009,MA,Vitorino Freire,X,X,X,X,-,-,4
+2114007,MA,Zé Doca,X,X,X,X,-,-,4
+3100104,MG,Abadia dos Dourados,X,-,-,-,-,-,1
+3100203,MG,Abaeté,X,X,X,-,-,-,3
+3100302,MG,Abre Campo,X,X,X,-,-,-,3
+3100500,MG,Açucena,-,X,-,-,-,-,1
+3100609,MG,Água Boa,-,X,-,-,-,-,1
+3100708,MG,Água Comprida,X,-,-,-,-,-,1
+3100807,MG,Aguanil,X,X,-,-,-,-,2
+3100906,MG,Águas Formosas,X,X,-,-,-,-,2
+3101003,MG,Águas Vermelhas,-,X,-,-,-,-,1
+3101102,MG,Aimorés,X,X,-,-,-,-,2
+3101201,MG,Aiuruoca,X,X,-,-,-,-,2
+3101300,MG,Alagoa,X,X,-,-,-,-,2
+3101409,MG,Albertina,X,-,-,-,-,-,1
+3101508,MG,Além Paraíba,X,X,X,-,-,-,3
+3101607,MG,Alfenas,X,X,X,X,-,-,4
+3101631,MG,Alfredo Vasconcelos,X,-,-,-,-,-,1
+3101706,MG,Almenara,X,X,X,X,-,-,4
+3101805,MG,Alpercata,X,X,-,-,-,-,2
+3101904,MG,Alpinópolis,X,X,-,-,-,-,2
+3102001,MG,Alterosa,X,X,X,-,-,-,3
+3102050,MG,Alto Caparaó,-,X,X,-,-,-,2
+3153509,MG,Alto Jequitibá,X,X,-,-,-,-,2
+3102100,MG,Alto Rio Doce,X,X,-,-,-,-,2
+3102209,MG,Alvarenga,X,-,-,-,-,-,1
+3102308,MG,Alvinópolis,X,X,-,-,-,-,2
+3102407,MG,Alvorada de Minas,-,-,X,-,-,-,1
+3102506,MG,Amparo do Serra,-,-,X,-,-,-,1
+3102605,MG,Andradas,X,X,X,X,-,-,4
+3102803,MG,Andrelândia,X,X,-,-,-,-,2
+3102902,MG,Antônio Carlos,X,X,-,-,-,-,2
+3103009,MG,Antônio Dias,X,X,X,-,-,-,3
+3103108,MG,Antônio Prado de Minas,-,-,X,-,-,-,1
+3103306,MG,Aracitaba,-,-,X,-,-,-,1
+3103405,MG,Araçuaí,X,X,X,X,-,-,4
+3103504,MG,Araguari,X,X,X,X,-,-,4
+3103603,MG,Arantina,-,-,X,-,-,-,1
+3103702,MG,Araponga,-,-,X,-,-,-,1
+3103751,MG,Araporã,X,-,-,-,X,-,2
+3103801,MG,Arapuá,-,X,-,-,-,-,1
+3103900,MG,Araújos,X,X,-,-,-,-,2
+3104007,MG,Araxá,X,X,X,X,-,-,4
+3104106,MG,Arceburgo,X,X,-,-,-,-,2
+3104205,MG,Arcos,X,X,X,X,-,-,4
+3104304,MG,Areado,X,X,X,-,-,-,3
+3104403,MG,Argirita,-,-,-,X,-,-,1
+3104502,MG,Arinos,X,X,X,-,-,-,3
+3104601,MG,Astolfo Dutra,X,X,-,-,-,-,2
+3104700,MG,Ataléia,-,-,X,-,-,-,1
+3104809,MG,Augusto de Lima,X,X,-,-,-,-,2
+3104908,MG,Baependi,X,X,-,-,-,-,2
+3105004,MG,Baldim,X,X,-,-,-,-,2
+3105103,MG,Bambuí,X,X,X,-,-,-,3
+3105301,MG,Bandeira do Sul,X,X,-,-,-,-,2
+3105400,MG,Barão de Cocais,X,X,X,X,-,-,4
+3105509,MG,Barão de Monte Alto,-,-,X,-,-,-,1
+3105608,MG,Barbacena,X,X,X,X,-,-,4
+3105707,MG,Barra Longa,-,-,X,-,-,-,1
+3105905,MG,Barroso,X,X,-,-,-,-,2
+3106002,MG,Bela Vista de Minas,-,X,-,-,-,-,1
+3106101,MG,Belmiro Braga,X,-,X,-,-,-,2
+3106200,MG,Belo Horizonte,X,X,X,X,-,-,4
+3106309,MG,Belo Oriente,-,X,-,-,-,-,1
+3106408,MG,Belo Vale,X,X,X,-,-,-,3
+3106507,MG,Berilo,X,X,-,-,-,-,2
+3106655,MG,Berizal,-,X,-,-,-,-,1
+3106606,MG,Bertópolis,X,-,-,-,-,-,1
+3106705,MG,Betim,X,X,X,X,-,-,4
+3106804,MG,Bias Fortes,-,-,X,-,-,-,1
+3106903,MG,Bicas,X,X,-,-,-,-,2
+3107109,MG,Boa Esperança,X,X,X,X,-,-,4
+3107208,MG,Bocaina de Minas,-,-,X,-,-,-,1
+3107307,MG,Bocaiúva,X,X,X,X,-,-,4
+3107406,MG,Bom Despacho,X,X,X,X,-,-,4
+3107604,MG,Bom Jesus da Penha,X,X,-,-,-,-,2
+3107703,MG,Bom Jesus do Amparo,-,X,-,-,-,-,1
+3107802,MG,Bom Jesus do Galho,X,-,X,-,-,-,2
+3107901,MG,Bom Repouso,X,X,-,-,-,-,2
+3108008,MG,Bom Sucesso,X,X,X,-,-,-,3
+3108107,MG,Bonfim,X,-,X,-,-,-,2
+3108206,MG,Bonfinópolis de Minas,X,X,-,-,-,-,2
+3108255,MG,Bonito de Minas,-,X,-,-,-,-,1
+3108305,MG,Borda da Mata,X,X,X,-,-,-,3
+3108404,MG,Botelhos,X,X,-,-,-,-,2
+3108503,MG,Botumirim,X,X,-,-,-,-,2
+3108701,MG,Brás Pires,-,-,X,-,-,-,1
+3108552,MG,Brasilândia de Minas,X,X,-,-,-,-,2
+3108602,MG,Brasília de Minas,X,X,X,X,-,-,4
+3108909,MG,Brazópolis,X,X,X,-,-,-,3
+3109006,MG,Brumadinho,X,X,X,X,-,-,4
+3109105,MG,Bueno Brandão,X,X,-,-,-,-,2
+3109204,MG,Buenópolis,X,X,-,X,-,-,3
+3109253,MG,Bugre,-,X,-,-,-,-,1
+3109303,MG,Buritis,X,X,X,-,-,-,3
+3109402,MG,Buritizeiro,X,X,-,-,-,-,2
+3109501,MG,Cabo Verde,X,X,X,-,-,-,3
+3109600,MG,Cachoeira da Prata,X,-,-,-,-,-,1
+3109709,MG,Cachoeira de Minas,X,X,-,-,-,-,2
+3102704,MG,Cachoeira de Pajeú,-,X,-,-,-,-,1
+3109808,MG,Cachoeira Dourada,X,-,-,-,-,-,1
+3109907,MG,Caetanópolis,X,X,-,-,-,-,2
+3110004,MG,Caeté,X,X,X,-,-,-,3
+3110103,MG,Caiana,-,-,X,-,-,-,1
+3110202,MG,Cajuri,X,-,X,-,-,-,2
+3110301,MG,Caldas,X,X,-,-,-,-,2
+3110400,MG,Camacho,X,-,-,-,-,-,1
+3110509,MG,Camanducaia,X,X,-,-,-,-,2
+3110608,MG,Cambuí,X,X,X,-,-,-,3
+3110707,MG,Cambuquira,X,X,X,-,-,-,3
+3110806,MG,Campanário,X,-,-,-,-,-,1
+3110905,MG,Campanha,X,X,-,-,-,-,2
+3111002,MG,Campestre,X,X,X,-,-,-,3
+3111101,MG,Campina Verde,X,X,-,-,-,-,2
+3111200,MG,Campo Belo,X,X,X,X,-,-,4
+3111309,MG,Campo do Meio,X,X,-,-,-,-,2
+3111408,MG,Campo Florido,X,X,-,-,-,-,2
+3111507,MG,Campos Altos,X,X,-,-,-,-,2
+3111606,MG,Campos Gerais,X,X,-,-,-,-,2
+3111903,MG,Cana Verde,X,X,-,-,-,-,2
+3111705,MG,Canaã,-,-,X,-,-,-,1
+3111804,MG,Canápolis,-,X,-,-,-,-,1
+3112000,MG,Candeias,X,X,-,-,-,-,2
+3112059,MG,Cantagalo,-,X,-,-,-,-,1
+3112109,MG,Caparaó,-,-,X,-,-,-,1
+3112307,MG,Capelinha,X,X,X,X,-,-,4
+3112406,MG,Capetinga,X,-,-,-,-,-,1
+3112505,MG,Capim Branco,X,X,-,-,-,-,2
+3112604,MG,Capinópolis,X,X,-,-,-,-,2
+3112653,MG,Capitão Andrade,X,X,-,-,-,-,2
+3112703,MG,Capitão Enéas,X,X,X,-,-,-,3
+3112802,MG,Capitólio,X,X,-,-,-,-,2
+3112901,MG,Caputira,-,X,-,-,-,-,1
+3113008,MG,Caraí,X,X,-,-,-,-,2
+3113107,MG,Caranaíba,X,X,X,-,-,-,3
+3113206,MG,Carandaí,X,X,-,-,-,-,2
+3113305,MG,Carangola,X,X,X,X,-,-,4
+3113404,MG,Caratinga,X,X,X,-,-,-,3
+3113503,MG,Carbonita,X,-,-,-,-,-,1
+3113602,MG,Careaçu,X,X,X,-,-,-,3
+3113701,MG,Carlos Chagas,X,X,X,-,-,-,3
+3113800,MG,Carmésia,-,-,X,-,-,-,1
+3113909,MG,Carmo da Cachoeira,X,X,X,-,-,-,3
+3114006,MG,Carmo da Mata,X,X,-,-,-,-,2
+3114105,MG,Carmo de Minas,-,X,-,-,-,-,1
+3114204,MG,Carmo do Cajuru,X,X,-,-,-,-,2
+3114303,MG,Carmo do Paranaíba,X,X,X,-,X,-,4
+3114402,MG,Carmo do Rio Claro,X,X,-,-,-,-,2
+3114501,MG,Carmópolis de Minas,X,X,-,-,-,-,2
+3114600,MG,Carrancas,X,X,-,-,-,-,2
+3114709,MG,Carvalhópolis,X,X,-,-,-,-,2
+3114907,MG,Casa Grande,-,-,X,-,-,-,1
+3115102,MG,Cássia,X,X,-,-,-,-,2
+3115300,MG,Cataguases,X,X,X,X,-,-,4
+3115359,MG,Catas Altas,-,X,X,-,-,-,2
+3115409,MG,Catas Altas da Noruega,X,X,X,-,-,-,3
+3115458,MG,Catuji,X,X,-,-,-,-,2
+3115474,MG,Catuti,X,X,-,-,-,-,2
+3115508,MG,Caxambu,X,X,X,-,-,-,3
+3115706,MG,Central de Minas,X,-,-,-,-,-,1
+3115805,MG,Centralina,X,X,-,-,-,-,2
+3115904,MG,Chácara,X,X,-,-,-,-,2
+3116100,MG,Chapada do Norte,X,-,-,-,-,-,1
+3116159,MG,Chapada Gaúcha,-,X,-,-,-,-,1
+3116209,MG,Chiador,-,-,X,-,-,-,1
+3116308,MG,Cipotânea,-,X,X,-,-,-,2
+3116506,MG,Claro dos Poções,-,X,-,-,-,-,1
+3116605,MG,Cláudio,X,X,X,-,-,-,3
+3116704,MG,Coimbra,X,-,-,-,-,-,1
+3116803,MG,Coluna,X,-,-,-,-,-,1
+3117009,MG,Comercinho,X,-,-,-,-,-,1
+3117108,MG,Conceição da Aparecida,X,X,-,-,-,-,2
+3115201,MG,Conceição da Barra de Minas,-,-,X,-,-,-,1
+3117306,MG,Conceição das Alagoas,X,X,-,-,-,-,2
+3117207,MG,Conceição das Pedras,X,X,-,-,-,-,2
+3117405,MG,Conceição de Ipanema,-,X,-,-,-,-,1
+3117504,MG,Conceição do Mato Dentro,-,X,X,-,-,-,2
+3117702,MG,Conceição do Rio Verde,X,X,-,-,-,-,2
+3117801,MG,Conceição dos Ouros,X,X,-,-,-,-,2
+3117876,MG,Confins,X,X,X,-,-,-,3
+3117900,MG,Congonhal,X,X,X,-,-,-,3
+3118007,MG,Congonhas,X,X,X,X,-,-,4
+3118106,MG,Congonhas do Norte,X,-,-,-,-,-,1
+3118205,MG,Conquista,X,-,-,-,-,-,1
+3118304,MG,Conselheiro Lafaiete,X,X,X,X,-,-,4
+3118403,MG,Conselheiro Pena,X,X,-,-,-,-,2
+3118502,MG,Consolação,X,X,-,-,-,-,2
+3118601,MG,Contagem,X,X,X,X,-,-,4
+3118700,MG,Coqueiral,X,X,-,-,-,-,2
+3118809,MG,Coração de Jesus,-,X,X,-,-,-,2
+3118908,MG,Cordisburgo,X,X,-,-,-,-,2
+3119005,MG,Cordislândia,X,X,-,-,-,-,2
+3119104,MG,Corinto,X,X,-,X,-,-,3
+3119302,MG,Coromandel,X,X,-,-,-,-,2
+3119401,MG,Coronel Fabriciano,X,X,X,X,-,-,4
+3119609,MG,Coronel Pacheco,-,-,X,-,-,-,1
+3119708,MG,Coronel Xavier Chaves,X,-,X,-,-,-,2
+3119807,MG,Córrego Danta,X,-,-,-,-,-,1
+3119906,MG,Córrego do Bom Jesus,X,X,-,-,-,-,2
+3119955,MG,Córrego Fundo,X,-,-,-,-,-,1
+3120003,MG,Córrego Novo,-,X,-,-,-,-,1
+3120201,MG,Cristais,X,X,X,-,-,-,3
+3120300,MG,Cristália,X,-,-,-,-,-,1
+3120409,MG,Cristiano Otoni,X,-,X,-,-,-,2
+3120508,MG,Cristina,-,X,X,-,-,-,2
+3120607,MG,Crucilândia,X,-,-,-,-,-,1
+3120706,MG,Cruzeiro da Fortaleza,X,X,-,-,-,-,2
+3120805,MG,Cruzília,X,X,-,-,-,-,2
+3120904,MG,Curvelo,X,X,X,X,-,-,4
+3121100,MG,Delfim Moreira,X,X,-,-,-,-,2
+3121209,MG,Delfinópolis,X,X,X,-,-,-,3
+3121258,MG,Delta,X,X,-,-,-,-,2
+3121308,MG,Descoberto,-,X,-,-,-,-,1
+3121407,MG,Desterro de Entre Rios,X,-,X,-,-,-,2
+3121506,MG,Desterro do Melo,-,X,X,-,-,-,2
+3121605,MG,Diamantina,X,-,X,X,-,-,3
+3121704,MG,Diogo de Vasconcelos,-,-,X,-,-,-,1
+3121803,MG,Dionísio,X,X,X,-,-,-,3
+3121902,MG,Divinésia,X,X,X,-,-,-,3
+3122009,MG,Divino,X,-,X,-,-,-,2
+3122306,MG,Divinópolis,X,X,X,X,X,-,5
+3122405,MG,Divisa Nova,X,-,-,-,-,-,1
+3122702,MG,Dom Silvério,X,X,-,-,-,-,2
+3122900,MG,Dona Eusébia,X,X,-,-,-,-,2
+3123007,MG,Dores de Campos,X,X,-,-,-,-,2
+3123205,MG,Dores do Indaiá,X,X,-,-,-,-,2
+3123304,MG,Dores do Turvo,-,-,X,-,-,-,1
+3123403,MG,Doresópolis,X,-,-,-,-,-,1
+3123528,MG,Durandé,X,-,-,-,-,-,1
+3123601,MG,Elói Mendes,X,X,-,-,-,-,2
+3123700,MG,Engenheiro Caldas,X,X,-,-,-,-,2
+3123809,MG,Engenheiro Navarro,X,X,-,-,-,-,2
+3123858,MG,Entre Folhas,X,-,-,-,-,-,1
+3123908,MG,Entre Rios de Minas,X,X,-,-,-,-,2
+3124005,MG,Ervália,X,-,-,-,-,-,1
+3124104,MG,Esmeraldas,X,X,X,X,-,-,4
+3124203,MG,Espera Feliz,X,X,-,-,-,-,2
+3124302,MG,Espinosa,X,X,X,X,-,-,4
+3124401,MG,Espírito Santo do Dourado,X,-,-,-,-,-,1
+3124500,MG,Estiva,X,X,-,-,-,-,2
+3124609,MG,Estrela Dalva,-,-,X,-,-,-,1
+3124807,MG,Estrela do Sul,-,X,-,-,-,-,1
+3124906,MG,Eugenópolis,X,X,X,-,-,-,3
+3125002,MG,Ewbank da Câmara,X,X,X,-,-,-,3
+3125101,MG,Extrema,X,X,X,-,-,-,3
+3125200,MG,Fama,X,X,X,-,-,-,3
+3125309,MG,Faria Lemos,-,-,X,-,-,-,1
+3125408,MG,Felício dos Santos,X,-,-,-,-,-,1
+3125705,MG,Felixlândia,X,X,-,-,-,-,2
+3125903,MG,Ferros,X,-,-,-,-,-,1
+3125952,MG,Fervedouro,X,X,-,-,-,-,2
+3126000,MG,Florestal,X,X,X,-,-,-,3
+3126109,MG,Formiga,X,X,X,X,-,-,4
+3126208,MG,Formoso,-,X,-,-,-,-,1
+3126307,MG,Fortaleza de Minas,X,-,-,-,-,-,1
+3126406,MG,Fortuna de Minas,X,-,-,-,-,-,1
+3126604,MG,Francisco Dumont,-,X,-,-,-,-,1
+3126703,MG,Francisco Sá,X,X,-,X,-,-,3
+3126752,MG,Franciscópolis,X,X,-,-,-,-,2
+3126802,MG,Frei Gaspar,-,X,-,-,-,-,1
+3126901,MG,Frei Inocêncio,X,X,-,-,-,-,2
+3126950,MG,Frei Lagonegro,-,X,-,-,-,-,1
+3127008,MG,Fronteira,X,X,-,-,-,-,2
+3127057,MG,Fronteira dos Vales,-,-,-,X,-,-,1
+3127073,MG,Fruta de Leite,X,X,-,-,-,-,2
+3127107,MG,Frutal,X,X,X,X,X,-,5
+3127206,MG,Funilândia,X,-,X,-,-,-,2
+3127305,MG,Galiléia,X,X,-,-,-,-,2
+3127339,MG,Gameleiras,-,X,-,-,-,-,1
+3127354,MG,Glaucilândia,-,X,-,-,-,-,1
+3127370,MG,Goiabeira,X,-,-,-,-,-,1
+3127388,MG,Goianá,-,-,X,-,-,-,1
+3127404,MG,Gonçalves,X,-,-,-,-,-,1
+3127602,MG,Gouveia,-,-,X,-,-,-,1
+3127701,MG,Governador Valadares,X,X,X,X,-,-,4
+3127800,MG,Grão Mogol,X,X,-,-,-,-,2
+3128006,MG,Guanhães,X,X,X,-,-,-,3
+3128105,MG,Guapé,X,X,X,-,-,-,3
+3128253,MG,Guaraciama,X,-,-,-,-,-,1
+3128303,MG,Guaranésia,X,X,-,-,-,-,2
+3128402,MG,Guarani,X,X,X,-,-,-,3
+3128600,MG,Guarda-Mor,X,-,-,-,-,-,1
+3128709,MG,Guaxupé,X,X,X,-,-,-,3
+3128808,MG,Guidoval,-,-,X,-,-,-,1
+3128907,MG,Guimarânia,X,X,-,-,-,-,2
+3129103,MG,Gurinhatã,-,X,-,-,-,-,1
+3129202,MG,Heliodora,X,X,-,-,-,-,2
+3129301,MG,Iapu,X,X,-,-,-,-,2
+3129400,MG,Ibertioga,X,-,X,-,-,-,2
+3129509,MG,Ibiá,X,X,-,-,-,-,2
+3129608,MG,Ibiaí,-,X,-,-,-,-,1
+3129657,MG,Ibiracatu,-,X,-,-,-,-,1
+3129707,MG,Ibiraci,X,-,-,-,-,-,1
+3129806,MG,Ibirité,X,X,X,X,-,-,4
+3129905,MG,Ibitiúra de Minas,X,X,-,-,-,-,2
+3130002,MG,Ibituruna,-,X,-,-,-,-,1
+3130051,MG,Icaraí de Minas,-,X,-,-,-,-,1
+3130101,MG,Igarapé,X,X,X,X,-,-,4
+3130200,MG,Igaratinga,X,X,-,-,-,-,2
+3130309,MG,Iguatama,X,X,-,-,-,-,2
+3130408,MG,Ijaci,X,X,X,-,-,-,3
+3130507,MG,Ilicínea,X,-,-,-,-,-,1
+3130556,MG,Imbé de Minas,X,-,-,-,-,-,1
+3130606,MG,Inconfidentes,X,-,-,-,-,-,1
+3130655,MG,Indaiabira,-,X,-,-,-,-,1
+3130705,MG,Indianópolis,-,X,-,-,-,-,1
+3130903,MG,Inhapim,X,X,-,-,-,-,2
+3131000,MG,Inhaúma,X,-,-,-,-,-,1
+3131109,MG,Inimutaba,X,-,-,-,-,-,1
+3131158,MG,Ipaba,-,X,-,-,-,-,1
+3131208,MG,Ipanema,X,X,X,-,-,-,3
+3131307,MG,Ipatinga,X,X,X,X,-,-,4
+3131505,MG,Ipuiúna,X,X,-,-,-,-,2
+3131604,MG,Iraí de Minas,X,X,-,-,-,-,2
+3131703,MG,Itabira,X,X,X,X,-,-,4
+3131901,MG,Itabirito,X,X,X,X,-,-,4
+3132107,MG,Itacarambi,-,X,X,-,-,-,2
+3132206,MG,Itaguara,X,X,-,-,-,-,2
+3132404,MG,Itajubá,X,X,X,-,-,-,3
+3132503,MG,Itamarandiba,X,-,X,X,-,-,3
+3132701,MG,Itambacuri,X,X,X,-,-,-,3
+3132800,MG,Itambé do Mato Dentro,-,-,X,-,-,-,1
+3132909,MG,Itamogi,X,X,X,-,-,-,3
+3133006,MG,Itamonte,X,X,X,-,-,-,3
+3133105,MG,Itanhandu,X,X,-,-,-,-,2
+3133204,MG,Itanhomi,X,X,-,-,-,-,2
+3133303,MG,Itaobim,X,X,X,-,-,-,3
+3133402,MG,Itapagipe,-,X,-,-,X,-,2
+3133501,MG,Itapecerica,X,X,X,-,-,-,3
+3133600,MG,Itapeva,X,X,X,-,-,-,3
+3133709,MG,Itatiaiuçu,X,X,-,-,-,-,2
+3133758,MG,Itaú de Minas,X,X,X,-,-,-,3
+3133808,MG,Itaúna,X,X,X,X,-,-,4
+3133907,MG,Itaverava,X,-,X,-,-,-,2
+3134004,MG,Itinga,X,-,-,-,-,-,1
+3134103,MG,Itueta,X,-,-,X,-,-,2
+3134202,MG,Ituiutaba,X,X,X,X,X,-,5
+3134301,MG,Itumirim,X,X,-,-,-,-,2
+3134400,MG,Iturama,X,X,X,X,X,-,5
+3134509,MG,Itutinga,X,X,-,-,-,-,2
+3134608,MG,Jaboticatubas,X,X,-,-,-,-,2
+3134806,MG,Jacuí,X,X,-,-,-,-,2
+3134905,MG,Jacutinga,X,X,-,-,-,-,2
+3135001,MG,Jaguaraçu,-,-,X,-,-,-,1
+3135050,MG,Jaíba,X,X,X,X,-,-,4
+3135100,MG,Janaúba,X,X,X,X,-,-,4
+3135209,MG,Januária,X,X,X,X,-,-,4
+3135308,MG,Japaraíba,X,-,-,-,-,-,1
+3135407,MG,Jeceaba,X,-,X,-,-,-,2
+3135456,MG,Jenipapo de Minas,-,X,-,-,-,-,1
+3135506,MG,Jequeri,X,X,-,-,-,-,2
+3135605,MG,Jequitaí,-,X,X,-,-,-,2
+3135704,MG,Jequitibá,X,-,X,-,-,-,2
+3135803,MG,Jequitinhonha,X,X,-,-,-,-,2
+3136207,MG,João Monlevade,-,X,X,X,-,-,3
+3136306,MG,João Pinheiro,X,X,X,-,-,-,3
+3136405,MG,Joaquim Felício,X,X,-,-,-,-,2
+3136520,MG,José Gonçalves de Minas,-,X,-,-,-,-,1
+3136553,MG,José Raydan,-,X,-,-,-,-,1
+3136579,MG,Josenópolis,-,X,-,-,-,-,1
+3136652,MG,Juatuba,X,X,-,-,-,-,2
+3136702,MG,Juiz de Fora,X,X,X,X,-,-,4
+3136801,MG,Juramento,-,X,-,-,-,-,1
+3136900,MG,Juruaia,X,X,-,-,-,-,2
+3136959,MG,Juvenília,-,X,-,-,-,-,1
+3137007,MG,Ladainha,X,-,-,-,-,-,1
+3137106,MG,Lagamar,X,X,-,-,-,-,2
+3137205,MG,Lagoa da Prata,X,X,X,X,-,-,4
+3137403,MG,Lagoa Dourada,X,X,-,-,-,-,2
+3137502,MG,Lagoa Formosa,X,X,-,-,-,-,2
+3137536,MG,Lagoa Grande,X,X,-,-,-,-,2
+3137601,MG,Lagoa Santa,X,X,X,X,-,-,4
+3137700,MG,Lajinha,X,X,-,-,-,-,2
+3137809,MG,Lambari,X,X,-,-,-,-,2
+3137908,MG,Lamim,-,-,X,-,-,-,1
+3138005,MG,Laranjal,X,X,-,-,-,-,2
+3138203,MG,Lavras,X,X,X,X,-,-,4
+3138302,MG,Leandro Ferreira,X,-,-,-,-,-,1
+3138351,MG,Leme do Prado,-,X,-,-,-,-,1
+3138401,MG,Leopoldina,X,X,X,X,-,-,4
+3138609,MG,Lima Duarte,X,X,-,-,-,-,2
+3138674,MG,Luisburgo,-,X,-,-,-,-,1
+3138708,MG,Luminárias,X,X,-,-,-,-,2
+3138807,MG,Luz,X,X,-,-,-,-,2
+3139003,MG,Machado,X,X,X,-,-,-,3
+3139102,MG,Madre de Deus de Minas,X,X,-,-,-,-,2
+3139201,MG,Malacacheta,X,X,-,-,-,-,2
+3139250,MG,Mamonas,-,X,-,-,-,-,1
+3139300,MG,Manga,-,X,X,-,-,-,2
+3139409,MG,Manhuaçu,X,X,X,-,-,-,3
+3139508,MG,Manhumirim,-,X,-,-,-,-,1
+3139607,MG,Mantena,X,X,-,-,-,-,2
+3139805,MG,Mar de Espanha,X,X,X,-,-,-,3
+3139706,MG,Maravilhas,X,X,-,-,-,-,2
+3139904,MG,Maria da Fé,X,X,-,-,-,-,2
+3140001,MG,Mariana,X,X,X,-,-,-,3
+3140159,MG,Mário Campos,X,X,-,X,-,-,3
+3140209,MG,Maripá de Minas,-,-,X,-,-,-,1
+3140308,MG,Marliéria,X,-,X,-,-,-,2
+3140407,MG,Marmelópolis,X,X,-,-,-,-,2
+3140506,MG,Martinho Campos,X,X,X,-,-,-,3
+3140530,MG,Martins Soares,X,-,X,-,-,-,2
+3140704,MG,Mateus Leme,X,X,X,-,-,-,3
+3171501,MG,Mathias Lobato,X,X,-,-,-,-,2
+3140803,MG,Matias Barbosa,X,X,-,-,-,-,2
+3140852,MG,Matias Cardoso,-,X,-,-,-,-,1
+3140902,MG,Matipó,X,X,-,-,-,-,2
+3141009,MG,Mato Verde,X,X,-,-,-,-,2
+3141108,MG,Matozinhos,X,X,X,-,-,-,3
+3141405,MG,Medina,X,X,-,-,-,-,2
+3141603,MG,Mercês,X,X,X,-,-,-,3
+3141702,MG,Mesquita,-,X,-,-,-,-,1
+3141801,MG,Minas Novas,X,X,X,X,-,-,4
+3141900,MG,Minduri,X,X,-,-,-,-,2
+3142106,MG,Miradouro,X,-,-,-,-,-,1
+3142205,MG,Miraí,X,X,X,-,-,-,3
+3142254,MG,Miravânia,-,X,-,-,-,-,1
+3142304,MG,Moeda,X,X,X,-,-,-,3
+3142403,MG,Moema,X,X,-,-,-,-,2
+3142502,MG,Monjolos,-,X,-,-,-,-,1
+3142601,MG,Monsenhor Paulo,X,X,X,-,-,-,3
+3142700,MG,Montalvânia,X,-,-,-,-,-,1
+3142809,MG,Monte Alegre de Minas,X,X,-,-,X,-,3
+3142908,MG,Monte Azul,X,X,X,-,-,-,3
+3143005,MG,Monte Belo,X,X,X,-,-,-,3
+3143104,MG,Monte Carmelo,X,X,X,X,-,-,4
+3143153,MG,Monte Formoso,X,X,-,-,-,-,2
+3143203,MG,Monte Santo de Minas,X,X,-,-,-,-,2
+3143401,MG,Monte Sião,X,X,X,-,-,-,3
+3143302,MG,Montes Claros,X,X,X,X,-,-,4
+3143450,MG,Montezuma,X,-,-,-,-,-,1
+3143500,MG,Morada Nova de Minas,X,-,-,-,-,-,1
+3143609,MG,Morro da Garça,X,X,-,-,-,-,2
+3143807,MG,Munhoz,X,-,-,-,-,-,1
+3143906,MG,Muriaé,X,X,X,X,-,-,4
+3144003,MG,Mutum,X,X,X,-,-,-,3
+3144102,MG,Muzambinho,X,X,-,-,-,-,2
+3144201,MG,Nacip Raydan,-,X,-,-,-,-,1
+3144300,MG,Nanuque,X,X,X,-,-,-,3
+3144359,MG,Naque,-,X,-,-,-,-,1
+3144409,MG,Natércia,X,-,-,-,-,-,1
+3144508,MG,Nazareno,-,X,-,-,-,-,1
+3144607,MG,Nepomuceno,X,X,-,-,-,-,2
+3144656,MG,Ninheira,X,-,-,-,-,-,1
+3144672,MG,Nova Belém,X,-,-,-,-,-,1
+3144706,MG,Nova Era,X,X,-,-,-,-,2
+3144805,MG,Nova Lima,X,X,X,X,-,-,4
+3144904,MG,Nova Módica,-,X,-,-,-,-,1
+3145000,MG,Nova Ponte,X,X,-,-,-,-,2
+3145059,MG,Nova Porteirinha,X,X,X,X,-,-,4
+3145109,MG,Nova Resende,X,X,-,-,-,-,2
+3145208,MG,Nova Serrana,X,X,X,X,X,-,5
+3136603,MG,Nova União,-,X,-,-,-,-,1
+3145307,MG,Novo Cruzeiro,X,X,X,X,-,-,4
+3145356,MG,Novo Oriente de Minas,-,X,-,-,-,-,1
+3145406,MG,Olaria,-,-,X,-,-,-,1
+3145455,MG,Olhos-d'Água,-,X,-,-,-,-,1
+3145505,MG,Olímpio Noronha,X,-,-,-,-,-,1
+3145604,MG,Oliveira,X,X,X,X,-,-,4
+3145703,MG,Oliveira Fortes,-,-,X,-,-,-,1
+3145802,MG,Onça de Pitangui,X,X,-,-,-,-,2
+3145851,MG,Oratórios,X,-,X,-,-,-,2
+3145877,MG,Orizânia,-,-,X,-,-,-,1
+3145901,MG,Ouro Branco,X,X,X,X,-,-,4
+3146008,MG,Ouro Fino,X,X,X,-,-,-,3
+3146107,MG,Ouro Preto,X,X,X,X,-,-,4
+3146206,MG,Ouro Verde de Minas,-,X,-,-,-,-,1
+3146255,MG,Padre Carvalho,X,X,-,-,-,-,2
+3146305,MG,Padre Paraíso,-,-,X,-,-,-,1
+3146503,MG,Pains,X,X,-,-,-,-,2
+3146602,MG,Paiva,X,-,X,-,-,-,2
+3146750,MG,Palmópolis,X,-,-,-,-,-,1
+3146909,MG,Papagaios,X,X,-,-,-,-,2
+3147105,MG,Pará de Minas,X,X,X,X,X,-,5
+3147006,MG,Paracatu,X,X,X,-,-,-,3
+3147204,MG,Paraguaçu,X,X,X,-,-,-,3
+3147303,MG,Paraisópolis,X,X,-,-,-,-,2
+3147402,MG,Paraopeba,X,X,-,-,-,-,2
+3147600,MG,Passa Quatro,X,X,-,-,-,-,2
+3147709,MG,Passa Tempo,X,-,-,-,-,-,1
+3147501,MG,Passabém,-,-,X,-,-,-,1
+3147808,MG,Passa-Vinte,-,-,X,-,-,-,1
+3147907,MG,Passos,X,X,X,X,-,-,4
+3147956,MG,Patis,-,X,-,-,-,-,1
+3148004,MG,Patos de Minas,X,X,X,X,X,-,5
+3148103,MG,Patrocínio,X,X,X,X,-,-,4
+3148202,MG,Patrocínio do Muriaé,-,-,X,-,-,-,1
+3148301,MG,Paula Cândido,X,X,X,-,-,-,3
+3148509,MG,Pavão,-,X,-,-,-,-,1
+3148608,MG,Peçanha,X,X,-,-,-,-,2
+3148707,MG,Pedra Azul,X,X,-,-,-,-,2
+3148756,MG,Pedra Bonita,-,-,X,-,-,-,1
+3148806,MG,Pedra do Anta,X,-,X,-,-,-,2
+3148905,MG,Pedra do Indaiá,X,X,X,-,-,-,3
+3149002,MG,Pedra Dourada,-,-,X,-,-,-,1
+3149101,MG,Pedralva,X,X,X,-,-,-,3
+3149150,MG,Pedras de Maria da Cruz,-,X,X,-,-,-,2
+3149200,MG,Pedrinópolis,X,-,-,-,-,-,1
+3149309,MG,Pedro Leopoldo,X,X,X,X,-,-,4
+3149408,MG,Pedro Teixeira,X,X,X,-,-,-,3
+3149507,MG,Pequeri,-,-,X,-,-,-,1
+3149606,MG,Pequi,X,X,-,-,-,-,2
+3149705,MG,Perdigão,X,X,-,-,-,-,2
+3149804,MG,Perdizes,X,X,-,-,-,-,2
+3149903,MG,Perdões,X,X,X,-,-,-,3
+3149952,MG,Periquito,X,X,X,-,-,-,3
+3150000,MG,Pescador,-,X,-,-,-,-,1
+3150109,MG,Piau,-,-,X,-,-,-,1
+3150158,MG,Piedade de Caratinga,X,-,-,-,-,-,1
+3150208,MG,Piedade de Ponte Nova,X,-,X,-,-,-,2
+3150307,MG,Piedade do Rio Grande,-,-,X,-,-,-,1
+3150406,MG,Piedade dos Gerais,X,-,X,-,-,-,2
+3150505,MG,Pimenta,X,X,X,-,-,-,3
+3150539,MG,Pingo-d'Água,X,-,-,-,-,-,1
+3150570,MG,Pintópolis,-,X,-,-,-,-,1
+3150703,MG,Pirajuba,X,-,-,-,-,-,1
+3150802,MG,Piranga,X,X,X,-,-,-,3
+3150901,MG,Piranguçu,X,-,-,-,-,-,1
+3151008,MG,Piranguinho,X,X,X,-,-,-,3
+3151107,MG,Pirapetinga,X,-,-,-,-,-,1
+3151206,MG,Pirapora,X,X,X,X,-,-,4
+3151305,MG,Piraúba,X,X,-,-,-,-,2
+3151404,MG,Pitangui,X,X,-,-,-,-,2
+3151503,MG,Piumhi,X,X,X,X,-,-,4
+3151602,MG,Planura,X,X,-,-,-,-,2
+3151701,MG,Poço Fundo,X,X,-,-,-,-,2
+3151800,MG,Poços de Caldas,X,X,X,X,-,-,4
+3152006,MG,Pompéu,X,X,X,-,-,-,3
+3152105,MG,Ponte Nova,X,X,X,X,-,-,4
+3152131,MG,Ponto Chique,-,X,-,-,-,-,1
+3152170,MG,Ponto dos Volantes,-,X,-,-,-,-,1
+3152204,MG,Porteirinha,X,X,X,X,-,-,4
+3152303,MG,Porto Firme,X,X,X,-,-,-,3
+3152501,MG,Pouso Alegre,X,X,X,X,-,-,4
+3152600,MG,Pouso Alto,-,X,-,-,-,-,1
+3152709,MG,Prados,X,X,-,-,-,-,2
+3152808,MG,Prata,X,X,-,-,X,-,3
+3152907,MG,Pratápolis,X,X,-,-,-,-,2
+3153103,MG,Presidente Bernardes,-,-,X,-,-,-,1
+3153400,MG,Presidente Olegário,X,X,-,-,-,-,2
+3153608,MG,Prudente de Morais,X,X,X,-,-,-,3
+3153806,MG,Queluzito,X,-,X,-,-,-,2
+3153905,MG,Raposos,X,X,-,-,-,-,2
+3154002,MG,Raul Soares,-,X,X,-,-,-,2
+3154101,MG,Recreio,X,X,X,-,-,-,3
+3154150,MG,Reduto,X,-,X,-,-,-,2
+3154200,MG,Resende Costa,X,X,-,-,-,-,2
+3154309,MG,Resplendor,X,X,X,-,-,-,3
+3154408,MG,Ressaquinha,X,X,-,-,-,-,2
+3154606,MG,Ribeirão das Neves,X,X,X,X,-,-,4
+3154705,MG,Ribeirão Vermelho,X,X,-,-,-,-,2
+3154804,MG,Rio Acima,X,X,-,-,-,-,2
+3154903,MG,Rio Casca,X,X,-,-,-,-,2
+3155009,MG,Rio Doce,-,-,X,-,-,-,1
+3155207,MG,Rio Espera,-,-,X,-,-,-,1
+3155306,MG,Rio Manso,X,-,X,-,-,-,2
+3155405,MG,Rio Novo,X,X,X,-,-,-,3
+3155504,MG,Rio Paranaíba,X,X,-,-,-,-,2
+3155603,MG,Rio Pardo de Minas,X,X,-,-,-,-,2
+3155702,MG,Rio Piracicaba,X,X,-,-,-,-,2
+3155801,MG,Rio Pomba,X,X,-,-,-,-,2
+3156205,MG,Rochedo de Minas,-,-,X,-,-,-,1
+3156304,MG,Rodeiro,X,-,-,-,-,-,1
+3156403,MG,Romaria,X,X,-,-,-,-,2
+3156452,MG,Rosário da Limeira,-,-,X,-,-,-,1
+3156502,MG,Rubelita,X,-,-,-,-,-,1
+3156700,MG,Sabará,X,X,X,X,-,-,4
+3156809,MG,Sabinópolis,X,X,-,-,-,-,2
+3156908,MG,Sacramento,X,X,-,-,-,-,2
+3157005,MG,Salinas,X,X,X,X,-,-,4
+3157104,MG,Salto da Divisa,-,X,-,-,-,-,1
+3157203,MG,Santa Bárbara,-,X,X,-,-,-,2
+3157252,MG,Santa Bárbara do Leste,X,X,-,-,-,-,2
+3157278,MG,Santa Bárbara do Monte Verde,-,-,X,-,-,-,1
+3157302,MG,Santa Bárbara do Tugúrio,X,X,X,-,-,-,3
+3157336,MG,Santa Cruz de Minas,X,X,-,-,-,-,2
+3157377,MG,Santa Cruz de Salinas,-,X,-,-,-,-,1
+3157401,MG,Santa Cruz do Escalvado,X,X,X,-,-,-,3
+3157609,MG,Santa Fé de Minas,-,X,-,-,-,-,1
+3157658,MG,Santa Helena de Minas,X,-,-,-,-,-,1
+3157708,MG,Santa Juliana,X,X,-,-,-,-,2
+3157807,MG,Santa Luzia,X,X,X,X,-,-,4
+3158003,MG,Santa Maria de Itabira,X,-,-,-,-,-,1
+3158201,MG,Santa Maria do Suaçuí,X,X,-,-,-,-,2
+3159209,MG,Santa Rita de Caldas,X,X,X,-,-,-,3
+3159407,MG,Santa Rita de Ibitipoca,-,-,X,-,-,-,1
+3159308,MG,Santa Rita de Jacutinga,-,X,X,-,-,-,2
+3159357,MG,Santa Rita de Minas,X,X,X,-,-,-,3
+3159506,MG,Santa Rita do Itueto,X,-,-,-,-,-,1
+3159605,MG,Santa Rita do Sapucaí,X,X,X,-,-,-,3
+3159803,MG,Santa Vitória,-,X,-,-,X,-,2
+3158300,MG,Santana da Vargem,X,X,-,-,-,-,2
+3158409,MG,Santana de Cataguases,-,-,X,-,-,-,1
+3158508,MG,Santana de Pirapama,X,-,-,-,-,-,1
+3158607,MG,Santana do Deserto,-,-,X,-,-,-,1
+3158706,MG,Santana do Garambéu,-,-,X,-,-,-,1
+3158805,MG,Santana do Jacaré,X,X,-,-,-,-,2
+3158904,MG,Santana do Manhuaçu,X,-,-,-,-,-,1
+3158953,MG,Santana do Paraíso,-,X,-,-,-,-,1
+3159001,MG,Santana do Riacho,X,-,-,-,-,-,1
+3159100,MG,Santana dos Montes,-,-,X,-,-,-,1
+3159902,MG,Santo Antônio do Amparo,X,X,X,-,-,-,3
+3160009,MG,Santo Antônio do Aventureiro,-,-,X,-,-,-,1
+3160108,MG,Santo Antônio do Grama,-,-,X,-,-,-,1
+3160207,MG,Santo Antônio do Itambé,X,X,-,-,-,-,2
+3160405,MG,Santo Antônio do Monte,X,X,X,-,-,-,3
+3160454,MG,Santo Antônio do Retiro,-,X,-,-,-,-,1
+3160504,MG,Santo Antônio do Rio Abaixo,-,-,X,-,-,-,1
+3160603,MG,Santo Hipólito,X,X,-,-,-,-,2
+3160702,MG,Santos Dumont,X,X,X,X,-,-,4
+3160801,MG,São Bento Abade,X,-,-,-,-,-,1
+3160900,MG,São Brás do Suaçuí,X,-,X,-,-,-,2
+3160959,MG,São Domingos das Dores,X,-,-,-,-,-,1
+3161007,MG,São Domingos do Prata,X,X,-,-,-,-,2
+3161056,MG,São Félix de Minas,X,-,-,-,-,-,1
+3161106,MG,São Francisco,X,X,X,X,-,-,4
+3161205,MG,São Francisco de Paula,-,X,-,-,-,-,1
+3161403,MG,São Francisco do Glória,X,X,X,-,-,-,3
+3161502,MG,São Geraldo,X,X,-,-,-,-,2
+3161650,MG,São Geraldo do Baixio,-,X,-,-,-,-,1
+3161700,MG,São Gonçalo do Abaeté,X,-,-,-,-,-,1
+3161809,MG,São Gonçalo do Pará,X,X,-,-,-,-,2
+3161908,MG,São Gonçalo do Rio Abaixo,X,X,X,-,-,-,3
+3162005,MG,São Gonçalo do Sapucaí,X,X,-,-,-,-,2
+3162104,MG,São Gotardo,X,X,X,X,-,-,4
+3162203,MG,São João Batista do Glória,X,X,-,-,-,-,2
+3162252,MG,São João da Lagoa,-,X,-,-,-,-,1
+3162302,MG,São João da Mata,X,-,-,-,-,-,1
+3162401,MG,São João da Ponte,-,X,-,-,-,-,1
+3162450,MG,São João das Missões,-,X,-,-,-,-,1
+3162500,MG,São João del Rei,X,X,X,X,-,-,4
+3162559,MG,São João do Manhuaçu,-,X,-,-,-,-,1
+3162575,MG,São João do Manteninha,-,X,-,-,-,-,1
+3162609,MG,São João do Oriente,-,X,-,-,-,-,1
+3162708,MG,São João do Paraíso,X,X,-,-,-,-,2
+3162906,MG,São João Nepomuceno,X,X,-,-,-,-,2
+3162922,MG,São Joaquim de Bicas,X,X,-,-,-,-,2
+3162948,MG,São José da Barra,X,X,-,-,-,-,2
+3162955,MG,São José da Lapa,X,X,X,-,-,-,3
+3163003,MG,São José da Safira,-,X,-,-,-,-,1
+3163102,MG,São José da Varginha,X,-,-,-,-,-,1
+3163409,MG,São José do Goiabal,X,-,X,-,-,-,2
+3163508,MG,São José do Jacuri,X,-,-,-,-,-,1
+3163706,MG,São Lourenço,X,X,X,X,-,-,4
+3163805,MG,São Miguel do Anta,X,-,-,-,-,-,1
+3163904,MG,São Pedro da União,X,-,-,-,-,-,1
+3164001,MG,São Pedro dos Ferros,X,-,-,-,-,-,1
+3164209,MG,São Romão,-,X,-,-,-,-,1
+3164308,MG,São Roque de Minas,X,-,-,-,-,-,1
+3164407,MG,São Sebastião da Bela Vista,X,-,-,-,-,-,1
+3164431,MG,São Sebastião da Vargem Alegre,-,-,X,-,-,-,1
+3164472,MG,São Sebastião do Anta,X,-,-,-,-,-,1
+3164506,MG,São Sebastião do Maranhão,-,X,-,-,-,-,1
+3164605,MG,São Sebastião do Oeste,X,X,X,-,-,-,3
+3164704,MG,São Sebastião do Paraíso,X,X,X,-,-,-,3
+3164803,MG,São Sebastião do Rio Preto,-,-,X,-,-,-,1
+3165206,MG,São Thomé das Letras,X,X,-,-,-,-,2
+3165008,MG,São Tiago,X,X,-,-,-,-,2
+3165107,MG,São Tomás de Aquino,X,-,-,-,-,-,1
+3165305,MG,São Vicente de Minas,X,X,-,-,-,-,2
+3165404,MG,Sapucaí-Mirim,X,X,X,-,-,-,3
+3165537,MG,Sarzedo,X,X,X,-,-,-,3
+3165560,MG,Sem-Peixe,-,-,X,-,-,-,1
+3165578,MG,Senador Amaral,X,-,-,-,-,-,1
+3165602,MG,Senador Cortes,-,-,X,-,-,-,1
+3165800,MG,Senador José Bento,X,-,-,-,-,-,1
+3166006,MG,Senhora de Oliveira,-,-,X,-,-,-,1
+3166105,MG,Senhora do Porto,-,X,-,-,-,-,1
+3166204,MG,Senhora dos Remédios,X,X,X,-,-,-,3
+3166303,MG,Sericita,X,-,X,-,-,-,2
+3166501,MG,Serra Azul de Minas,-,X,-,-,-,-,1
+3166808,MG,Serra do Salitre,X,X,-,-,-,-,2
+3166907,MG,Serrania,X,X,-,-,-,-,2
+3166956,MG,Serranópolis de Minas,X,-,-,-,-,-,1
+3167004,MG,Serranos,X,-,-,-,-,-,1
+3167103,MG,Serro,-,-,X,-,-,-,1
+3167202,MG,Sete Lagoas,X,X,X,X,-,-,4
+3165552,MG,Setubinha,-,X,-,-,-,-,1
+3167301,MG,Silveirânia,-,-,X,-,-,-,1
+3167400,MG,Silvianópolis,X,-,-,-,-,-,1
+3167509,MG,Simão Pereira,X,X,-,-,-,-,2
+3167608,MG,Simonésia,X,-,X,-,-,-,2
+3167707,MG,Sobrália,-,X,-,-,-,-,1
+3167806,MG,Soledade de Minas,-,X,-,-,-,-,1
+3167905,MG,Tabuleiro,X,X,-,-,-,-,2
+3168002,MG,Taiobeiras,X,X,X,X,-,-,4
+3168051,MG,Taparuba,-,X,-,-,-,-,1
+3168408,MG,Tarumirim,X,-,-,-,-,-,1
+3168507,MG,Teixeiras,X,X,X,-,-,-,3
+3168606,MG,Teófilo Otoni,X,X,X,X,-,-,4
+3168705,MG,Timóteo,X,X,X,X,-,-,4
+3168804,MG,Tiradentes,X,X,X,-,-,-,3
+3168903,MG,Tiros,-,X,-,-,-,-,1
+3169000,MG,Tocantins,X,X,X,-,-,-,3
+3169059,MG,Tocos do Moji,X,-,-,-,-,-,1
+3169109,MG,Toledo,X,-,-,-,-,-,1
+3169208,MG,Tombos,X,X,-,-,-,-,2
+3169307,MG,Três Corações,X,X,X,X,-,-,4
+3169356,MG,Três Marias,X,X,X,X,-,-,4
+3169406,MG,Três Pontas,X,X,X,-,-,-,3
+3169505,MG,Tumiritinga,-,-,-,X,-,-,1
+3169604,MG,Tupaciguara,X,X,-,-,X,-,3
+3169703,MG,Turmalina,X,-,-,-,-,-,1
+3169802,MG,Turvolândia,X,-,-,-,-,-,1
+3169901,MG,Ubá,X,X,X,X,-,-,4
+3170008,MG,Ubaí,-,X,-,-,-,-,1
+3170057,MG,Ubaporanga,X,-,-,-,-,-,1
+3170107,MG,Uberaba,X,X,X,X,X,-,5
+3170206,MG,Uberlândia,X,X,X,X,X,-,5
+3170305,MG,Umburatiba,-,X,-,-,-,-,1
+3170404,MG,Unaí,X,X,X,-,-,-,3
+3170479,MG,Uruana de Minas,-,X,-,-,-,-,1
+3170503,MG,Urucânia,-,X,X,-,-,-,2
+3170529,MG,Urucuia,-,X,-,-,-,-,1
+3170578,MG,Vargem Alegre,X,X,-,-,-,-,2
+3170701,MG,Varginha,X,X,X,X,-,-,4
+3170750,MG,Varjão de Minas,X,X,-,-,-,-,2
+3170800,MG,Várzea da Palma,X,X,X,X,-,-,4
+3170909,MG,Varzelândia,-,X,-,-,-,-,1
+3171006,MG,Vazante,X,X,-,-,-,-,2
+3171030,MG,Verdelândia,-,X,-,-,-,-,1
+3171071,MG,Veredinha,X,X,-,-,-,-,2
+3171105,MG,Veríssimo,X,-,-,-,-,-,1
+3171154,MG,Vermelho Novo,X,X,-,-,-,-,2
+3171204,MG,Vespasiano,X,X,X,X,-,-,4
+3171303,MG,Viçosa,X,X,X,X,-,-,4
+3171402,MG,Vieiras,X,-,X,-,-,-,2
+3171709,MG,Virgínia,X,-,-,-,-,-,1
+3171808,MG,Virginópolis,X,X,-,-,-,-,2
+3172004,MG,Visconde do Rio Branco,X,X,X,X,-,-,4
+3172103,MG,Volta Grande,X,X,X,-,-,-,3
+3172202,MG,Wenceslau Braz,X,-,-,-,-,-,1
+1500107,PA,Abaetetuba,X,X,X,X,-,-,4
+1500131,PA,Abel Figueiredo,X,-,-,-,-,-,1
+1500206,PA,Acará,X,X,X,X,-,-,4
+1500305,PA,Afuá,-,X,X,X,-,-,3
+1500347,PA,Água Azul do Norte,X,-,-,-,-,-,1
+1500404,PA,Alenquer,X,X,X,-,-,-,3
+1500503,PA,Almeirim,X,X,X,X,-,-,4
+1500602,PA,Altamira,X,X,X,X,-,-,4
+1500701,PA,Anajás,-,X,-,-,-,-,1
+1500800,PA,Ananindeua,X,X,X,X,-,-,4
+1500859,PA,Anapu,X,-,-,-,-,-,1
+1500909,PA,Augusto Corrêa,X,X,X,X,-,-,4
+1500958,PA,Aurora do Pará,X,X,-,-,-,-,2
+1501006,PA,Aveiro,-,X,-,-,-,-,1
+1501105,PA,Bagre,X,-,-,-,-,-,1
+1501204,PA,Baião,-,X,X,X,-,-,3
+1501253,PA,Bannach,X,-,-,-,-,-,1
+1501303,PA,Barcarena,X,X,X,-,-,-,3
+1501402,PA,Belém,X,X,X,X,-,-,4
+1501451,PA,Belterra,X,X,-,-,-,-,2
+1501501,PA,Benevides,X,X,X,-,-,-,3
+1501576,PA,Bom Jesus do Tocantins,X,-,-,-,-,-,1
+1501600,PA,Bonito,-,X,X,-,-,-,2
+1501709,PA,Bragança,X,X,X,X,-,-,4
+1501725,PA,Brasil Novo,X,-,-,-,-,-,1
+1501758,PA,Brejo Grande do Araguaia,X,-,-,-,-,-,1
+1501782,PA,Breu Branco,X,X,X,X,-,-,4
+1501808,PA,Breves,X,-,X,X,-,-,3
+1501907,PA,Bujaru,-,-,X,-,-,-,1
+1502004,PA,Cachoeira do Arari,-,-,X,-,-,-,1
+1501956,PA,Cachoeira do Piriá,-,-,X,-,-,-,1
+1502103,PA,Cametá,X,X,X,X,-,-,4
+1502152,PA,Canaã dos Carajás,X,X,X,-,-,-,3
+1502202,PA,Capanema,X,X,X,X,-,-,4
+1502301,PA,Capitão Poço,X,X,X,-,-,-,3
+1502400,PA,Castanhal,X,X,X,X,-,-,4
+1502509,PA,Chaves,-,X,-,-,-,-,1
+1502608,PA,Colares,-,X,X,-,-,-,2
+1502707,PA,Conceição do Araguaia,X,X,X,X,-,-,4
+1502756,PA,Concórdia do Pará,X,-,-,-,-,-,1
+1502764,PA,Cumaru do Norte,-,-,X,-,-,-,1
+1502772,PA,Curionópolis,X,X,-,-,-,-,2
+1502806,PA,Curralinho,X,-,-,-,-,-,1
+1502855,PA,Curuá,X,-,-,-,-,-,1
+1502905,PA,Curuçá,X,X,X,X,-,-,4
+1502939,PA,Dom Eliseu,X,X,X,-,-,-,3
+1502954,PA,Eldorado do Carajás,X,X,X,X,-,-,4
+1503044,PA,Floresta do Araguaia,-,-,X,-,-,-,1
+1503077,PA,Garrafão do Norte,X,-,X,-,-,-,2
+1503093,PA,Goianésia do Pará,X,X,X,X,-,-,4
+1503101,PA,Gurupá,-,X,-,-,-,-,1
+1503200,PA,Igarapé-Açu,X,X,X,X,-,-,4
+1503309,PA,Igarapé-Miri,X,X,X,X,-,-,4
+1503408,PA,Inhangapi,-,X,-,-,-,-,1
+1503457,PA,Ipixuna do Pará,X,X,X,X,-,-,4
+1503507,PA,Irituia,X,X,X,X,-,-,4
+1503606,PA,Itaituba,X,X,-,X,-,-,3
+1503705,PA,Itupiranga,X,X,X,X,-,-,4
+1503804,PA,Jacundá,X,X,X,X,-,-,4
+1503903,PA,Juruti,X,X,X,X,-,-,4
+1504000,PA,Limoeiro do Ajuru,X,-,-,-,-,-,1
+1504059,PA,Mãe do Rio,X,X,-,-,-,-,2
+1504109,PA,Magalhães Barata,-,X,X,-,-,-,2
+1504208,PA,Marabá,X,X,X,X,-,-,4
+1504307,PA,Maracanã,-,-,X,-,-,-,1
+1504406,PA,Marapanim,X,X,X,-,-,-,3
+1504422,PA,Marituba,X,X,X,X,-,-,4
+1504455,PA,Medicilândia,X,-,-,-,-,-,1
+1504505,PA,Melgaço,X,-,-,-,-,-,1
+1504604,PA,Mocajuba,-,-,X,-,-,-,1
+1504703,PA,Moju,X,X,X,-,-,-,3
+1504752,PA,Mojuí dos Campos,X,-,-,-,-,-,1
+1504802,PA,Monte Alegre,X,X,X,X,-,-,4
+1504901,PA,Muaná,X,X,X,X,-,-,4
+1504950,PA,Nova Esperança do Piriá,X,-,X,-,-,-,2
+1504976,PA,Nova Ipixuna,X,-,-,-,-,-,1
+1505007,PA,Nova Timboteua,X,X,X,-,-,-,3
+1505031,PA,Novo Progresso,-,X,X,-,-,-,2
+1505064,PA,Novo Repartimento,X,X,X,X,-,-,4
+1505106,PA,Óbidos,X,-,X,X,-,-,3
+1505205,PA,Oeiras do Pará,X,-,X,-,-,-,2
+1505304,PA,Oriximiná,X,-,X,X,-,-,3
+1505403,PA,Ourém,-,X,-,-,-,-,1
+1505437,PA,Ourilândia do Norte,X,X,-,-,-,-,2
+1505486,PA,Pacajá,X,X,-,X,-,-,3
+1505494,PA,Palestina do Pará,X,-,-,-,-,-,1
+1505502,PA,Paragominas,X,X,X,-,-,-,3
+1505536,PA,Parauapebas,X,X,X,X,-,-,4
+1505551,PA,Pau D'Arco,X,-,-,-,-,-,1
+1505601,PA,Peixe-Boi,-,X,-,-,-,-,1
+1505635,PA,Piçarra,X,-,-,-,-,-,1
+1505650,PA,Placas,-,X,-,-,-,-,1
+1505700,PA,Ponta de Pedras,X,-,X,-,-,-,2
+1505809,PA,Portel,X,X,X,X,-,-,4
+1505908,PA,Porto de Moz,-,-,X,X,-,-,2
+1506005,PA,Prainha,-,-,X,-,-,-,1
+1506104,PA,Primavera,X,-,X,-,-,-,2
+1506112,PA,Quatipuru,-,X,-,-,-,-,1
+1506138,PA,Redenção,X,X,X,X,-,-,4
+1506161,PA,Rio Maria,X,X,-,-,-,-,2
+1506187,PA,Rondon do Pará,X,X,X,X,-,-,4
+1506195,PA,Rurópolis,X,X,-,X,-,-,3
+1506203,PA,Salinópolis,X,X,X,-,-,-,3
+1506302,PA,Salvaterra,X,X,-,-,-,-,2
+1506401,PA,Santa Cruz do Arari,-,X,-,-,-,-,1
+1506500,PA,Santa Izabel do Pará,X,X,X,X,-,-,4
+1506559,PA,Santa Luzia do Pará,X,-,-,-,-,-,1
+1506609,PA,Santa Maria do Pará,X,X,X,-,-,-,3
+1506708,PA,Santana do Araguaia,-,X,X,X,-,-,3
+1506807,PA,Santarém,X,X,X,X,-,-,4
+1506906,PA,Santarém Novo,-,-,X,-,-,-,1
+1507003,PA,Santo Antônio do Tauá,X,-,X,-,-,-,2
+1507102,PA,São Caetano de Odivelas,X,-,-,-,-,-,1
+1507151,PA,São Domingos do Araguaia,X,-,X,-,-,-,2
+1507201,PA,São Domingos do Capim,X,-,X,-,-,-,2
+1507300,PA,São Félix do Xingu,-,X,X,X,-,-,3
+1507458,PA,São Geraldo do Araguaia,X,X,X,-,-,-,3
+1507466,PA,São João da Ponta,-,-,X,-,-,-,1
+1507474,PA,São João de Pirabas,-,X,X,-,-,-,2
+1507508,PA,São João do Araguaia,-,X,X,-,-,-,2
+1507607,PA,São Miguel do Guamá,X,X,X,X,-,-,4
+1507706,PA,São Sebastião da Boa Vista,X,-,-,-,-,-,1
+1507755,PA,Sapucaia,X,-,-,-,-,-,1
+1507805,PA,Senador José Porfírio,X,-,-,-,-,-,1
+1507904,PA,Soure,-,X,-,-,-,-,1
+1507953,PA,Tailândia,X,X,X,X,-,-,4
+1507961,PA,Terra Alta,-,X,-,-,-,-,1
+1507979,PA,Terra Santa,X,-,-,-,-,-,1
+1508001,PA,Tomé-Açu,X,-,X,X,-,-,3
+1508035,PA,Tracuateua,-,-,X,-,-,-,1
+1508050,PA,Trairão,-,-,X,-,-,-,1
+1508084,PA,Tucumã,X,X,-,X,-,-,3
+1508100,PA,Tucuruí,X,X,X,X,-,-,4
+1508126,PA,Ulianópolis,X,X,X,X,-,-,4
+1508159,PA,Uruará,X,X,-,X,-,-,3
+1508209,PA,Vigia,X,X,X,-,-,-,3
+1508308,PA,Viseu,-,X,X,X,-,-,3
+1508357,PA,Vitória do Xingu,X,-,-,-,-,-,1
+1508407,PA,Xinguara,X,X,X,X,-,-,4
+2500106,PB,Água Branca,-,X,-,-,-,-,1
+2500205,PB,Aguiar,-,X,-,-,-,-,1
+2500304,PB,Alagoa Grande,-,X,X,-,-,-,2
+2500403,PB,Alagoa Nova,X,X,-,-,-,-,2
+2500536,PB,Alcantil,-,X,-,-,-,-,1
+2500577,PB,Algodão de Jandaíra,-,-,X,-,-,-,1
+2500601,PB,Alhandra,-,X,X,-,-,-,2
+2500734,PB,Amparo,-,X,-,-,-,-,1
+2500775,PB,Aparecida,X,-,-,-,-,-,1
+2500809,PB,Araçagi,X,X,-,-,-,-,2
+2501005,PB,Araruna,-,X,-,-,-,-,1
+2501104,PB,Areia,-,X,-,-,-,-,1
+2501153,PB,Areia de Baraúnas,-,X,-,-,-,-,1
+2501302,PB,Aroeiras,X,-,X,-,-,-,2
+2501351,PB,Assunção,-,X,-,-,-,-,1
+2501401,PB,Baía da Traição,-,X,-,-,-,-,1
+2501500,PB,Bananeiras,-,X,-,-,-,-,1
+2501609,PB,Barra de Santa Rosa,-,X,X,-,-,-,2
+2501807,PB,Bayeux,X,X,X,X,-,-,4
+2501906,PB,Belém,X,X,-,-,-,-,2
+2502003,PB,Belém do Brejo do Cruz,-,X,-,-,-,-,1
+2502052,PB,Bernardino Batista,-,X,-,-,-,-,1
+2502201,PB,Bom Jesus,-,X,-,-,-,-,1
+2502300,PB,Bom Sucesso,-,X,-,-,-,-,1
+2502409,PB,Bonito de Santa Fé,-,X,-,-,-,-,1
+2502508,PB,Boqueirão,-,X,-,-,-,-,1
+2502706,PB,Borborema,-,X,-,-,-,-,1
+2502805,PB,Brejo do Cruz,-,X,-,-,-,-,1
+2502904,PB,Brejo dos Santos,-,X,-,-,-,-,1
+2503001,PB,Caaporã,X,X,X,-,-,-,3
+2503209,PB,Cabedelo,X,X,X,-,-,-,3
+2503308,PB,Cachoeira dos Índios,-,X,-,-,-,-,1
+2503407,PB,Cacimba de Areia,-,X,-,-,-,-,1
+2503506,PB,Cacimba de Dentro,-,X,-,-,-,-,1
+2503555,PB,Cacimbas,-,X,-,-,-,-,1
+2503704,PB,Cajazeiras,X,X,X,X,-,-,4
+2503753,PB,Cajazeirinhas,-,X,-,-,-,-,1
+2503803,PB,Caldas Brandão,-,X,-,-,-,-,1
+2503902,PB,Camalaú,-,X,-,-,-,-,1
+2504009,PB,Campina Grande,X,X,X,X,-,-,4
+2504033,PB,Capim,-,-,X,-,-,-,1
+2504108,PB,Carrapateira,-,X,-,-,-,-,1
+2504157,PB,Casserengue,-,X,-,-,-,-,1
+2504207,PB,Catingueira,-,X,-,-,-,-,1
+2504306,PB,Catolé do Rocha,X,X,-,-,-,-,2
+2504405,PB,Conceição,-,X,X,-,-,-,2
+2504504,PB,Condado,-,X,-,-,-,-,1
+2504603,PB,Conde,X,X,-,-,-,-,2
+2504702,PB,Congo,-,X,-,-,-,-,1
+2504801,PB,Coremas,-,X,-,-,-,-,1
+2504850,PB,Coxixola,-,X,-,-,-,-,1
+2504900,PB,Cruz do Espírito Santo,X,X,-,-,-,-,2
+2505006,PB,Cubati,-,X,-,-,-,-,1
+2505105,PB,Cuité,-,X,-,-,-,-,1
+2505238,PB,Cuité de Mamanguape,-,X,-,-,-,-,1
+2505279,PB,Curral de Cima,-,-,X,-,-,-,1
+2505600,PB,Diamante,-,X,-,-,-,-,1
+2505808,PB,Duas Estradas,-,X,-,-,-,-,1
+2505907,PB,Emas,-,X,-,-,-,-,1
+2506004,PB,Esperança,-,X,X,X,-,-,3
+2506301,PB,Guarabira,X,X,X,X,-,-,4
+2506400,PB,Gurinhém,X,X,-,-,-,-,2
+2506509,PB,Gurjão,X,-,-,-,-,-,1
+2502607,PB,Igaracy,X,X,-,-,-,-,2
+2506707,PB,Imaculada,-,X,-,-,-,-,1
+2506806,PB,Ingá,-,X,-,-,-,-,1
+2506905,PB,Itabaiana,X,X,X,-,-,-,3
+2507002,PB,Itaporanga,-,X,-,-,-,-,1
+2507101,PB,Itapororoca,-,X,-,-,-,-,1
+2507309,PB,Jacaraú,X,-,-,-,-,-,1
+2507408,PB,Jericó,-,X,-,-,-,-,1
+2507507,PB,João Pessoa,X,X,X,X,-,-,4
+2513653,PB,Joca Claudino,-,X,-,-,-,-,1
+2507606,PB,Juarez Távora,-,X,-,-,-,-,1
+2507705,PB,Juazeirinho,X,X,-,-,-,-,2
+2507804,PB,Junco do Seridó,-,X,-,-,-,-,1
+2508000,PB,Juru,-,X,-,-,-,-,1
+2508109,PB,Lagoa,-,X,-,-,-,-,1
+2508208,PB,Lagoa de Dentro,-,-,X,-,-,-,1
+2508307,PB,Lagoa Seca,X,X,-,-,-,-,2
+2508406,PB,Lastro,-,X,-,-,-,-,1
+2508505,PB,Livramento,-,X,-,-,-,-,1
+2508554,PB,Logradouro,-,X,-,-,-,-,1
+2508604,PB,Lucena,-,X,X,-,-,-,2
+2508703,PB,Mãe d'Água,-,X,-,-,-,-,1
+2508802,PB,Malta,-,X,-,-,-,-,1
+2508901,PB,Mamanguape,X,X,X,X,-,-,4
+2509008,PB,Manaíra,-,X,-,-,-,-,1
+2509057,PB,Marcação,-,-,X,-,-,-,1
+2509107,PB,Mari,-,X,-,-,-,-,1
+2509156,PB,Marizópolis,-,X,-,-,-,-,1
+2509206,PB,Massaranduba,X,X,-,-,-,-,2
+2509305,PB,Mataraca,X,-,-,-,-,-,1
+2509339,PB,Matinhas,-,X,-,-,-,-,1
+2509370,PB,Mato Grosso,-,X,-,-,-,-,1
+2509396,PB,Maturéia,X,X,-,-,-,-,2
+2509404,PB,Mogeiro,X,X,-,-,-,-,2
+2509602,PB,Monte Horebe,-,X,-,-,-,-,1
+2509701,PB,Monteiro,-,X,X,X,-,-,3
+2510006,PB,Nazarezinho,X,-,-,-,-,-,1
+2510105,PB,Nova Floresta,-,X,-,-,-,-,1
+2510204,PB,Nova Olinda,-,X,-,-,-,-,1
+2510402,PB,Olho d'Água,-,X,-,-,-,-,1
+2510501,PB,Olivedos,-,-,X,-,-,-,1
+2510600,PB,Ouro Velho,-,X,-,-,-,-,1
+2510659,PB,Parari,-,X,-,-,-,-,1
+2510709,PB,Passagem,-,X,-,-,-,-,1
+2510808,PB,Patos,X,X,X,X,-,-,4
+2510907,PB,Paulista,-,X,-,-,-,-,1
+2511004,PB,Pedra Branca,-,X,-,-,-,-,1
+2511202,PB,Pedras de Fogo,X,X,X,-,-,-,3
+2512721,PB,Pedro Régis,-,-,X,-,-,-,1
+2511301,PB,Piancó,-,X,-,-,-,-,1
+2511400,PB,Picuí,-,X,X,-,-,-,2
+2511608,PB,Pilões,-,X,-,-,-,-,1
+2511905,PB,Pitimbu,X,X,X,-,-,-,3
+2512002,PB,Pocinhos,-,X,-,-,-,-,1
+2512036,PB,Poço Dantas,-,X,-,-,-,-,1
+2512077,PB,Poço de José de Moura,-,X,-,-,-,-,1
+2512101,PB,Pombal,X,X,X,X,-,-,4
+2512200,PB,Prata,-,X,-,-,-,-,1
+2512309,PB,Princesa Isabel,-,X,X,-,-,-,2
+2512408,PB,Puxinanã,-,X,X,-,-,-,2
+2512507,PB,Queimadas,-,X,X,-,-,-,2
+2512606,PB,Quixaba,-,X,-,-,-,-,1
+2512705,PB,Remígio,-,X,-,-,-,-,1
+2512747,PB,Riachão,-,X,-,-,-,-,1
+2512754,PB,Riachão do Bacamarte,-,X,-,-,-,-,1
+2512762,PB,Riachão do Poço,-,X,-,-,-,-,1
+2512804,PB,Riacho dos Cavalos,-,X,-,-,-,-,1
+2512903,PB,Rio Tinto,-,X,X,-,-,-,2
+2513000,PB,Salgadinho,-,X,-,-,-,-,1
+2513158,PB,Santa Cecília,X,-,-,-,-,-,1
+2513307,PB,Santa Helena,-,X,-,-,-,-,1
+2513356,PB,Santa Inês,-,X,-,-,-,-,1
+2513406,PB,Santa Luzia,-,X,X,-,-,-,2
+2513703,PB,Santa Rita,X,X,X,X,-,-,4
+2513505,PB,Santana de Mangueira,-,X,-,-,-,-,1
+2513604,PB,Santana dos Garrotes,-,X,-,-,-,-,1
+2513927,PB,São Bentinho,-,X,-,-,-,-,1
+2513901,PB,São Bento,X,X,X,X,-,-,4
+2513943,PB,São Domingos do Cariri,X,-,-,-,-,-,1
+2500700,PB,São João do Rio do Peixe,-,X,X,-,-,-,2
+2514107,PB,São João do Tigre,-,X,-,-,-,-,1
+2514206,PB,São José da Lagoa Tapada,-,X,-,-,-,-,1
+2514305,PB,São José de Caiana,X,-,-,-,-,-,1
+2514503,PB,São José de Piranhas,-,X,X,-,-,-,2
+2514552,PB,São José de Princesa,-,X,-,-,-,-,1
+2514651,PB,São José do Brejo do Cruz,X,X,-,-,-,-,2
+2514701,PB,São José do Sabugi,-,X,-,-,-,-,1
+2514800,PB,São José dos Cordeiros,-,X,-,-,-,-,1
+2515104,PB,São Sebastião de Lagoa de Roça,-,X,-,-,-,-,1
+2515203,PB,São Sebastião do Umbuzeiro,-,X,-,-,-,-,1
+2515302,PB,Sapé,-,X,X,-,-,-,2
+2515500,PB,Serra Branca,-,X,-,-,-,-,1
+2515609,PB,Serra da Raiz,-,X,-,-,-,-,1
+2515708,PB,Serra Grande,-,X,-,-,-,-,1
+2515906,PB,Serraria,-,X,-,-,-,-,1
+2515930,PB,Sertãozinho,-,X,-,-,-,-,1
+2515971,PB,Sobrado,-,-,X,-,-,-,1
+2516003,PB,Solânea,X,X,-,-,-,-,2
+2516102,PB,Soledade,X,X,-,-,-,-,2
+2516201,PB,Sousa,X,X,X,-,-,-,3
+2516300,PB,Sumé,-,X,X,-,-,-,2
+2516409,PB,Tacima,X,-,-,-,-,-,1
+2516508,PB,Taperoá,-,X,-,-,-,-,1
+2516607,PB,Tavares,-,X,-,-,-,-,1
+2516706,PB,Teixeira,-,X,-,-,-,-,1
+2516805,PB,Triunfo,-,X,-,-,-,-,1
+2516904,PB,Uiraúna,X,X,-,-,-,-,2
+2517001,PB,Umbuzeiro,X,X,-,-,-,-,2
+2517100,PB,Várzea,-,X,-,-,-,-,1
+2505501,PB,Vista Serrana,X,X,-,-,-,-,2
+2517407,PB,Zabelê,-,X,-,-,-,-,1
+2600054,PE,Abreu e Lima,X,X,X,-,-,-,3
+2600104,PE,Afogados da Ingazeira,X,X,X,X,-,-,4
+2600203,PE,Afrânio,X,X,-,-,-,-,2
+2600302,PE,Agrestina,-,X,-,-,-,-,1
+2600401,PE,Água Preta,X,X,X,X,-,-,4
+2600500,PE,Águas Belas,X,X,X,X,-,-,4
+2600609,PE,Alagoinha,X,-,-,-,-,-,1
+2600708,PE,Aliança,X,X,X,X,-,-,4
+2600807,PE,Altinho,-,X,X,-,-,-,2
+2600906,PE,Amaraji,-,X,-,-,-,-,1
+2601003,PE,Angelim,-,X,-,-,-,-,1
+2601052,PE,Araçoiaba,X,X,-,-,-,-,2
+2601102,PE,Araripina,X,X,X,X,-,-,4
+2601201,PE,Arcoverde,X,X,X,X,-,-,4
+2601409,PE,Barreiros,X,X,X,X,-,-,4
+2601607,PE,Belém do São Francisco,X,X,X,-,-,-,3
+2601706,PE,Belo Jardim,X,X,X,X,-,-,4
+2601805,PE,Betânia,X,X,-,-,-,-,2
+2601904,PE,Bezerros,X,X,X,X,-,-,4
+2602001,PE,Bodocó,-,X,X,X,-,-,3
+2602100,PE,Bom Conselho,X,X,X,X,-,-,4
+2602209,PE,Bom Jardim,X,X,X,X,-,-,4
+2602308,PE,Bonito,X,X,X,X,-,-,4
+2602407,PE,Brejão,X,-,-,-,-,-,1
+2602605,PE,Brejo da Madre de Deus,X,X,X,X,-,-,4
+2602704,PE,Buenos Aires,-,X,-,-,-,-,1
+2602803,PE,Buíque,X,X,X,X,-,-,4
+2602902,PE,Cabo de Santo Agostinho,X,X,X,X,-,-,4
+2603009,PE,Cabrobó,-,X,X,X,-,-,3
+2603108,PE,Cachoeirinha,-,X,-,-,-,-,1
+2603207,PE,Caetés,-,X,-,-,-,-,1
+2603306,PE,Calçado,X,-,-,-,-,-,1
+2603454,PE,Camaragibe,X,X,X,X,-,-,4
+2603504,PE,Camocim de São Félix,-,X,X,-,-,-,2
+2603702,PE,Canhotinho,X,X,X,-,-,-,3
+2603801,PE,Capoeiras,-,X,X,-,-,-,2
+2603900,PE,Carnaíba,-,X,-,-,-,-,1
+2603926,PE,Carnaubeira da Penha,X,X,-,-,-,-,2
+2604007,PE,Carpina,X,X,X,X,-,-,4
+2604106,PE,Caruaru,X,X,X,X,-,-,4
+2604155,PE,Casinhas,-,-,X,-,-,-,1
+2604205,PE,Catende,X,X,X,X,-,-,4
+2604304,PE,Cedro,X,X,-,-,-,-,2
+2604403,PE,Chã de Alegria,-,-,X,-,-,-,1
+2604502,PE,Chã Grande,X,X,-,-,-,-,2
+2604601,PE,Condado,-,X,-,-,-,-,1
+2604700,PE,Correntes,X,X,-,-,-,-,2
+2604908,PE,Cumaru,X,-,X,-,-,-,2
+2605004,PE,Cupira,-,X,-,-,-,-,1
+2605103,PE,Custódia,X,X,X,X,-,-,4
+2605152,PE,Dormentes,X,X,-,-,-,-,2
+2605202,PE,Escada,X,X,X,-,-,-,3
+2605301,PE,Exu,X,X,X,X,-,-,4
+2605400,PE,Feira Nova,-,X,X,-,-,-,2
+2605459,PE,Fernando de Noronha,X,X,X,-,-,-,3
+2605608,PE,Flores,X,X,-,-,-,-,2
+2605707,PE,Floresta,X,X,X,-,-,-,3
+2605806,PE,Frei Miguelinho,X,-,X,-,-,-,2
+2605905,PE,Gameleira,X,X,-,-,-,-,2
+2606002,PE,Garanhuns,X,X,X,X,-,-,4
+2606101,PE,Glória do Goitá,-,X,X,-,-,-,2
+2606200,PE,Goiana,X,X,X,X,-,-,4
+2606309,PE,Granito,-,X,X,-,-,-,2
+2606408,PE,Gravatá,X,X,X,X,-,-,4
+2606507,PE,Iati,X,-,-,-,-,-,1
+2606606,PE,Ibimirim,-,X,-,-,-,-,1
+2606705,PE,Ibirajuba,-,X,-,-,-,-,1
+2606804,PE,Igarassu,X,X,X,X,-,-,4
+2606903,PE,Iguaracy,X,-,-,-,-,-,1
+2607604,PE,Ilha de Itamaracá,X,X,X,-,-,-,3
+2607000,PE,Inajá,-,X,-,-,-,-,1
+2607109,PE,Ingazeira,-,X,-,-,-,-,1
+2607208,PE,Ipojuca,X,X,X,X,-,-,4
+2607307,PE,Ipubi,X,X,-,-,-,-,2
+2607505,PE,Itaíba,X,X,-,-,-,-,2
+2607653,PE,Itambé,X,X,X,X,-,-,4
+2607703,PE,Itapetim,-,X,-,-,-,-,1
+2607752,PE,Itapissuma,X,X,X,-,-,-,3
+2607802,PE,Itaquitinga,-,X,-,-,-,-,1
+2607901,PE,Jaboatão dos Guararapes,X,X,X,X,-,-,4
+2607950,PE,Jaqueira,-,X,-,-,-,-,1
+2608008,PE,Jataúba,X,-,X,-,-,-,2
+2608057,PE,Jatobá,X,-,-,-,-,-,1
+2608107,PE,João Alfredo,X,X,X,X,-,-,4
+2608206,PE,Joaquim Nabuco,-,X,-,-,-,-,1
+2608255,PE,Jucati,X,X,-,-,-,-,2
+2608305,PE,Jupi,X,X,X,-,-,-,3
+2608404,PE,Jurema,X,X,-,-,-,-,2
+2608503,PE,Lagoa de Itaenga,-,X,-,-,-,-,1
+2608453,PE,Lagoa do Carro,-,X,X,-,-,-,2
+2608701,PE,Lagoa dos Gatos,X,-,X,-,-,-,2
+2608750,PE,Lagoa Grande,-,X,-,-,-,-,1
+2608800,PE,Lajedo,X,X,X,X,-,-,4
+2608909,PE,Limoeiro,X,X,X,X,-,-,4
+2609006,PE,Macaparana,-,X,-,-,-,-,1
+2609105,PE,Machados,-,X,-,-,-,-,1
+2609154,PE,Manari,-,X,X,-,-,-,2
+2609303,PE,Mirandiba,-,X,-,-,-,-,1
+2614303,PE,Moreilândia,-,X,-,-,-,-,1
+2609402,PE,Moreno,X,X,X,X,-,-,4
+2609501,PE,Nazaré da Mata,X,X,X,X,-,-,4
+2609600,PE,Olinda,X,X,X,X,-,-,4
+2609709,PE,Orobó,-,X,-,-,-,-,1
+2609808,PE,Orocó,-,X,-,-,-,-,1
+2609907,PE,Ouricuri,X,X,X,X,-,-,4
+2610004,PE,Palmares,X,X,X,X,-,-,4
+2610103,PE,Palmeirina,X,-,-,-,-,-,1
+2610202,PE,Panelas,X,X,X,-,-,-,3
+2610301,PE,Paranatama,X,-,-,-,-,-,1
+2610400,PE,Parnamirim,X,X,-,-,-,-,2
+2610509,PE,Passira,-,X,-,-,-,-,1
+2610608,PE,Paudalho,X,X,X,X,-,-,4
+2610707,PE,Paulista,X,X,X,X,-,-,4
+2610806,PE,Pedra,-,X,X,-,-,-,2
+2610905,PE,Pesqueira,X,X,X,X,-,-,4
+2611002,PE,Petrolândia,-,X,X,X,-,-,3
+2611101,PE,Petrolina,X,X,X,X,-,-,4
+2611200,PE,Poção,-,-,X,-,-,-,1
+2611309,PE,Pombos,X,X,-,-,-,-,2
+2611408,PE,Primavera,-,X,-,-,-,-,1
+2611507,PE,Quipapá,X,X,-,-,-,-,2
+2611533,PE,Quixaba,-,X,-,-,-,-,1
+2611606,PE,Recife,X,X,X,X,-,-,4
+2611705,PE,Riacho das Almas,X,-,-,-,-,-,1
+2611804,PE,Ribeirão,X,X,X,X,-,-,4
+2611903,PE,Rio Formoso,X,X,-,-,-,-,2
+2612000,PE,Sairé,-,X,-,-,-,-,1
+2612109,PE,Salgadinho,-,X,X,-,-,-,2
+2612208,PE,Salgueiro,X,X,X,X,-,-,4
+2612307,PE,Saloá,X,-,-,-,-,-,1
+2612406,PE,Sanharó,-,-,X,-,-,-,1
+2612455,PE,Santa Cruz,X,X,-,-,-,-,2
+2612471,PE,Santa Cruz da Baixa Verde,X,-,-,-,-,-,1
+2612505,PE,Santa Cruz do Capibaribe,X,X,X,X,-,-,4
+2612554,PE,Santa Filomena,-,X,-,-,-,-,1
+2612604,PE,Santa Maria da Boa Vista,X,X,X,X,-,-,4
+2612703,PE,Santa Maria do Cambucá,X,-,-,-,-,-,1
+2613008,PE,São Bento do Una,X,X,X,X,-,-,4
+2613107,PE,São Caitano,-,X,X,X,-,-,3
+2613206,PE,São João,X,X,-,-,-,-,2
+2613305,PE,São Joaquim do Monte,X,X,-,-,-,-,2
+2613404,PE,São José da Coroa Grande,-,X,X,-,-,-,2
+2613503,PE,São José do Belmonte,-,X,X,X,-,-,3
+2613602,PE,São José do Egito,X,X,-,X,-,-,3
+2613701,PE,São Lourenço da Mata,X,X,X,X,-,-,4
+2613800,PE,São Vicente Ferrer,-,X,-,-,-,-,1
+2613909,PE,Serra Talhada,X,X,X,X,-,-,4
+2614006,PE,Serrita,X,X,-,-,-,-,2
+2614105,PE,Sertânia,X,X,X,X,-,-,4
+2614204,PE,Sirinhaém,X,X,X,X,-,-,4
+2614501,PE,Surubim,X,X,X,X,-,-,4
+2614600,PE,Tabira,X,X,X,-,-,-,3
+2614709,PE,Tacaimbó,-,-,X,-,-,-,1
+2614808,PE,Tacaratu,-,X,X,-,-,-,2
+2614857,PE,Tamandaré,X,X,X,-,-,-,3
+2615003,PE,Taquaritinga do Norte,X,X,-,-,-,-,2
+2615102,PE,Terezinha,X,-,X,-,-,-,2
+2615201,PE,Terra Nova,-,-,X,-,-,-,1
+2615300,PE,Timbaúba,-,X,X,X,-,-,3
+2615409,PE,Toritama,X,X,X,X,-,-,4
+2615508,PE,Tracunhaém,-,X,X,-,-,-,2
+2615607,PE,Trindade,X,X,X,-,-,-,3
+2615706,PE,Triunfo,-,X,X,-,-,-,2
+2615805,PE,Tupanatinga,-,X,-,-,-,-,1
+2615904,PE,Tuparetama,-,X,-,-,-,-,1
+2616001,PE,Venturosa,-,X,-,-,-,-,1
+2616100,PE,Verdejante,-,X,-,-,-,-,1
+2616183,PE,Vertente do Lério,-,X,-,-,-,-,1
+2616209,PE,Vertentes,-,X,-,-,-,-,1
+2616308,PE,Vicência,X,X,X,X,-,-,4
+2616407,PE,Vitória de Santo Antão,X,X,X,X,-,-,4
+2616506,PE,Xexéu,-,X,-,-,-,-,1
+2200053,PI,Acauã,X,-,X,-,-,-,2
+2200103,PI,Agricolândia,-,X,-,-,-,-,1
+2200202,PI,Água Branca,-,X,X,-,-,-,2
+2200251,PI,Alagoinha do Piauí,X,-,-,-,-,-,1
+2200277,PI,Alegrete do Piauí,-,-,-,X,-,-,1
+2200301,PI,Alto Longá,X,-,-,-,-,-,1
+2200400,PI,Altos,X,X,X,-,-,-,3
+2200459,PI,Alvorada do Gurguéia,X,-,-,X,-,-,2
+2200509,PI,Amarante,-,X,-,-,-,-,1
+2200707,PI,Anísio de Abreu,X,-,-,-,-,-,1
+2200806,PI,Antônio Almeida,-,-,X,-,-,-,1
+2200905,PI,Aroazes,X,X,-,-,-,-,2
+2200954,PI,Aroeiras do Itaim,X,-,-,X,-,-,2
+2201002,PI,Arraial,-,X,X,-,-,-,2
+2201101,PI,Avelino Lopes,X,-,-,-,-,-,1
+2201176,PI,Barra D'Alcântara,-,X,-,-,-,-,1
+2201200,PI,Barras,X,X,X,X,-,-,4
+2201408,PI,Barro Duro,-,X,-,-,-,-,1
+2201507,PI,Batalha,X,X,-,-,-,-,2
+2201556,PI,Bela Vista do Piauí,-,X,-,-,-,-,1
+2201572,PI,Belém do Piauí,-,-,X,-,-,-,1
+2201606,PI,Beneditinos,-,-,X,-,-,-,1
+2201705,PI,Bertolínia,-,-,X,-,-,-,1
+2201739,PI,Betânia do Piauí,-,-,X,-,-,-,1
+2201770,PI,Boa Hora,X,-,-,-,-,-,1
+2201804,PI,Bocaina,-,-,-,X,-,-,1
+2201903,PI,Bom Jesus,X,-,-,-,-,-,1
+2201919,PI,Bom Princípio do Piauí,X,X,-,-,-,-,2
+2201929,PI,Bonfim do Piauí,X,-,-,-,-,-,1
+2201945,PI,Boqueirão do Piauí,X,-,-,-,-,-,1
+2201960,PI,Brasileira,-,X,-,-,-,-,1
+2201988,PI,Brejo do Piauí,X,-,-,-,-,-,1
+2202000,PI,Buriti dos Lopes,X,X,-,-,-,-,2
+2202059,PI,Cabeceiras do Piauí,X,-,-,-,-,-,1
+2202075,PI,Cajazeiras do Piauí,-,-,-,X,-,-,1
+2202083,PI,Cajueiro da Praia,-,X,-,-,-,-,1
+2202091,PI,Caldeirão Grande do Piauí,-,-,X,-,-,-,1
+2202109,PI,Campinas do Piauí,-,-,X,-,-,-,1
+2202117,PI,Campo Alegre do Fidalgo,-,-,X,-,-,-,1
+2202133,PI,Campo Grande do Piauí,X,-,-,X,-,-,2
+2202174,PI,Campo Largo do Piauí,X,-,-,-,-,-,1
+2202208,PI,Campo Maior,X,X,X,-,-,-,3
+2202251,PI,Canavieira,-,-,X,-,-,-,1
+2202307,PI,Canto do Buriti,X,-,-,-,-,-,1
+2202406,PI,Capitão de Campos,X,X,X,-,-,-,3
+2202455,PI,Capitão Gervásio Oliveira,-,-,X,-,-,-,1
+2202505,PI,Caracol,X,-,-,-,-,-,1
+2202539,PI,Caraúbas do Piauí,X,X,-,-,-,-,2
+2202554,PI,Caridade do Piauí,-,-,X,-,-,-,1
+2202604,PI,Castelo do Piauí,X,X,X,-,-,-,3
+2202653,PI,Caxingó,X,X,-,-,-,-,2
+2202703,PI,Cocal,-,X,-,-,-,-,1
+2202711,PI,Cocal de Telha,X,-,-,X,-,-,2
+2202729,PI,Cocal dos Alves,X,-,-,-,-,-,1
+2202737,PI,Coivaras,-,-,X,-,-,-,1
+2202752,PI,Colônia do Gurguéia,-,-,X,-,-,-,1
+2202802,PI,Conceição do Canindé,-,-,X,-,-,-,1
+2202851,PI,Coronel José Dias,X,-,-,-,-,-,1
+2202901,PI,Corrente,-,X,-,-,-,-,1
+2203008,PI,Cristalândia do Piauí,X,-,-,-,-,-,1
+2203107,PI,Cristino Castro,X,-,-,-,-,-,1
+2203206,PI,Curimatá,X,X,-,-,-,-,2
+2203230,PI,Currais,-,-,-,X,-,-,1
+2203271,PI,Curral Novo do Piauí,-,-,X,-,-,-,1
+2203255,PI,Curralinhos,-,-,X,-,-,-,1
+2203305,PI,Demerval Lobão,-,X,X,-,-,-,2
+2203354,PI,Dirceu Arcoverde,X,-,-,-,-,-,1
+2203453,PI,Dom Inocêncio,X,-,-,-,-,-,1
+2203420,PI,Domingos Mourão,X,-,-,-,-,-,1
+2203503,PI,Elesbão Veloso,X,X,X,-,-,-,3
+2203602,PI,Eliseu Martins,-,-,X,-,-,-,1
+2203701,PI,Esperantina,X,X,X,-,-,-,3
+2203750,PI,Fartura do Piauí,X,-,-,-,-,-,1
+2203800,PI,Flores do Piauí,-,-,X,-,-,-,1
+2203909,PI,Floriano,X,X,X,-,-,-,3
+2204006,PI,Francinópolis,X,X,-,-,-,-,2
+2204105,PI,Francisco Ayres,-,-,X,-,-,-,1
+2204154,PI,Francisco Macedo,-,-,X,-,-,-,1
+2204204,PI,Francisco Santos,X,-,-,-,-,-,1
+2204303,PI,Fronteiras,-,-,X,-,-,-,1
+2204352,PI,Geminiano,-,-,-,X,-,-,1
+2204402,PI,Gilbués,X,X,-,-,-,-,2
+2204501,PI,Guadalupe,X,-,-,-,-,-,1
+2204550,PI,Guaribas,X,-,-,-,-,-,1
+2204808,PI,Ipiranga do Piauí,X,-,-,-,-,-,1
+2204907,PI,Isaías Coelho,-,-,X,-,-,-,1
+2205102,PI,Itaueira,X,X,-,-,-,-,2
+2205151,PI,Jacobina do Piauí,-,-,X,-,-,-,1
+2205250,PI,Jardim do Mulato,-,X,X,-,-,-,2
+2205276,PI,Jatobá do Piauí,X,-,-,X,-,-,2
+2205300,PI,Jerumenha,-,-,X,-,-,-,1
+2205359,PI,João Costa,-,-,X,-,-,-,1
+2205409,PI,Joaquim Pires,X,X,-,-,-,-,2
+2205458,PI,Joca Marques,X,-,-,-,-,-,1
+2205508,PI,José de Freitas,X,-,X,-,-,-,2
+2205516,PI,Juazeiro do Piauí,X,-,-,-,-,-,1
+2205532,PI,Jurema,X,X,-,-,-,-,2
+2205557,PI,Lagoa Alegre,-,-,X,-,-,-,1
+2205573,PI,Lagoa de São Francisco,-,X,-,-,-,-,1
+2205565,PI,Lagoa do Barro do Piauí,-,-,X,-,-,-,1
+2205581,PI,Lagoa do Piauí,-,-,X,X,-,-,2
+2205599,PI,Lagoa do Sítio,-,X,-,-,-,-,1
+2205540,PI,Lagoinha do Piauí,-,-,X,-,-,-,1
+2205607,PI,Landri Sales,-,-,X,-,-,-,1
+2205706,PI,Luís Correia,X,X,X,-,-,-,3
+2205805,PI,Luzilândia,X,X,X,-,-,-,3
+2205854,PI,Madeiro,X,X,-,-,-,-,2
+2205904,PI,Manoel Emídio,X,-,X,-,-,-,2
+2205953,PI,Marcolândia,-,-,X,-,-,-,1
+2206001,PI,Marcos Parente,-,-,X,-,-,-,1
+2206050,PI,Massapê do Piauí,-,X,-,-,-,-,1
+2206100,PI,Matias Olímpio,X,-,-,-,-,-,1
+2206209,PI,Miguel Alves,X,X,X,X,-,-,4
+2206308,PI,Miguel Leão,X,-,X,-,-,-,2
+2206407,PI,Monsenhor Gil,X,X,-,-,-,-,2
+2206506,PI,Monsenhor Hipólito,X,-,-,-,-,-,1
+2206605,PI,Monte Alegre do Piauí,X,-,-,-,-,-,1
+2206654,PI,Morro Cabeça no Tempo,X,-,-,-,-,-,1
+2206670,PI,Morro do Chapéu do Piauí,X,X,-,-,-,-,2
+2206696,PI,Murici dos Portelas,X,-,-,-,-,-,1
+2206704,PI,Nazaré do Piauí,-,-,X,-,-,-,1
+2206720,PI,Nazária,X,X,-,-,-,-,2
+2206753,PI,Nossa Senhora de Nazaré,X,-,-,-,-,-,1
+2206803,PI,Nossa Senhora dos Remédios,X,-,-,-,-,-,1
+2207959,PI,Nova Santa Rita,-,-,X,-,-,-,1
+2206902,PI,Novo Oriente do Piauí,X,X,-,-,-,-,2
+2206951,PI,Novo Santo Antônio,X,-,-,-,-,-,1
+2207009,PI,Oeiras,-,-,X,-,-,-,1
+2207108,PI,Olho D'Água do Piauí,-,X,-,-,-,-,1
+2207207,PI,Padre Marcos,X,-,-,-,-,-,1
+2207306,PI,Paes Landim,-,-,X,-,-,-,1
+2207355,PI,Pajeú do Piauí,X,-,-,-,-,-,1
+2207405,PI,Palmeira do Piauí,X,-,-,X,-,-,2
+2207504,PI,Palmeirais,-,-,X,-,-,-,1
+2207553,PI,Paquetá,-,-,-,X,-,-,1
+2207603,PI,Parnaguá,X,-,-,-,-,-,1
+2207702,PI,Parnaíba,X,X,X,X,-,-,4
+2207751,PI,Passagem Franca do Piauí,-,-,X,X,-,-,2
+2207777,PI,Patos do Piauí,-,-,X,-,-,-,1
+2207793,PI,Pau D'Arco do Piauí,-,-,X,-,-,-,1
+2207850,PI,Pavussu,-,-,X,-,-,-,1
+2207900,PI,Pedro II,X,X,X,X,-,-,4
+2207934,PI,Pedro Laurentino,-,-,X,-,-,-,1
+2208007,PI,Picos,X,X,X,X,-,-,4
+2208106,PI,Pimenteiras,X,-,-,-,-,-,1
+2208304,PI,Piracuruca,X,X,-,-,-,-,2
+2208403,PI,Piripiri,X,X,X,X,-,-,4
+2208502,PI,Porto,X,-,-,-,-,-,1
+2208551,PI,Porto Alegre do Piauí,-,-,X,-,-,-,1
+2208601,PI,Prata do Piauí,X,X,-,-,-,-,2
+2208700,PI,Redenção do Gurguéia,X,-,-,-,-,-,1
+2208809,PI,Regeneração,-,X,X,-,-,-,2
+2208858,PI,Riacho Frio,X,-,-,-,-,-,1
+2208874,PI,Ribeira do Piauí,-,-,X,-,-,-,1
+2208908,PI,Ribeiro Gonçalves,X,X,-,-,-,-,2
+2209005,PI,Rio Grande do Piauí,-,-,X,-,-,-,1
+2209104,PI,Santa Cruz do Piauí,-,-,-,X,-,-,1
+2209153,PI,Santa Cruz dos Milagres,X,X,-,-,-,-,2
+2209203,PI,Santa Filomena,-,X,-,X,-,-,2
+2209302,PI,Santa Luz,X,-,-,-,-,-,1
+2209377,PI,Santa Rosa do Piauí,-,-,-,X,-,-,1
+2209401,PI,Santo Antônio de Lisboa,X,-,-,X,-,-,2
+2209450,PI,Santo Antônio dos Milagres,-,-,X,-,-,-,1
+2209500,PI,Santo Inácio do Piauí,-,-,X,-,-,-,1
+2209559,PI,São Braz do Piauí,X,-,-,-,-,-,1
+2209609,PI,São Félix do Piauí,-,X,-,-,-,-,1
+2209658,PI,São Francisco de Assis do Piauí,-,-,X,-,-,-,1
+2209708,PI,São Francisco do Piauí,-,-,X,-,-,-,1
+2209757,PI,São Gonçalo do Gurguéia,X,-,-,-,-,-,1
+2209807,PI,São Gonçalo do Piauí,-,-,X,-,-,-,1
+2209856,PI,São João da Canabrava,-,-,-,X,-,-,1
+2209906,PI,São João da Serra,X,-,-,-,-,-,1
+2209955,PI,São João da Varjota,X,-,-,X,-,-,2
+2209971,PI,São João do Arraial,X,-,-,-,-,-,1
+2210003,PI,São João do Piauí,-,-,X,-,-,-,1
+2210052,PI,São José do Divino,X,-,-,-,-,-,1
+2210102,PI,São José do Peixe,-,-,X,-,-,-,1
+2210201,PI,São José do Piauí,X,-,-,-,-,-,1
+2210300,PI,São Julião,X,-,-,X,-,-,2
+2210359,PI,São Lourenço do Piauí,X,-,-,-,-,-,1
+2210375,PI,São Luis do Piauí,-,-,-,X,-,-,1
+2210383,PI,São Miguel da Baixa Grande,X,X,-,-,-,-,2
+2210391,PI,São Miguel do Fidalgo,-,-,X,-,-,-,1
+2210409,PI,São Miguel do Tapuio,X,X,-,-,-,-,2
+2210508,PI,São Pedro do Piauí,-,X,-,-,-,-,1
+2210607,PI,São Raimundo Nonato,X,X,X,-,-,-,3
+2210656,PI,Sigefredo Pacheco,X,-,-,-,-,-,1
+2210706,PI,Simões,X,-,-,-,-,-,1
+2210805,PI,Simplício Mendes,X,-,X,-,-,-,2
+2210904,PI,Socorro do Piauí,-,-,X,-,-,-,1
+2210938,PI,Sussuapara,X,-,-,X,-,-,2
+2210953,PI,Tamboril do Piauí,X,-,-,-,-,-,1
+2210979,PI,Tanque do Piauí,-,-,-,X,-,-,1
+2211001,PI,Teresina,X,X,X,X,-,-,4
+2211100,PI,União,-,X,X,-,-,-,2
+2211209,PI,Uruçuí,X,-,X,-,-,-,2
+2211308,PI,Valença do Piauí,-,X,-,-,-,-,1
+2211357,PI,Várzea Branca,X,-,-,-,-,-,1
+2211407,PI,Várzea Grande,-,X,-,-,-,-,1
+2211506,PI,Vera Mendes,-,-,X,-,-,-,1
+3300100,RJ,Angra dos Reis,X,X,X,X,-,-,4
+3300159,RJ,Aperibé,X,X,-,-,-,-,2
+3300209,RJ,Araruama,X,X,X,X,-,X,5
+3300225,RJ,Areal,X,X,X,-,-,-,3
+3300233,RJ,Armação dos Búzios,X,X,X,X,-,-,4
+3300258,RJ,Arraial do Cabo,X,X,X,-,-,-,3
+3300308,RJ,Barra do Piraí,X,X,X,X,-,-,4
+3300407,RJ,Barra Mansa,X,X,X,X,-,-,4
+3300456,RJ,Belford Roxo,X,X,X,X,-,X,5
+3300506,RJ,Bom Jardim,X,X,X,-,-,-,3
+3300605,RJ,Bom Jesus do Itabapoana,X,X,X,-,-,-,3
+3300704,RJ,Cabo Frio,X,X,X,X,-,X,5
+3300803,RJ,Cachoeiras de Macacu,X,X,X,-,-,-,3
+3300902,RJ,Cambuci,X,X,-,-,-,-,2
+3301009,RJ,Campos dos Goytacazes,X,X,X,X,-,-,4
+3301108,RJ,Cantagalo,X,X,-,-,-,-,2
+3300936,RJ,Carapebus,X,X,-,-,-,-,2
+3301157,RJ,Cardoso Moreira,X,X,X,-,-,-,3
+3301207,RJ,Carmo,X,X,X,-,-,-,3
+3301306,RJ,Casimiro de Abreu,X,X,X,X,-,-,4
+3300951,RJ,Comendador Levy Gasparian,X,X,-,-,-,-,2
+3301405,RJ,Conceição de Macabu,X,X,-,-,-,-,2
+3301504,RJ,Cordeiro,X,X,-,-,-,-,2
+3301603,RJ,Duas Barras,X,X,X,-,-,-,3
+3301702,RJ,Duque de Caxias,X,X,X,X,-,X,5
+3301801,RJ,Engenheiro Paulo de Frontin,X,X,-,-,-,-,2
+3301850,RJ,Guapimirim,X,X,X,X,-,-,4
+3301876,RJ,Iguaba Grande,X,X,X,-,-,-,3
+3301900,RJ,Itaboraí,X,X,X,X,-,-,4
+3302007,RJ,Itaguaí,X,X,X,X,-,X,5
+3302056,RJ,Italva,X,X,X,-,-,-,3
+3302106,RJ,Itaocara,X,X,-,-,-,-,2
+3302205,RJ,Itaperuna,X,X,X,-,-,-,3
+3302254,RJ,Itatiaia,X,X,X,-,-,-,3
+3302270,RJ,Japeri,X,X,X,X,-,X,5
+3302304,RJ,Laje do Muriaé,X,X,X,-,-,-,3
+3302403,RJ,Macaé,X,X,X,X,-,X,5
+3302452,RJ,Macuco,X,X,X,-,-,-,3
+3302502,RJ,Magé,X,X,X,X,-,-,4
+3302601,RJ,Mangaratiba,X,X,X,X,-,-,4
+3302700,RJ,Maricá,X,X,X,X,-,X,5
+3302809,RJ,Mendes,X,X,-,-,-,-,2
+3302858,RJ,Mesquita,X,X,X,X,-,X,5
+3302908,RJ,Miguel Pereira,X,X,-,-,-,-,2
+3303005,RJ,Miracema,X,X,X,-,-,-,3
+3303104,RJ,Natividade,X,X,-,-,-,-,2
+3303203,RJ,Nilópolis,X,X,X,X,-,X,5
+3303302,RJ,Niterói,X,X,X,X,-,X,5
+3303401,RJ,Nova Friburgo,X,X,X,X,-,-,4
+3303500,RJ,Nova Iguaçu,X,X,X,X,-,X,5
+3303609,RJ,Paracambi,X,X,X,-,-,-,3
+3303708,RJ,Paraíba do Sul,X,X,X,-,-,-,3
+3303807,RJ,Paraty,X,X,X,-,-,-,3
+3303856,RJ,Paty do Alferes,X,X,X,-,-,-,3
+3303906,RJ,Petrópolis,X,X,X,X,-,-,4
+3303955,RJ,Pinheiral,X,X,X,-,-,-,3
+3304003,RJ,Piraí,X,X,X,-,-,-,3
+3304102,RJ,Porciúncula,X,X,-,-,-,-,2
+3304110,RJ,Porto Real,X,X,X,-,-,-,3
+3304128,RJ,Quatis,X,X,X,-,-,-,3
+3304144,RJ,Queimados,X,X,X,X,-,X,5
+3304151,RJ,Quissamã,X,X,-,-,-,-,2
+3304201,RJ,Resende,X,X,X,X,-,-,4
+3304300,RJ,Rio Bonito,X,X,X,X,-,-,4
+3304409,RJ,Rio Claro,X,X,-,-,-,-,2
+3304508,RJ,Rio das Flores,X,X,-,-,-,-,2
+3304524,RJ,Rio das Ostras,X,X,X,X,-,-,4
+3304557,RJ,Rio de Janeiro,X,X,X,X,-,X,5
+3304607,RJ,Santa Maria Madalena,X,X,-,-,-,-,2
+3304706,RJ,Santo Antônio de Pádua,X,X,X,-,-,-,3
+3304805,RJ,São Fidélis,X,X,X,-,-,-,3
+3304755,RJ,São Francisco de Itabapoana,X,X,X,X,-,-,4
+3304904,RJ,São Gonçalo,X,X,X,X,-,X,5
+3305000,RJ,São João da Barra,X,X,X,X,-,-,4
+3305109,RJ,São João de Meriti,X,X,X,X,-,X,5
+3305133,RJ,São José de Ubá,X,X,-,-,-,-,2
+3305158,RJ,São José do Vale do Rio Preto,X,X,X,-,-,-,3
+3305208,RJ,São Pedro da Aldeia,X,X,X,-,-,-,3
+3305307,RJ,São Sebastião do Alto,X,X,-,-,-,-,2
+3305406,RJ,Sapucaia,X,X,-,-,-,-,2
+3305505,RJ,Saquarema,X,X,X,-,-,-,3
+3305554,RJ,Seropédica,X,X,X,X,-,-,4
+3305604,RJ,Silva Jardim,X,X,X,-,-,-,3
+3305703,RJ,Sumidouro,X,X,X,-,-,-,3
+3305752,RJ,Tanguá,X,X,X,-,-,-,3
+3305802,RJ,Teresópolis,X,X,X,X,-,-,4
+3305901,RJ,Trajano de Moraes,X,X,-,-,-,-,2
+3306008,RJ,Três Rios,X,X,X,X,-,-,4
+3306107,RJ,Valença,X,X,X,-,-,-,3
+3306156,RJ,Varre-Sai,X,X,-,-,-,-,2
+3306206,RJ,Vassouras,X,X,X,X,-,-,4
+3306305,RJ,Volta Redonda,X,X,X,X,-,-,4
+2400109,RN,Acari,-,X,X,-,-,-,2
+2400208,RN,Açu,X,X,X,X,-,-,4
+2400406,RN,Água Nova,-,X,-,-,-,-,1
+2400505,RN,Alexandria,-,X,-,-,-,-,1
+2400604,RN,Almino Afonso,-,X,-,-,-,-,1
+2400703,RN,Alto do Rodrigues,-,X,-,-,-,-,1
+2400802,RN,Angicos,-,X,X,-,-,-,2
+2400901,RN,Antônio Martins,-,X,-,-,-,-,1
+2401008,RN,Apodi,X,X,X,X,-,-,4
+2401107,RN,Areia Branca,X,X,-,-,-,-,2
+2401206,RN,Arês,X,X,-,-,-,-,2
+2401305,RN,Augusto Severo,-,X,-,-,-,-,1
+2401404,RN,Baía Formosa,-,X,X,-,-,-,2
+2401453,RN,Baraúna,-,X,-,-,-,-,1
+2401602,RN,Bento Fernandes,-,X,-,-,-,-,1
+2401800,RN,Brejinho,-,-,X,-,-,-,1
+2401909,RN,Caiçara do Rio do Vento,-,X,-,-,-,-,1
+2402006,RN,Caicó,X,X,X,-,-,-,3
+2402204,RN,Canguaretama,X,X,X,X,-,-,4
+2402303,RN,Caraúbas,X,X,-,-,-,-,2
+2402501,RN,Carnaubais,-,X,-,-,-,-,1
+2402600,RN,Ceará-Mirim,-,X,X,-,-,-,2
+2402709,RN,Cerro Corá,-,X,-,-,-,-,1
+2402808,RN,Coronel Ezequiel,-,X,-,-,-,-,1
+2403103,RN,Currais Novos,-,X,X,-,-,-,2
+2403301,RN,Encanto,X,-,-,-,-,-,1
+2403400,RN,Equador,-,-,-,X,-,-,1
+2403608,RN,Extremoz,X,X,X,-,-,-,3
+2403707,RN,Felipe Guerra,-,X,-,-,-,-,1
+2403756,RN,Fernando Pedroza,-,-,X,-,-,-,1
+2403806,RN,Florânia,-,X,-,-,-,-,1
+2403905,RN,Francisco Dantas,-,X,-,-,-,-,1
+2404002,RN,Frutuoso Gomes,-,X,-,-,-,-,1
+2404101,RN,Galinhos,-,-,X,-,-,-,1
+2404200,RN,Goianinha,X,X,X,-,-,-,3
+2404309,RN,Governador Dix-Sept Rosado,-,X,-,-,-,-,1
+2404408,RN,Grossos,-,X,-,-,-,-,1
+2404507,RN,Guamaré,-,X,-,-,-,-,1
+2404606,RN,Ielmo Marinho,-,-,X,-,-,-,1
+2404705,RN,Ipanguaçu,-,X,-,-,-,-,1
+2404804,RN,Ipueira,-,X,-,-,-,-,1
+2404853,RN,Itajá,-,X,-,-,-,-,1
+2404903,RN,Itaú,-,X,-,-,-,-,1
+2405207,RN,Janduís,-,X,-,-,-,-,1
+2405405,RN,Japi,-,X,-,-,-,-,1
+2405504,RN,Jardim de Angicos,-,-,X,-,-,-,1
+2405603,RN,Jardim de Piranhas,-,X,-,-,-,-,1
+2405702,RN,Jardim do Seridó,-,X,-,-,-,-,1
+2405801,RN,João Câmara,X,X,X,X,-,-,4
+2405900,RN,João Dias,-,X,-,-,-,-,1
+2406007,RN,José da Penha,-,X,-,-,-,-,1
+2406106,RN,Jucurutu,-,X,X,-,-,-,2
+2406304,RN,Lagoa de Pedras,-,X,-,-,-,-,1
+2406502,RN,Lagoa Nova,-,X,-,-,-,-,1
+2406700,RN,Lajes,-,X,-,-,-,-,1
+2406809,RN,Lajes Pintadas,X,-,-,-,-,-,1
+2406908,RN,Lucrécia,-,X,-,-,-,-,1
+2407005,RN,Luís Gomes,-,X,-,-,-,-,1
+2407104,RN,Macaíba,X,X,X,-,-,-,3
+2407203,RN,Macau,-,X,-,-,-,-,1
+2407252,RN,Major Sales,-,X,-,-,-,-,1
+2407302,RN,Marcelino Vieira,X,X,-,-,-,-,2
+2407401,RN,Martins,-,X,X,-,-,-,2
+2407500,RN,Maxaranguape,-,X,X,-,-,-,2
+2407609,RN,Messias Targino,-,X,-,-,-,-,1
+2407708,RN,Montanhas,-,X,-,-,-,-,1
+2407807,RN,Monte Alegre,-,X,-,-,-,-,1
+2408003,RN,Mossoró,X,X,X,X,-,-,4
+2408102,RN,Natal,X,X,X,X,-,-,4
+2408201,RN,Nísia Floresta,X,X,-,-,-,-,2
+2408300,RN,Nova Cruz,-,X,X,X,-,-,3
+2408409,RN,Olho-d'Água do Borges,-,X,-,-,-,-,1
+2408607,RN,Paraná,-,X,-,-,-,-,1
+2408706,RN,Paraú,-,X,-,-,-,-,1
+2408805,RN,Parazinho,-,X,-,-,-,-,1
+2408904,RN,Parelhas,-,X,-,-,-,-,1
+2403251,RN,Parnamirim,X,X,X,X,-,-,4
+2409308,RN,Patu,-,X,-,-,-,-,1
+2409407,RN,Pau dos Ferros,X,X,-,-,-,-,2
+2409605,RN,Pedra Preta,-,-,X,-,-,-,1
+2409803,RN,Pedro Velho,X,-,-,-,-,-,1
+2409902,RN,Pendências,-,X,-,-,-,-,1
+2410009,RN,Pilões,-,X,-,-,-,-,1
+2410108,RN,Poço Branco,-,X,-,-,-,-,1
+2410207,RN,Portalegre,-,X,-,-,-,-,1
+2410405,RN,Pureza,-,-,X,-,-,-,1
+2410504,RN,Rafael Fernandes,-,X,-,-,-,-,1
+2410603,RN,Rafael Godeiro,-,X,-,-,-,-,1
+2410702,RN,Riacho da Cruz,-,X,-,-,-,-,1
+2410801,RN,Riacho de Santana,X,-,-,-,-,-,1
+2410900,RN,Riachuelo,-,X,-,-,-,-,1
+2408953,RN,Rio do Fogo,-,X,X,-,-,-,2
+2411007,RN,Rodolfo Fernandes,-,X,-,-,-,-,1
+2411205,RN,Santa Cruz,X,X,X,-,-,-,3
+2409332,RN,Santa Maria,-,X,-,-,-,-,1
+2411403,RN,Santana do Matos,-,-,X,-,-,-,1
+2411429,RN,Santana do Seridó,-,-,-,X,-,-,1
+2411502,RN,Santo Antônio,-,X,X,-,-,-,2
+2411601,RN,São Bento do Norte,-,-,X,-,-,-,1
+2411700,RN,São Bento do Trairí,X,-,-,-,-,-,1
+2411809,RN,São Fernando,-,X,-,-,-,-,1
+2411908,RN,São Francisco do Oeste,-,X,-,-,-,-,1
+2412005,RN,São Gonçalo do Amarante,X,X,X,-,-,-,3
+2412104,RN,São João do Sabugi,-,X,-,-,-,-,1
+2412203,RN,São José de Mipibu,X,X,X,X,-,-,4
+2412302,RN,São José do Campestre,-,X,X,-,-,-,2
+2412401,RN,São José do Seridó,-,-,-,X,-,-,1
+2412500,RN,São Miguel,X,X,-,-,-,-,2
+2412559,RN,São Miguel do Gostoso,X,X,X,-,-,-,3
+2412609,RN,São Paulo do Potengi,-,X,-,-,-,-,1
+2413102,RN,Senador Elói de Souza,X,-,-,-,-,-,1
+2413201,RN,Senador Georgino Avelino,X,-,X,-,-,-,2
+2413359,RN,Serra do Mel,X,-,-,-,-,-,1
+2413409,RN,Serra Negra do Norte,-,X,-,-,-,-,1
+2413508,RN,Serrinha,-,X,-,-,-,-,1
+2413557,RN,Serrinha dos Pintos,-,X,-,-,-,-,1
+2413607,RN,Severiano Melo,-,X,-,-,-,-,1
+2413706,RN,Sítio Novo,X,-,-,-,-,-,1
+2413805,RN,Taboleiro Grande,-,X,-,-,-,-,1
+2413904,RN,Taipu,-,X,-,-,-,-,1
+2414001,RN,Tangará,-,X,X,-,-,-,2
+2414100,RN,Tenente Ananias,-,X,-,-,-,-,1
+2414159,RN,Tenente Laurentino Cruz,-,X,-,-,-,-,1
+2411056,RN,Tibau,-,X,-,-,-,-,1
+2414209,RN,Tibau do Sul,X,X,X,-,-,-,3
+2414308,RN,Timbaúba dos Batistas,-,X,-,-,-,-,1
+2414407,RN,Touros,-,X,X,X,-,-,3
+2414456,RN,Triunfo Potiguar,-,X,-,-,-,-,1
+2414506,RN,Umarizal,-,X,X,-,-,-,2
+2414605,RN,Upanema,-,X,-,-,-,-,1
+2414704,RN,Várzea,-,X,-,-,-,-,1
+2414753,RN,Venha-Ver,-,X,-,-,-,-,1
+2414902,RN,Viçosa,-,X,-,-,-,-,1
+1400027,RR,Amajari,-,X,X,-,-,-,2
+1400100,RR,Boa Vista,X,X,X,X,-,-,4
+1400159,RR,Bonfim,-,X,-,X,-,-,2
+1400175,RR,Cantá,X,-,-,-,-,-,1
+1400209,RR,Caracaraí,X,-,-,-,-,-,1
+1400233,RR,Caroebe,-,-,X,-,-,-,1
+1400282,RR,Iracema,-,-,X,-,-,-,1
+1400308,RR,Mucajaí,X,X,X,-,-,-,3
+1400407,RR,Normandia,-,X,X,-,-,-,2
+1400456,RR,Pacaraima,X,-,X,X,-,-,3
+1400472,RR,Rorainópolis,X,X,X,-,-,-,3
+1400506,RR,São João da Baliza,-,-,X,-,-,-,1
+1400605,RR,São Luiz,-,-,X,-,-,-,1
+4219408,SC,Witmarsum,-,X,-,-,-,-,1
+4219507,SC,Xanxerê,X,X,X,-,-,-,3
+4219606,SC,Xavantina,-,X,-,-,-,-,1
+4219705,SC,Xaxim,X,X,X,-,-,-,3
+4219853,SC,Zortéa,-,X,X,-,-,-,2
+2800100,SE,Amparo de São Francisco,X,X,-,-,-,-,2
+2800209,SE,Aquidabã,X,X,-,-,-,-,2
+2800308,SE,Aracaju,X,X,X,X,-,-,4
+2800506,SE,Areia Branca,X,X,X,-,-,-,3
+2800605,SE,Barra dos Coqueiros,X,X,-,-,-,-,2
+2800670,SE,Boquim,X,X,-,-,-,-,2
+2800704,SE,Brejo Grande,X,-,-,-,-,-,1
+2801009,SE,Campo do Brito,X,X,-,-,-,-,2
+2801108,SE,Canhoba,X,X,-,-,-,-,2
+2801207,SE,Canindé de São Francisco,X,X,-,-,-,-,2
+2801306,SE,Capela,X,X,X,X,-,-,4
+2801405,SE,Carira,X,-,-,-,-,-,1
+2801504,SE,Carmópolis,X,X,X,-,-,-,3
+2801603,SE,Cedro de São João,X,-,-,-,-,-,1
+2801702,SE,Cristinápolis,X,-,X,-,-,-,2
+2801900,SE,Cumbe,X,-,-,-,-,-,1
+2802106,SE,Estância,X,X,X,-,-,-,3
+2802205,SE,Feira Nova,X,-,-,-,-,-,1
+2802403,SE,Gararu,X,-,-,-,-,-,1
+2802502,SE,General Maynard,X,X,-,-,-,-,2
+2802601,SE,Graccho Cardoso,X,-,-,-,-,-,1
+2802700,SE,Ilha das Flores,X,X,-,-,-,-,2
+2802809,SE,Indiaroba,X,-,-,-,-,-,1
+2802908,SE,Itabaiana,X,X,X,X,-,-,4
+2803005,SE,Itabaianinha,X,X,X,X,-,-,4
+2803104,SE,Itabi,X,-,-,-,-,-,1
+2803203,SE,Itaporanga d'Ajuda,X,X,X,X,-,-,4
+2803302,SE,Japaratuba,X,X,-,-,-,-,2
+2803401,SE,Japoatã,X,-,-,-,-,-,1
+2803500,SE,Lagarto,X,X,X,-,-,-,3
+2803609,SE,Laranjeiras,X,X,-,-,-,-,2
+2803906,SE,Malhador,X,X,-,-,-,-,2
+2804003,SE,Maruim,X,X,-,-,-,-,2
+2804102,SE,Moita Bonita,X,-,-,-,-,-,1
+2804201,SE,Monte Alegre de Sergipe,X,-,-,-,-,-,1
+2804300,SE,Muribeca,X,-,-,-,-,-,1
+2804409,SE,Neópolis,X,X,X,-,-,-,3
+2804458,SE,Nossa Senhora Aparecida,X,-,-,-,-,-,1
+2804508,SE,Nossa Senhora da Glória,X,X,X,X,-,-,4
+2804607,SE,Nossa Senhora das Dores,X,X,-,-,-,-,2
+2804706,SE,Nossa Senhora de Lourdes,X,-,-,-,-,-,1
+2804805,SE,Nossa Senhora do Socorro,X,X,X,X,-,-,4
+2804904,SE,Pacatuba,X,-,-,-,-,-,1
+2805109,SE,Pedrinhas,X,-,-,-,-,-,1
+2805208,SE,Pinhão,X,-,X,-,-,-,2
+2805307,SE,Pirambu,X,X,X,-,-,-,3
+2805406,SE,Poço Redondo,X,-,X,X,-,-,3
+2805505,SE,Poço Verde,X,-,-,-,-,-,1
+2805604,SE,Porto da Folha,X,-,-,-,-,-,1
+2805703,SE,Propriá,X,X,-,-,-,-,2
+2805802,SE,Riachão do Dantas,X,X,-,-,-,-,2
+2805901,SE,Riachuelo,X,-,-,-,-,-,1
+2806008,SE,Ribeirópolis,X,X,-,-,-,-,2
+2806107,SE,Rosário do Catete,X,X,X,-,-,-,3
+2806206,SE,Salgado,X,-,X,-,-,-,2
+2806305,SE,Santa Luzia do Itanhy,X,X,-,-,-,-,2
+2806503,SE,Santa Rosa de Lima,-,X,-,-,-,-,1
+2806404,SE,Santana do São Francisco,-,X,-,-,-,-,1
+2806602,SE,Santo Amaro das Brotas,X,-,X,-,-,-,2
+2806701,SE,São Cristóvão,X,X,X,X,-,-,4
+2806800,SE,São Domingos,X,-,-,-,-,-,1
+2806909,SE,São Francisco,X,-,-,-,-,-,1
+2807105,SE,Simão Dias,X,X,X,X,-,-,4
+2807204,SE,Siriri,X,-,-,-,-,-,1
+2807402,SE,Tobias Barreto,X,X,X,X,-,-,4
+2807501,SE,Tomar do Geru,X,-,-,-,-,-,1
+2807600,SE,Umbaúba,X,X,X,-,-,-,3
