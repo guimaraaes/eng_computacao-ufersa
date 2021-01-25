@@ -1,4 +1,4 @@
-<img src="assets/IMG_20210124_112136.jpg"
+<img src="assets/IMG_20210124_112136.jpg.png"
      alt="grid_eng_compu"  />
 
 # eng_computacao-ufersa
