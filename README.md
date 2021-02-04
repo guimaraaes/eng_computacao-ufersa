@@ -29,3 +29,10 @@ Análise da tecnologia 4G diante da sua evolução e arquitetura com a descriç�
 ### sistema-tolerante-a-falhas-hardware
 
 Sistema com diferentes modelos de sensores de temperadores para simular um sistema de hardware tolerante a falhas. Disponibilizado o arquivo em .pdf com instruções sobre o projeto, o arquivo fritzing com a montagem dos componentes eletrônicos e o código para o microcontrolador Atmega 328p.
+
+
+# :mailbox: para bater um papo ou me encontrar na web
+[![Gmail](https://img.shields.io/badge/-GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sguimaraaes@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sara-guimar%C3%A3es-negreiros-aa2382155/)
+[![GitHub](https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white)](https://guimaraaes.github.io/guimaraaes/)
+[<img height="25" src="https://i.imgur.com/2iVxee6.png">![Lattes](https://img.shields.io/badge/lattes-%23100000?logoColor=blue&style=for-the-badge)](http://lattes.cnpq.br/7082901769077209)
